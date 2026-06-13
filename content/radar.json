@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-06-13T13:39:26.479Z",
+  "collectedAt": "2026-06-13T22:04:05.659Z",
   "freshDays": 10,
   "candidateMentions": {
     "ガラス基板（半導体パッケージ）": 1
@@ -19,23 +19,10 @@
       ]
     },
     {
-      "title": "AI特需でファウンドリ売上高が過去最高、TSMCがシェア72%で独走",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oaTNaNktEUURuRUY2cG50cm9peGxJejcwN2wwQWlmWm4zNExRQnI0Mk9DT1BVMTIyTUhoRUlTV2tWY3Fwam9BcGxHdF9lUFl4Yzl4T1RSR2Q5bVhSNzkw?oc=5",
+      "title": "eMAXIS 日経半導体株インデックス【03311247】：基準価格・投資信託情報",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WcnBkNXkzRS1PdnNIWkxieGVIMWw3YjRKMXZON1NIZlpIQjd1Z09ETlVHUWdXUmthamQ3LWdyakFSd1hMU0Z5cWVuSkF3Z0tGY0Q1Vg?oc=5",
       "date": "2026-06-13",
-      "source": "finance.biggo.jp",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "半導体産業 企業の事業変革 山鹿市の酒造り【熊本の経済1週間】（6/6～12）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MM05SdWxnYm1TOFZPM0o5bzVVMVFHOVcyV0N2YkhPNnEtSjJTUzVleXlyYnpMQ3NSd0JSWV9lb2pnSVBzYjl2emNtQ01icGs?oc=5",
-      "date": "2026-06-13",
-      "source": "熊本日日新聞社",
+      "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
         "supplychain"
@@ -59,10 +46,10 @@
       ]
     },
     {
-      "title": "韓国政府、パワー半導体に5,000億ウォン投入…「第二のメモリー」へ勝負",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01N0NkVExWNmJ3dTBjd2dOZTdmRGJoYUlNU2E1NFJTenJyNGdpcTNOcjdkMTlHbnlUY1l1dnNWVDBQY1Y5N0o2d284dkxGZ0gtdzl6X0VQVVBYSzVqR0xF?oc=5",
+      "title": "韓国GDP成長の3分の2を半導体関連が牽引…1～3月期は前期比1.8％増",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CWlhJM0ZWNzU3emVhQzVidV9pNWl3Tl9qY3NhUFVuVlJHQW9zYUVxOTU1NU1PR0dqX1hnTTNyMUdfdDRvR3JrR1BxSDJ0QzhaWFHSAVRBVV95cUxOSVdDWDVtM084ZVlQMXBBU0VvME4xX2NrY0VfbWloZ2dtbXNFX1hORUxsRTRwVVREc2NOX0hXU3BybFR6dzBtRFJ1RkN0UTVDamRmdV8?oc=5",
       "date": "2026-06-13",
-      "source": "finance.biggo.jp",
+      "source": "AFPBB News",
       "domains": [
         "semicon",
         "supplychain"
@@ -72,17 +59,29 @@
       ]
     },
     {
-      "title": "台湾南部で半導体供給網専用エリアの起工式 頼総統「産業界のニーズ満たす」（中央社フォーカス台湾）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ucHJnUmVaS0VCVlJUU2d2VzJfbjlnNmFqZGdlZ1ZtWXFSUWkxdm1xU3lPNmVIWHlDcGRuNFZsajg1cHk0SnpwT3ZlZnRLR0ZqdmdLZ3VtZ3RoeVROdjRTNEkzMHh2VjhEVlkyMUI1Uk5RVTUxOC1PaDBtbEh3ZUk?oc=5",
+      "title": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U2tSeDgwM2x6NWhvM3FQd3VfcU94dTd0MFRoUFVUZVZGOGNpWDdXQ1FoQk5kSmkxWHpxNkZyWDJoWjVrcVNZNWh4WWlVMUkxMDZHRA?oc=5",
       "date": "2026-06-13",
-      "source": "Yahoo!ニュース",
+      "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
-        "supply-risk"
+        "semi-process"
+      ]
+    },
+    {
+      "title": "AI特需でファウンドリ売上高が過去最高、TSMCがシェア72%で独走",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oaTNaNktEUURuRUY2cG50cm9peGxJejcwN2wwQWlmWm4zNExRQnI0Mk9DT1BVMTIyTUhoRUlTV2tWY3Fwam9BcGxHdF9lUFl4Yzl4T1RSR2Q5bVhSNzkw?oc=5",
+      "date": "2026-06-13",
+      "source": "finance.biggo.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "foundry-model"
       ]
     },
     {
@@ -110,6 +109,19 @@
       ]
     },
     {
+      "title": "レノボ、日本初の水冷AIインフラ検証拠点「Neptuneラボ」を開設──印西のMCDRデータセンターでAI推論向け冷却・電力効率の実証環境を提供",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ndzdyc21fUm9naXhxX0kyZjRpOXpuRzBVQ1ZjWGFfbTBiU1pLTkc5UUJ5SnFQWFJ2eXFDLVpTdTNCZUhzME1HWmJPNVBIaXpLNWR5NndR?oc=5",
+      "date": "2026-06-13",
+      "source": "EnterpriseZine",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
       "title": "経産省、再エネ発電所を現地調査へ PPA案件を調査対象に追加",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjWG9oQjJvanVxVDRUY1djLVpydkdIWU40ODZFWlNCbDlfWkJZR0J0VmUzWndjX1RwaFhfVWlWa2h5RC01R2lSdm5QSmJmQQ?oc=5",
       "date": "2026-06-12",
@@ -133,20 +145,6 @@
       ],
       "terms": [
         "datacenter"
-      ]
-    },
-    {
-      "title": "パナソニック「AIインフラ2兆円戦略」の核心…「蓄電池デフレ」から脱却へ",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeUczV3ZzQWczSEIyOGlBeV9EOGhrdUNqUExqQXMyejNteGp4WmRub0ZhMTFTRFd1SGJBTFc0X2NrZXZlQ2JpR2EtTmc4RlVWSVZlYXBVMk9DRGM?oc=5",
-      "date": "2026-06-12",
-      "source": "ビジネスジャーナル",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib"
       ]
     },
     {
@@ -189,16 +187,17 @@
       ]
     },
     {
-      "title": "データセンターの電力消費26%急増…Gartner「電力確保がAIの覇権を分ける」",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rUDZPNWF1UlA5UGdVMThGLWNGNzQyX0x6SE5Cbkp6STNuSFFybTkwZC1saTN3RXhTUllxczJDN3pPUjJiazYyeFpiNTNpNlcxaEVCak5paVhacVJFTjhj?oc=5",
+      "title": "パナソニック「AIインフラ2兆円戦略」の核心…「蓄電池デフレ」から脱却へ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeUczV3ZzQWczSEIyOGlBeV9EOGhrdUNqUExqQXMyejNteGp4WmRub0ZhMTFTRFd1SGJBTFc0X2NrZXZlQ2JpR2EtTmc4RlVWSVZlYXBVMk9DRGM?oc=5",
       "date": "2026-06-12",
-      "source": "finance.biggo.jp",
+      "source": "ビジネスジャーナル",
       "domains": [
         "datacenter-ai",
-        "power-market"
+        "power-market",
+        "battery-mobility"
       ],
       "terms": [
-        "datacenter"
+        "lib"
       ]
     },
     {
@@ -215,28 +214,6 @@
       ]
     },
     {
-      "title": "「クリティカルマテリアル・ミネラル会合」を実施しました",
-      "link": "https://www.meti.go.jp/press/2026/06/20260611003/20260611003.html",
-      "date": "2026-06-11",
-      "source": "経済産業省",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "supply-risk"
-      ]
-    },
-    {
-      "title": "再生可能エネルギー特別措置法に基づき、納付金を納付しない電気事業者を公表します",
-      "link": "https://www.meti.go.jp/press/2026/06/20260611004/20260611004.html",
-      "date": "2026-06-11",
-      "source": "経済産業省",
-      "domains": [
-        "power-market"
-      ],
-      "terms": []
-    },
-    {
       "title": "タンク用水素バルブの世界市場（2026年～2032年）、市場規模（35MPa、50MPa、70MPa）・分析レポートを発表",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yN1RILUpjZldOYW9abWt1UVlqdGlBbENxWFo4ZFpIV3BBLWtYTEJVNzFCQlp4VHpuZU1qd2hZU2hWdmRKRC1qNEsyMlFVZTA?oc=5",
       "date": "2026-06-11",
@@ -246,18 +223,6 @@
       ],
       "terms": [
         "hydrogen"
-      ]
-    },
-    {
-      "title": "2026年、化粧品からフッ素系素材の見直し進む～PFAS規制が迫る処方変更と代替技術への移行",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTk01QzBfc1c2dEZ6RENTbldvakdtRHV3b3ZSZEdxTGFuSU91NFU0bVl2V1k0THN6Wk1QRjROMWViRzgwTWJ0cW81MEFseUw0NEJzRC1xc2ktUQ?oc=5",
-      "date": "2026-06-10",
-      "source": "週刊粧業オンライン",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
       ]
     },
     {
@@ -294,6 +259,18 @@
       ],
       "terms": [
         "hydrogen"
+      ]
+    },
+    {
+      "title": "プラスチックなのに200℃耐熱／PFAS規制を打破／東レの革新的「圧電ポリマー」が世界を驚愕させた理由 German Vargas Lleras (eEh38xvBbW)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kb1VaZ1d3elhyWFYxS1ZvX0RpWGJzeEJ6dWtPajFfc1d5and2c3RnT1RteWVsdUdvajQ4T0RNMTF5YV9malR4bFdMbWJvdjBTYmVHQmYtNzZiOWc?oc=5",
+      "date": "2026-06-06",
+      "source": "Mshale",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
       ]
     },
     {
