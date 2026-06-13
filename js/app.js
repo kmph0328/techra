@@ -322,7 +322,38 @@
     html += `<div class="news-list-grid">`;
     list.slice(1).forEach(n => { html += newsItemHtml(n, personalized); });
     html += `</div>`;
+
+    // ニュースレーダー(A): 自動収集の外部見出し（キュレーション記事とは明確に区別）
+    html += radarSectionHtml();
+
     $app.innerHTML = html;
+  }
+
+  /* レーダー1件 */
+  function radarItemHtml(r) {
+    const doms = (r.domains || []).map(domainById).filter(Boolean);
+    return `<div class="radar-item">
+      <div class="r-meta"><span>${r.date ? fmtDate(r.date) : ''}</span><span class="byline">${esc(r.source || '')}</span>
+        ${doms.slice(0, 2).map(d => `<span class="chip small" style="background:${d.color}18;color:${d.color}">${d.icon} ${esc(d.name)}</span>`).join('')}</div>
+      <a class="r-title" href="${esc(r.link)}" target="_blank" rel="noopener noreferrer">${esc(r.title)}<span class="ext"> ↗</span></a>
+      <div class="r-terms">${(r.terms || []).map(id => {
+        const t = termById(id);
+        return t ? `<a class="chip ${UM.isRead(id) ? 'ok' : 'outline'} small" href="#/term/${id}">${esc(shortName(t.name))}を学ぶ</a>` : '';
+      }).join('')}</div>
+    </div>`;
+  }
+
+  /* レーダーセクション(データが無ければ空) */
+  function radarSectionHtml() {
+    const radar = window.RADAR || [];
+    if (!radar.length) return '';
+    const meta = window.RADAR_META || {};
+    return `<div class="radar-section">
+      <span class="eyebrow">RADAR ・ 自動収集</span>
+      <h2 class="radar-h">最新ニュース・レーダー</h2>
+      <p class="radar-disclaimer">⚠ 以下は<b>外部メディアの見出し</b>を自動収集したものです（TECHRA編集の解説ではありません）。タイトルは外部サイトへ、関連テーマのチップは学習ページへ移動します。${meta.collectedAt ? `<span class="muted">／収集: ${fmtDate(meta.collectedAt)}</span>` : ''}</p>
+      <div class="radar-list">${radar.map(radarItemHtml).join('')}</div>
+    </div>`;
   }
 
   function renderNewsDetail(id) {
@@ -1336,6 +1367,11 @@
     window.addEventListener('techra:content-updated', (e) => {
       route();
       if (e.detail && e.detail.message) toast(e.detail.message);
+    });
+    // ニュースレーダーが届いたら、ニュース一覧を開いている時だけ再描画
+    window.addEventListener('techra:radar-loaded', () => {
+      const h = location.hash || '';
+      if (h === '#/news' || h.startsWith('#/news?') || h === '#/' || h === '') route();
     });
     route();
   }

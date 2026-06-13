@@ -1,9 +1,10 @@
-# 自律成長パイプライン: 日次でニュースを収集し、コンテンツ差分を配信する
+# 自律成長パイプライン（A＋B）
 #
-# - ANTHROPIC_API_KEY シークレット未設定でも動く(収集のみ → content/inbox.json)
-# - シークレットを設定すると、Claudeが TECHRA形式のニュース解説を起草し
-#   content/update.json / manifest.json を更新 → Pagesへ自動デプロイ → 全訪問者に反映
-name: Update content (autonomous growth)
+# A（無料・常時）: ニュースレーダーを収集し content/radar.json を main へ自動コミット
+#                  → Pagesが再デプロイし、全訪問者のレーダーが更新される
+# B（課金・人が関所）: ANTHROPIC_API_KEY がある時のみ、AIが解説を起草し
+#                  → プルリクエストを作成。人が差分を確認してマージすると公開される
+name: Update content (radar + AI drafts)
 
 on:
   schedule:
@@ -12,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update:
@@ -23,22 +25,47 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install Anthropic SDK
+      - name: Install Anthropic SDK (Bで使用。未使用でも無害)
         run: npm install --no-save --no-package-lock @anthropic-ai/sdk
 
-      - name: Collect news and draft content
+      - name: Collect radar (+ draft if API key)
         run: node tools/update-news.mjs
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Commit and push changes
+      # A: レーダーを main へ自動コミット（外部見出しの収集物。安全）
+      - name: Commit radar to main
         run: |
           git config user.name "techra-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add content/
+          git add content/radar.json
           if git diff --cached --quiet; then
-            echo "変更なし"
+            echo "レーダーに変更なし"
           else
-            git commit -m "chore: 自動コンテンツ更新 $(date -u +%F)"
+            git commit -m "chore: ニュースレーダー更新 $(date -u +%F)"
             git push
+          fi
+
+      # B: AI下書きがあればPRを作成（人がレビュー→マージで公開）
+      - name: Open PR for AI drafts
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -f content/drafts.json ] && [ -s content/drafts.json ]; then
+            branch="auto/news-$(date -u +%Y%m%d-%H%M%S)"
+            git checkout -b "$branch"
+            node tools/promote-drafts.mjs
+            git add content/update.json content/manifest.json
+            if git diff --cached --quiet; then
+              echo "公開差分なし（PRは作成しません）"
+            else
+              git commit -m "draft: AIニュース下書き $(date -u +%F)（要レビュー）"
+              git push -u origin "$branch"
+              gh pr create \
+                --title "📰 AIニュース下書き $(date -u +%F)" \
+                --body "自動収集した見出しから、AI（Claude）がTECHRA形式の解説を起草した**下書き**です。\n\n- 差分（content/update.json）が、マージ後に公開される内容そのものです。\n- 事実と推測の区別・一次情報を確認し、問題なければ **Merge** してください。マージ＝公開です。\n- 不要なら、このPRを閉じれば公開されません。" \
+                --base main --head "$branch"
+            fi
+          else
+            echo "AI下書きなし（APIキー未設定 or 対象なし）→ Aのみで完了"
           fi

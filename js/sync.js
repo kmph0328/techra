@@ -89,9 +89,25 @@ window.ContentSync = (function () {
   /* 起動時同期:
      1) キャッシュ済み差分を即適用(初回描画から反映される)
      2) ホスティング先のmanifestを確認し、新しければupdate.jsonを取得・適用 */
+  /* ニュースレーダー(A): 自動収集の見出し。content/radar.json を読み込む */
+  const RADAR_CACHE = 'techra_radar_cache_v1';
+  function loadRadarFromCache() {
+    try {
+      const raw = localStorage.getItem(RADAR_CACHE);
+      if (raw) { const d = JSON.parse(raw); window.RADAR = d.items || []; window.RADAR_META = { collectedAt: d.collectedAt }; }
+    } catch (e) { /* noop */ }
+  }
+  function setRadar(d) {
+    window.RADAR = (d && d.items) || [];
+    window.RADAR_META = { collectedAt: d && d.collectedAt };
+    try { localStorage.setItem(RADAR_CACHE, JSON.stringify({ collectedAt: window.RADAR_META.collectedAt, items: window.RADAR })); } catch (e) { /* noop */ }
+    window.dispatchEvent(new CustomEvent('techra:radar-loaded'));
+  }
+
   async function start() {
     const cached = readCache();
     if (cached) apply(cached);
+    loadRadarFromCache();   // オフライン/初回描画用に即時反映
 
     if (location.protocol === 'file:') {
       window.CONTENT_META.channel = 'offline';
@@ -114,6 +130,12 @@ window.ContentSync = (function () {
       // 配信ファイルが無い/ネットワーク不可 → 同梱+キャッシュで動作継続
       if (window.CONTENT_META.channel !== 'online') window.CONTENT_META.channel = 'offline';
     }
+
+    // ニュースレーダーの取得(独立。失敗してもサイトは動く)
+    try {
+      const radar = await fetchJson('content/radar.json');
+      if (radar && Array.isArray(radar.items)) setRadar(radar);
+    } catch (e) { /* radar.json未配置でも問題なし */ }
   }
 
   start();

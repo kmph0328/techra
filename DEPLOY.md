@@ -5,22 +5,25 @@
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ GitHub Actions (毎日 06:00 JST)                           │
-│  tools/update-news.mjs                                    │
-│   1. 官公庁・国際機関のRSSを収集 → content/inbox.json      │
-│   2. (APIキー設定時) Claudeが解説を起草                    │
-│      → content/update.json / manifest.json を更新・commit │
+│ GitHub Actions (毎日 06:00 JST)  tools/update-news.mjs    │
+│  A: 経産省＋Googleニュースのトピック別RSSを収集            │
+│     → 見出しを既存用語に自動リンク → content/radar.json    │
+│     → main へ自動コミット（外部見出しの収集物・安全）      │
+│  B: (APIキー設定時) Claudeが解説を起草 → content/drafts.json│
+│     → tools/promote-drafts.mjs で update.json 化           │
+│     → プルリクエスト作成（人がマージして初めて公開）       │
 └──────────────┬───────────────────────────────────────────┘
-               │ push → 自動デプロイ
+               │ push / PRマージ → 自動デプロイ
 ┌──────────────▼───────────────────────────────────────────┐
 │ GitHub Pages (静的ホスティング・無料)                      │
 │  index.html + js/ + content/                              │
 └──────────────┬───────────────────────────────────────────┘
-               │ 訪問時に manifest.json をチェック
+               │ 訪問時に manifest.json / radar.json を取得    │
 ┌──────────────▼───────────────────────────────────────────┐
 │ 訪問者のブラウザ (js/sync.js)                              │
-│  ・新版があれば update.json を取得しその場でマージ・再描画  │
-│  ・差分はlocalStorageにキャッシュ → オフラインでも最新表示  │
+│  ・A: radar.json を取得しニュースレーダーを表示            │
+│  ・B: update.json の新版があればその場でマージ・再描画     │
+│  ・どちらもlocalStorageにキャッシュ → オフラインでも表示   │
 │  ・学習データ(関心推定・既読)は各ブラウザ内のみ ← 多人数対応 │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -51,34 +54,39 @@
 
 ---
 
-## 2. 最新情報の自動反映を有効にする
+## 2. 最新情報の自動反映（A＋B）
 
-同梱の `.github/workflows/update-content.yml` が毎日動きます。動作は2段階です。
+同梱の `.github/workflows/update-content.yml` が毎日動きます。情報源は `tools/sources.json`
+（経産省の公式Atom＋Googleニュースのトピック別検索）で、追加・変更できます。
 
-### レベル1: 収集のみ(設定不要・今すぐ動く)
+### A: ニュースレーダー（無料・常時・設定不要）
 
-- 経産省・環境省・NEDO・IEAなどのRSS(`tools/sources.json` で追加可能)から新着見出しを収集
-- 領域キーワードで分類し、新規テーマ候補の出現スコアを集計
-- 結果を `content/inbox.json` に保存(人間がレビューして `content/update.json` へ反映する運用)
+- 各トピックの新着見出しを収集し、**見出しに出た用語だけを既存の学習ページに自動リンク**
+- 無関係な見出しを除外し、フィードごとに上限を設けて領域を分散
+- 結果を `content/radar.json` として **main へ自動コミット → 自動デプロイ**
+- サイトのニュースページ下部に「最新ニュース・レーダー」として表示（**外部見出しであることを明記**。AIは使わずハルシネーションなし）
 
-### レベル2: AI起草まで自動化(APIキー設定で有効)
+これは設定なしで今すぐ機能します。`ANTHROPIC_API_KEY` は不要です。
+
+### B: AI下書き → プルリクエストで人がレビュー → マージで公開（課金・任意）
 
 1. リポジトリの **Settings → Secrets and variables → Actions** で
-   `ANTHROPIC_API_KEY` を登録([Claude Console](https://console.anthropic.com/)で取得)
-2. 以後、毎日の実行でClaude(claude-opus-4-8)が新着見出しから
-   **TECHRA形式のニュース解説**(前提知識リンク・観点別解説・事実/推測の区別付き)を起草し、
-   `content/update.json` に追記・`manifest.json` のversionを+1してcommit
-3. Pagesが自動再デプロイされ、**全訪問者のサイトが次回アクセス時に自動で最新化**されます
-   (アプリ本体の再配布なし。訪問者には「コンテンツを更新しました」のトーストが出ます)
+   `ANTHROPIC_API_KEY` を登録（[Claude Console](https://console.anthropic.com/) で取得）
+2. 以後、毎日の実行で Claude が収集見出しから **TECHRA形式の解説**（前提知識・観点別・事実/推測の区別付き）を
+   `content/drafts.json` に起草 → `tools/promote-drafts.mjs` で公開形式（`update.json`）に変換 →
+   **プルリクエストを自動作成**
+3. あなたは GitHub上でPRの差分（＝公開される内容そのもの）を確認し、
+   問題なければ **Merge** ＝公開。不要なら **Close** で公開されません
+4. マージで `main` が更新 → 自動デプロイ → 全訪問者のサイトに反映（本体の再配布なし）
 
-> スクリプトはプロンプトで「見出しから確実に言えることだけをfactsに、推測はspecに」
-> 「収録済み用語IDのみリンク可」と制約し、さらにコード側でID検証を行います。
-> それでも公開前レビューをしたい場合は、workflowのcommitステップをPR作成に変えるか、
-> APIキーを設定せずレベル1(inbox.jsonレビュー)運用にしてください。
+> **Bは「全自動公開」ではありません。** 規制・安全に関わる記述をAIが書く以上、
+> 公開前に必ず人が関所になる設計です。スクリプトは「確実に言えることだけfactsに・推測はspecに」
+> 「収録済み用語IDのみリンク可」と制約し、コード側でもID検証します。
+> モデルを変えてコストを下げたい場合は環境変数 `TECHRA_MODEL`（例 `claude-sonnet-4-6`）で指定できます。
 
 ### 手動でコンテンツを更新したい場合
 
-`content/update.json` に差分(用語・ニュース・成長ログ等)を書き、
+`content/update.json` に差分（用語・ニュース・成長ログ等）を書き、
 `content/manifest.json` の `version` を+1してpushするだけです。形式は `js/sync.js` 冒頭のコメント参照。
 
 ---

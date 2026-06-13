@@ -2,3 +2,7 @@ node_modules/
 package.json
 package-lock.json
 .claude/
+
+# 自動更新の作業用中間ファイル（公開はradar.json/update.jsonのみ）
+content/drafts.json
+content/inbox.json
