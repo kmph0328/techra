@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "date": "2026-06-12",
+  "growthLog": [
+    {
+      "date": "2026-06-12",
+      "type": "reorg",
+      "text": "オンライン更新チャネルを導入。ニュース・用語・成長ログをcontent/update.jsonとして配信し、サイト本体の再配布なしに全訪問者へ反映できるようになりました。GitHub Actionsによる日次の自動収集パイプラインにも対応(DEPLOY.md)。",
+      "terms": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TECHRA｜産業技術リテラシーの地図</title>
+<meta name="description" content="用語・技術・産業・規制・市場・ニュースを関係性で学ぶ、自律成長型の産業技術リテラシー学習基盤">
+<!-- 見出しはシステム明朝スタックで描画（外部依存なし・完全オフライン）。Shippori Minchoが端末にあれば優先利用 -->
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header id="site-header">
+  <div class="header-inner">
+    <a class="logo" href="#/" aria-label="TECHRA ホーム">
+      <span class="logo-mark">▲</span>
+      <span class="logo-text">TECHRA<span class="logo-sub">産業技術リテラシーの地図</span></span>
+    </a>
+    <nav id="global-nav" aria-label="メインナビゲーション">
+      <a href="#/" data-nav="home">ホーム</a>
+      <a href="#/news" data-nav="news">ニュース</a>
+      <a href="#/library" data-nav="library">用語</a>
+      <a href="#/map" data-nav="map">知識マップ</a>
+      <a href="#/routes" data-nav="routes">学習ルート</a>
+      <a href="#/review" data-nav="review">復習</a>
+      <a href="#/growth" data-nav="growth">成長ログ</a>
+    </nav>
+    <div class="header-tools">
+      <div class="search-wrap">
+        <input id="global-search" type="search" placeholder="用語・ニュースを検索" autocomplete="off" aria-label="検索">
+        <div id="search-suggest" class="search-suggest hidden"></div>
+      </div>
+      <button id="lens-chip" class="lens-chip" title="あなたの学習レンズ（閲覧行動から自動推定）">
+        <span class="lens-dot"></span><span id="lens-label">標準</span>
+      </button>
+      <button id="nav-toggle" class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+  <div id="lens-menu" class="lens-menu hidden">
+    <p class="lens-menu-title">学習レンズ <span class="muted">— 普段はあなたの行動から自動で調整されます</span></p>
+    <div class="lens-options"></div>
+    <p class="lens-menu-note">レンズは説明の順序・深さ・関連導線を変えます。「自動」に戻すといつでも行動ベースの推定に戻ります。</p>
+  </div>
+</header>
+
+<main id="app" tabindex="-1"></main>
+
+<footer id="site-footer">
+  <div class="footer-inner">
+    <p><strong>TECHRA</strong> は学習目的の解説サイトです。法規・安全・投資に関わる判断は、必ず官公庁・規制機関などの一次情報をご確認ください。</p>
+    <p class="muted">学習データはお使いのブラウザ内（localStorage）にのみ保存され、外部送信されません。 <a href="#/growth">成長ログ・データ管理</a></p>
+  </div>
+</footer>
+
+<div id="term-tooltip" class="term-tooltip hidden" role="tooltip"></div>
+<div id="toast" class="toast hidden"></div>
+
+<script src="js/data/meta.js"></script>
+<script src="js/data/domains.js"></script>
+<script src="js/data/terms-a.js"></script>
+<script src="js/data/terms-b.js"></script>
+<script src="js/data/terms-c.js"></script>
+<script src="js/data/terms-d.js"></script>
+<script src="js/data/terms-e.js"></script>
+<script src="js/data/comparisons.js"></script>
+<script src="js/data/news.js"></script>
+<script src="js/data/growth.js"></script>
+<script src="js/sync.js"></script>
+<script src="js/usermodel.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/diagram.js"></script>
+<script src="js/graph.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

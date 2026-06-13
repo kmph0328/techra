@@ -1,0 +1,33 @@
+{
+  "note": "自動コンテンツ更新の情報源定義。feedsにRSS/AtomのURLを追加すると収集対象になる。",
+  "freshDays": 7,
+  "maxDraftsPerRun": 3,
+  "feeds": [
+    { "name": "経済産業省 ニュースリリース", "url": "https://www.meti.go.jp/ml_index_release_atom.xml", "domains": ["energy-gx", "semicon", "supplychain", "power-market"] },
+    { "name": "環境省 報道発表", "url": "https://www.env.go.jp/press/index.rss", "domains": ["env-chem", "energy-gx"] },
+    { "name": "NEDO ニュースリリース", "url": "https://www.nedo.go.jp/rss/nedonews.rdf", "domains": ["energy-gx", "battery-mobility", "semicon"] },
+    { "name": "IEA News", "url": "https://www.iea.org/api/rss/news.xml", "domains": ["energy-gx", "datacenter-ai", "power-market"] }
+  ],
+  "domainKeywords": {
+    "env-chem": ["VOC", "PFAS", "化学物質", "排出", "大気汚染", "水質", "REACH", "SDS"],
+    "semicon": ["半導体", "ファウンドリ", "EUV", "ウエハ", "TSMC", "Rapidus", "前工程", "後工程", "パッケージ"],
+    "energy-gx": ["水素", "アンモニア", "CCS", "CCUS", "脱炭素", "GX", "カーボン", "Scope"],
+    "power-market": ["再エネ", "PPA", "FIP", "FIT", "非化石", "容量市場", "系統", "卸電力"],
+    "thermal-utility": ["ヒートポンプ", "省エネ", "ボイラ", "熱供給", "冷凍"],
+    "battery-mobility": ["蓄電池", "電池", "EV", "全固体", "リチウム", "LFP"],
+    "datacenter-ai": ["データセンター", "AI", "GPU", "液冷", "PUE", "サーバー"],
+    "safety-reg": ["高圧ガス", "保安", "防爆", "労働安全", "事故"],
+    "construction-city": ["ZEB", "省エネ基準", "建築物", "BELS"],
+    "supplychain": ["輸出規制", "経済安全保障", "サプライチェーン", "補助金", "地政学"]
+  },
+  "candidateKeywords": {
+    "ペロブスカイト太陽電池": ["ペロブスカイト"],
+    "SAF（持続可能な航空燃料）": ["SAF", "持続可能な航空燃料"],
+    "SMR（小型モジュール炉）": ["SMR", "小型モジュール炉", "小型炉"],
+    "ガラス基板（半導体パッケージ）": ["ガラス基板", "ガラスコア"],
+    "バーチャルパワープラント（VPP）・DR": ["VPP", "デマンドレスポンス", "バーチャルパワープラント"],
+    "データセンターの排熱利用": ["排熱利用", "排熱回収", "地域熱供給"],
+    "CBAM（炭素国境調整）": ["CBAM", "国境調整", "炭素国境"],
+    "核融合": ["核融合", "フュージョン"]
+  }
+}
