@@ -572,13 +572,24 @@
     }
 
     // 音声解説
+    const curEngine = (window.AudioGuide && AudioGuide.getEngine) ? AudioGuide.getEngine() : 'browser';
     html += `<div class="audio-box" id="audio-box">
       <span class="a-icon">🎧</span>
-      <div class="a-info"><div class="a-title">3分音声解説</div><div class="a-sub">全体像 → 要点3つ → よくある誤解 → 復習。耳だけで概要がつかめます。</div>
-      <div class="audio-progress"><span id="audio-bar"></span></div></div>
+      <div class="a-info">
+        <div class="a-title">3分音声解説</div>
+        <div class="a-sub" id="audio-sub">全体像 → 要点3つ → よくある誤解 → 復習。耳だけで概要がつかめます。</div>
+        <div class="audio-progress"><span id="audio-bar"></span></div>
+        <div class="voice-pick">
+          <span class="vp-label">声</span>
+          <button class="voice-opt ${curEngine === 'browser' ? 'active' : ''}" data-voice="browser">標準</button>
+          <button class="voice-opt ${curEngine === 'zunda' ? 'active' : ''}" data-voice="zunda">ずんだもん</button>
+          <span class="voice-credit ${curEngine === 'zunda' ? '' : 'hidden'}" id="voice-credit">VOICEVOX:ずんだもん</span>
+        </div>
+      </div>
       <button class="audio-btn" id="audio-play" title="再生">▶</button>
       <button class="audio-btn secondary" id="audio-stop" title="停止">■</button>
-    </div>`;
+    </div>
+    <div class="audio-transcript hidden" id="audio-transcript"></div>`;
 
     // 要点
     html += `<div class="key-points"><span class="section-label">まず押さえる3点</span><ol>${(t.keyPoints || []).map(k => `<li>${rich(k).replace(/^<p>|<\/p>$/g, '')}</li>`).join('')}</ol></div>`;
@@ -731,44 +742,85 @@
   }
 
   function wireAudio(t) {
+    const box = document.getElementById('audio-box');
+    if (!box) return;
     const playBtn = document.getElementById('audio-play');
     const stopBtn = document.getElementById('audio-stop');
     const bar = document.getElementById('audio-bar');
-    if (!playBtn) return;
-    if (!AudioGuide.state().supported) {
-      document.getElementById('audio-box').innerHTML = '<span class="a-icon">🎧</span><div class="a-info"><div class="a-title">音声解説</div><div class="a-sub">お使いのブラウザは音声合成に対応していません。</div></div>';
-      return;
-    }
+    const sub = document.getElementById('audio-sub');
+    const credit = document.getElementById('voice-credit');
+    const transcript = document.getElementById('audio-transcript');
     let progressTimer = null;
-    const approxSec = Math.max(60, AudioGuide.buildScript(t).length / 5.2); // ざっくり読了時間
 
-    playBtn.addEventListener('click', () => {
+    // 字幕(一文ごと表示＋読み上げ同期ハイライト)
+    function renderTranscript() {
+      if (!transcript) return;
+      const lines = AudioGuide.scriptSentences(t);
+      transcript.innerHTML = `<div class="ts-head">📝 読み上げテキスト（再生に合わせてハイライト）</div>` +
+        lines.map((s, i) => `<p class="ts-line" data-i="${i}">${esc(s)}</p>`).join('');
+      transcript.classList.remove('hidden');
+    }
+    function highlight(i) {
+      if (!transcript) return;
+      transcript.querySelectorAll('.ts-line').forEach(p => p.classList.toggle('current', +p.dataset.i === i));
+      const cur = transcript.querySelector('.ts-line.current');
+      if (cur) cur.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }
+    function clearTranscript() {
+      if (transcript) { transcript.innerHTML = ''; transcript.classList.add('hidden'); }
+    }
+    AudioGuide.onSentence = (ev) => { if (ev && ev.index >= 0) highlight(ev.index); };
+
+    const ZUNDA_SUB = 'ずんだもんが「のだ口調」で読み上げ（VOICEVOX起動＋ローカルで開いた時のみ）';
+    const STD_SUB = '全体像 → 要点3つ → よくある誤解 → 復習。耳だけで概要がつかめます。';
+    if (AudioGuide.getEngine() === 'zunda' && sub) sub.textContent = ZUNDA_SUB;
+
+    function approxSec() {
+      const s = AudioGuide.getEngine() === 'zunda' ? AudioGuide.buildScriptZunda(t) : AudioGuide.buildScript(t);
+      return Math.max(60, s.length / 5.2);
+    }
+    function startProgress() {
+      let elapsed = 0; clearInterval(progressTimer);
+      const total = approxSec();
+      progressTimer = setInterval(() => {
+        if (!AudioGuide.state().playing) return;
+        elapsed += 1;
+        if (bar) bar.style.width = Math.min(100, elapsed / total * 100) + '%';
+      }, 1000);
+    }
+
+    // 声の切替
+    box.querySelectorAll('.voice-opt').forEach(btn => {
+      btn.addEventListener('click', () => {
+        AudioGuide.stop();
+        playBtn.textContent = '▶'; if (bar) bar.style.width = '0%'; clearInterval(progressTimer);
+        AudioGuide.setEngine(btn.dataset.voice);
+        box.querySelectorAll('.voice-opt').forEach(b => b.classList.toggle('active', b === btn));
+        if (credit) credit.classList.toggle('hidden', btn.dataset.voice !== 'zunda');
+        if (sub) sub.textContent = btn.dataset.voice === 'zunda' ? ZUNDA_SUB : STD_SUB;
+        clearTranscript();   // 台本がエンジンで変わるためクリア
+      });
+    });
+
+    playBtn.addEventListener('click', async () => {
       const st = AudioGuide.state();
-      if (st.playing && st.currentId === t.id) {
-        AudioGuide.pause();
+      if (st.playing && st.currentId === t.id) { AudioGuide.pause(); playBtn.textContent = '▶'; return; }
+      playBtn.textContent = '⏸';
+      const res = await AudioGuide.play(t.id);
+      if (res === 'unavailable') {
         playBtn.textContent = '▶';
-      } else {
-        AudioGuide.play(t.id);
-        playBtn.textContent = '⏸';
-        UM.sectionOpened(t.id, ['basic']);
-        let elapsed = 0;
-        clearInterval(progressTimer);
-        progressTimer = setInterval(() => {
-          if (!AudioGuide.state().playing) return;
-          elapsed += 1;
-          if (bar) bar.style.width = Math.min(100, elapsed / approxSec * 100) + '%';
-        }, 1000);
+        toast('VOICEVOXが見つからないのだ…起動して、ローカルで開いたページで試してほしいのだ（公開サイトでは使えません）');
+        return;
       }
+      if (res === 'unsupported') { playBtn.textContent = '▶'; toast('このブラウザは音声合成に対応していません'); return; }
+      UM.sectionOpened(t.id, ['basic']);
+      if (res === 'started') renderTranscript();   // 字幕を表示(一文ごと)
+      startProgress();
     });
     stopBtn.addEventListener('click', () => {
-      AudioGuide.stop();
-      playBtn.textContent = '▶';
-      if (bar) bar.style.width = '0%';
-      clearInterval(progressTimer);
+      AudioGuide.stop(); playBtn.textContent = '▶'; if (bar) bar.style.width = '0%'; clearInterval(progressTimer);
     });
-    AudioGuide.onChange = (st) => {
-      if (!st.playing && playBtn) playBtn.textContent = '▶';
-    };
+    AudioGuide.onChange = (st) => { if (!st.playing && playBtn) playBtn.textContent = '▶'; };
   }
 
   function compTableHtml(c) {

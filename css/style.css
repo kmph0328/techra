@@ -393,6 +393,24 @@ table.comp tbody th { background: var(--surface-2); white-space: nowrap; font-si
 .audio-btn.secondary { width: 34px; height: 34px; background: rgba(255,255,255,.18); font-size: 12px; }
 .audio-progress { height: 4px; border-radius: 2px; background: rgba(255,255,255,.22); margin-top: 8px; overflow: hidden; }
 .audio-progress > span { display: block; height: 100%; width: 0; background: var(--accent); transition: width .5s linear; }
+.voice-pick { display: flex; align-items: center; gap: 6px; margin-top: 9px; flex-wrap: wrap; }
+.voice-pick .vp-label { font-size: 11px; opacity: .8; }
+.voice-opt {
+  font-size: 11.5px; padding: 3px 11px; border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.35); background: rgba(255,255,255,.1); color: #fff;
+}
+.voice-opt.active { background: var(--accent); border-color: var(--accent); }
+.voice-credit { font-size: 10.5px; opacity: .72; margin-left: 2px; }
+
+/* 読み上げ字幕（一文ごと表示＋再生同期ハイライト） */
+.audio-transcript {
+  background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--accent);
+  border-radius: var(--radius-s); padding: 12px 16px; margin: -6px 0 16px;
+  max-height: 260px; overflow-y: auto;
+}
+.audio-transcript .ts-head { font-size: 11.5px; font-weight: 700; color: var(--muted); margin-bottom: 8px; }
+.audio-transcript .ts-line { margin: 5px 0; font-size: 14px; color: var(--ink-2); line-height: 1.75; padding: 2px 8px; border-radius: 6px; transition: background .15s, color .15s; }
+.audio-transcript .ts-line.current { color: var(--ink); font-weight: 700; background: var(--accent-soft); }
 
 /* aside blocks */
 aside .card { padding: 16px 18px; }
