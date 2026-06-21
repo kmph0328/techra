@@ -1,13 +1,15 @@
 {
-  "collectedAt": "2026-06-20T22:06:21.811Z",
+  "collectedAt": "2026-06-21T22:14:45.795Z",
   "freshDays": 10,
-  "candidateMentions": {},
+  "candidateMentions": {
+    "ガラス基板（半導体パッケージ）": 2
+  },
   "items": [
     {
-      "title": "次なる爆騰ルート！ AI半導体相場5合目で仕込む「化学株」特選5 ＜株探トップ特集＞",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41TW5xVGlHaTFpZmpLMnFxTGFubkhXeWVnOXZjVUFfZXBEQ002bV8zZDF2OFRZT0trcEV1R0hZaHFMYTBGRXNNWHBxMzg0OC1HcXBsbldaS19lWG1LeS1lZw?oc=5",
-      "date": "2026-06-20",
-      "source": "株探",
+      "title": "TOTO、半導体部材に800億円投資 次世代「1ナノ台」製造装置視野",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FbWVxU2xLUG13VlhidDdZUW5RT0F5Y29mZzdXd2ZjWkluUGNMYkFsRWdfVVdBZE92c251NU9kckg1ck5CVmlwQU9LekhjMlpCNjdhMFdfQWM3YXZLWTJGMmRHUml5ZkJvZENZdQ?oc=5",
+      "date": "2026-06-21",
+      "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,22 +19,9 @@
       ]
     },
     {
-      "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
-      "date": "2026-06-20",
-      "source": "nomura.co.jp",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U2tSeDgwM2x6NWhvM3FQd3VfcU94dTd0MFRoUFVUZVZGOGNpWDdXQ1FoQk5kSmkxWHpxNkZyWDJoWjVrcVNZNWh4WWlVMUkxMDZHRA?oc=5",
-      "date": "2026-06-20",
+      "title": "eMAXIS 日経半導体株インデックス【03311247】：基準価格・投資信託情報",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WcnBkNXkzRS1PdnNIWkxieGVIMWw3YjRKMXZON1NIZlpIQjd1Z09ETlVHUWdXUmthamQ3LWdyakFSd1hMU0Z5cWVuSkF3Z0tGY0Q1Vg?oc=5",
+      "date": "2026-06-21",
       "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
@@ -43,10 +32,10 @@
       ]
     },
     {
-      "title": "半導体開発加速、ロームと「より良い連携」模索…デンソー社長が株主総会で語ったこと",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WS2VOZFJWTnZ2SkRDMk5TaktXNUhOWHRPekZhNC0xTnNLVFV1YTFEN3JsX1BHMk41NmM4VkFtTHZJUQ?oc=5",
-      "date": "2026-06-20",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "title": "本業の技術を生かす！半導体関連事業が光る企業！日本の半導体“逆転の一手”は？【放送版/円卓コンフィデンシャル】",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kQWd3bkxuOThnbEk3Mzg5WkxGOTdfalY1YkpXTl9SU3NDcjd4QUk0LVYwWGplaWIwcjYzdmh4S2FZUEpIWDlram5LS3FfODUyQWdyZFBES3Eza0tJc1dR?oc=5",
+      "date": "2026-06-21",
+      "source": "テレ東BIZ",
       "domains": [
         "semicon",
         "supplychain"
@@ -56,30 +45,56 @@
       ]
     },
     {
-      "title": "世界トップ10ファウンドリの業績から読み解く半導体市場の構造変化：『ビジネス2.0』の視点",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Md3FWZWh2ZUtzOS1kNFpOcmpudlphNHFNblI3MnpPazIxRUl3SC1QWTZrelI0Sk8wa0hLMDJHeEFBTGZQTjdYU1hfLWNRQkluamZvTEZ0cGgyTEU5RXF2SzRiQ3Faams?oc=5",
-      "date": "2026-06-20",
-      "source": "オルタナティブ・ブログ",
+      "title": "【杉村富生の短期相場観測】 ─AI・半導体＆DC効果に乗る銘柄群！",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Q3RfZHUwTWxLd2ZCdFlWVzVVSExzUG5sNFhHNklPeGpiZ2hLTUt1MFVWOEFINi1rMWU2WTdYYjBRby1aTDk4NnZaVnhvXzhVMUJvSTlsWDRmYUlWbzdYbg?oc=5",
+      "date": "2026-06-21",
+      "source": "株探",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "5月の半導体装置販売、17％増 先端分野好況 SEAJ調べ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNHhBY2FtVGZMMFRqM2M0ZkhvQTlCclVtNkd5OXVnZkhaeFhWV2FRNi1qYkZFbXFsWXJ4YlZUMlM3bW1MbWxQeGVldjlIMXpMaEpJdWZNOGhQN2s?oc=5",
+      "date": "2026-06-21",
+      "source": "日刊工業新聞",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "【大原雄介の半導体業界こぼれ話】 高性能メモリHBM、冷却用“煙突”が必要になる時代に突入",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NM1hkbHJLb1BIeUhPX3B5OTcweUdKQ2VRb0dsSDFuM0JnZnZDYTVCdlpNVnk1THpIZ1hNWnJ2Zm9kSjhvOEpxWFRERUlJNUZ0NVJtd1MyMFROblNyNmZnWGs3VExvUDg1aFBMS2Jsdw?oc=5",
+      "date": "2026-06-21",
+      "source": "PC Watch",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
         "semi-process",
-        "foundry-model"
+        "hbm"
       ]
     },
     {
-      "title": "米国株、見通しにリスク S&P500週次続伸 重要半導体決算で波乱も",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQl9LdnJoekMtVGxoel9taF9jMk9tenAtWHdQeDc1WUVkclluR2F3ZGJRSmJSaGVTV19Na0dhRWFqWE00SFBUOFRxazVrSFNNWGR6YUtmd01STW52RnNzTlN1M3FFY0VUWjk5V0p5SnNCWDlOY1JPR2Jib0RGNUFTb2M0NUduR21fUFdrVTlqVVV0SWhzV1FSam9IZFRvOXBRZDZkN1hFNU83Yi0xU2c?oc=5",
-      "date": "2026-06-20",
-      "source": "ig.com",
+      "title": "波が電力を生む：洋上AIデータセンター「Ocean-3」が陸上の三大制約を外洋で回避する理由",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKRUF0WUtrOWlHUXlRVVhKczRyVk1DTHN1WjB1TGR6aU9udEpiQWRtUmhYZ2YwMnR2cHoxY2VZVGRZLURVZ2xRbFZZMnhpV1RnRzlVSEdpS0VsQUZ3RWpCSUJ1ZVZ5cVlBV2RWNXcwLU9hRnR4Rm1V?oc=5",
+      "date": "2026-06-21",
+      "source": "XenoSpectrum",
       "domains": [
-        "semicon",
-        "supplychain"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "semi-process"
+        "datacenter"
       ]
     },
     {
@@ -99,7 +114,7 @@
     },
     {
       "title": "固体水素貯蔵の世界市場（2026年～2032年）、市場規模（物理吸着式水素貯蔵、化学水素化物式水素貯蔵）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JWUUtYjB0MXdldUU2QWVVZGZFNU9XMVIxOWZfTlRQaHNBS0ZxeXZTWjZqZ19KY1RTNzFvU09NQThTLUo5ZlVfSEVKclBadDQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBvOUlveDF2bjN4VXZJbUFJVFFRd0I2N2ItakxndTdlTlZRVWUzQjdlZ0xoR3oxMDVVWVFXcVlCZ1A4ekdmVDJz?oc=5",
       "date": "2026-06-20",
       "source": "Newscast.jp",
       "domains": [
@@ -107,21 +122,6 @@
       ],
       "terms": [
         "hydrogen"
-      ]
-    },
-    {
-      "title": "【締切10/30】「太陽光発電導入支援助成金」（カーボンニュートラル設備投資助成事業）",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yQW8zQWlSRGpnU1Nsb0pzWUE2RGJZQ2hDci13S1pOTGNnODhRUEJJMUFMQTlCWFVReWQ3QnczNjkyQlBYa3pBbC1ieHc5eEk1MkpRWXJCMkZkTWwyby1rRGZjeloxUjA?oc=5",
-      "date": "2026-06-20",
-      "source": "スタートアップポートヨコハマ",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
       ]
     },
     {
@@ -141,19 +141,31 @@
       ]
     },
     {
-      "title": "AIにお礼は電力無駄？ 国連大が分析 需要増で環境に負荷",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ra2FBbXhPZV9QTmVTVDVWWFB1Z250MWRfQlkyV1RnNHVVZ3ZlOHJxVUJXSHMwZjg4NmFEYnZRSWRYUEJCRGNDZld2Wll6OHhiNGxHSDNRcHF1SmgzaHc?oc=5",
+      "title": "【締切10/30】「太陽光発電導入支援助成金」（カーボンニュートラル設備投資助成事業）",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yQW8zQWlSRGpnU1Nsb0pzWUE2RGJZQ2hDci13S1pOTGNnODhRUEJJMUFMQTlCWFVReWQ3QnczNjkyQlBYa3pBbC1ieHc5eEk1MkpRWXJCMkZkTWwyby1rRGZjeloxUjA?oc=5",
       "date": "2026-06-20",
-      "source": "沖縄タイムス社",
+      "source": "スタートアップポートヨコハマ",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "AIが電力を食い水を飲む時代、データセンターは北極・海底・原発へ向かう",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYU5INkNRcXhMZERRR0xKOVJFU2RUWnFwblQ0aVppaWVuVE8xbnhGTlFfTmpDZXhhaktvaVRNcFhzZlN0RGctLTNRdkRtTmlfTzlzeXRiM1dVc3hUZm03aHVINHhuSUJxRk5CbWl2UWVpNWhP?oc=5",
+      "date": "2026-06-20",
+      "source": "finance.biggo.jp",
       "domains": [
         "datacenter-ai",
         "power-market"
       ],
       "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
+        "datacenter"
       ]
     },
     {
@@ -171,10 +183,39 @@
       ]
     },
     {
-      "title": "中国・東風汽車、水素車が累計9200台超で国内シェア首位に",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1TbVpPbkhfOWFpZ0pPTmsxZkhXMkRZSVZPQVFxMGRwRmtLaXNUOWR6N2NVeHoxQ2ZLRGNJ?oc=5",
+      "title": "AIにお礼は電力無駄？ 国連大が分析 需要増で環境に負荷",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ra2FBbXhPZV9QTmVTVDVWWFB1Z250MWRfQlkyV1RnNHVVZ3ZlOHJxVUJXSHMwZjg4NmFEYnZRSWRYUEJCRGNDZld2Wll6OHhiNGxHSDNRcHF1SmgzaHc?oc=5",
+      "date": "2026-06-20",
+      "source": "沖縄タイムス社",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "～東京港で新たに運航する水素燃料電池船の名付け親になろう！～ 水素燃料電池船の愛称を募集します",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NS1hYR0NyY1hZdmp6UTBYdUNiZUptSllueVFqUktwOTNUSmdFY281eUZMbkhiYk5zODExTmZQLWFmVE5pYnBuejdYOWgtaEVCdEN4WnpIeXdkdlBuNmNZWDhfOTRnZmI5eVE?oc=5",
       "date": "2026-06-19",
-      "source": "36Kr Japan",
+      "source": "PR TIMES",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "高圧プロ水素用チェックバルブの世界市場（2026年～2032年）、市場規模（10 mm、14 mm、20 mm）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LQUtLeE0xTzY1cmpBcEgxTXBFRTU3RzFmb3lTMzFjemxfLVdWOGdWaVo3X3JpTlBXb2xGNzRsOXRGZmRzZ21YS2pLRExSbUU?oc=5",
+      "date": "2026-06-19",
+      "source": "Newscast.jp",
       "domains": [
         "energy-gx"
       ],
@@ -212,45 +253,18 @@
       ]
     },
     {
-      "title": "米国データセンター計画の31%しか着工できない現実：6300億ドルの投資宣言が電力グリッドの壁に阻まれる構造",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVhwdU9VMFlScExEdWRjSzZCWm9LWGYtYmRKd1lqZmRscUo5SU9taVZXaGVmWnItOVc4d20xMWk0X0toZ0FFNnlpcHhQU01CZWxWeW8ySFQydEtlUEtnV0pMQl9SMG9MR2tyYmdRam1uVURCcERMcF9YWDBOcWx6cXhoMGpXcVFwZHVDTQ?oc=5",
-      "date": "2026-06-19",
-      "source": "XenoSpectrum",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "AI電力の終焉か？ 2026年 '水素時代' の到来：米国・台湾の水素関連銘柄ガイド",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2RQT3lkVG5GazFHUW5TS3hDRWdvcml0QUNzdXpubjhTZlVsOC1WazBua2lIUmZMY2pEX0xjcnlJRF82M3F6bDdrSzNQb3FPdHdRU0swTG1zd1RPUDJtWEttRW1qSTJfeVBzU2xyZ19MdVlXZnZxbmdFZGNZdXJGRUtiOFV3RWZsZlI3SmVpeFJkZnNJWGIyMGlFdk9VSkFWS0lvZkZ2dW9fQjM0YXFaR3VscVVMNUsyeVJ2cXVKQ0U4SjJpci1ZUWFyQzRxTldtQnc?oc=5",
-      "date": "2026-06-19",
-      "source": "TradingKey",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "大日本印刷とBIPROGY 企業のカーボンニュートラルの実現を支援する包括的なソリューションの提供を開始",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xLVJ6b0dhYW5IRG5jTzRIZDJ4V3pKbVRRSUYydjdPVDFMeUpGVTVJWXM1c3FiMzc4Wm9iM0p4Mm0zSTl5TVBKRDh1YVJLMlR6RGpZVGxZaDlZdEFwdUJoaDRUb0k3Mnh5Snc?oc=5",
+      "title": "中国は化学物質規制を強化し、米国との麻薬対策協力を拡大する。",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVJlenB4VldiaXpyRlZzNFl2dExGNTJoRElzVVItcXZ4WEpwM1NVTXRfakNJRXltSnhqN0ZEYmprR2tLSDhHbXM1MGVQdEszbkxHanZtQTB4RGtYaGIxYjRHazROZHBjbTVVOFVYNjBZWlRISk5QUzdUbUZSOS1xcXJvU2RzZFJQdHVBMUR0MzZQdVIyMWFpVjU1ay1ZZ3lJeWRBdg?oc=5",
       "date": "2026-06-18",
-      "source": "PR TIMES",
+      "source": "Vietnam.vn",
       "domains": [
-        "energy-gx"
+        "env-chem"
       ],
       "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
@@ -275,6 +289,18 @@
       ],
       "terms": [
         "econ-security"
+      ]
+    },
+    {
+      "title": "2026年最新 EU化学品規制セミナー REACH・CLP規則の基礎とPFAS制限案など最新規制動向 9/15（火）［オンライン］",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HenpRX3N6ZUJyQ0FGejREOEtHdE9GWl9aVWVnZVNBZC1JOXExeDdCWF8tcHR5UjhpNExWeTJsbmpaOVhmbEl1LU1ycU9lRHc5cUxn?oc=5",
+      "date": "2026-06-15",
+      "source": "ドリームニュース",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
       ]
     },
     {
@@ -315,20 +341,6 @@
       ],
       "terms": [
         "heatpump-cop"
-      ]
-    },
-    {
-      "title": "熊本県で建設が進む半導体の新工場の排水 PFASなど規制外物質への対応は？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yR1BwQjNRZmhqbkI2WDlYa3FpakZrTG1tNWNxaXBUcUd4THhvSEZTWDJJM0lVTFUyVUJyNmp2aXhOUXpCcDdYMEJuR09xbzd3M1lrcnZxYjMyQ3NPMEZTcFhZSnJ3NEFHYXdjNnNXcWdyeXVjeG1hcGExSVFkd3M?oc=5",
-      "date": "2026-06-11",
-      "source": "Yahoo!ニュース",
-      "domains": [
-        "env-chem",
-        "semicon"
-      ],
-      "terms": [
-        "semi-process",
-        "pfas"
       ]
     }
   ]
