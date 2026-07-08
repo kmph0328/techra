@@ -1,13 +1,15 @@
 {
-  "collectedAt": "2026-07-07T22:10:39.959Z",
+  "collectedAt": "2026-07-08T22:04:49.041Z",
   "freshDays": 10,
-  "candidateMentions": {},
+  "candidateMentions": {
+    "ガラス基板（半導体パッケージ）": 1
+  },
   "items": [
     {
-      "title": "日経平均は続落、韓国サムスン株安を嫌気 ＡＩ・半導体株安が重し",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0NwUTNSbFhENlRYTlYyVGRGWUlfdHhQTFpTQU1pdDZPQm0wU1dOSzZqWG1NV0lSazRORWRmUmxFMkJxUkk1bFdpWnRzMFZYNi1YY1pYMDZMYy11ZF9iaDc3RmFXSm1oYnBsZFJXeEhhb3pUREhaWm1hc3ZKQWdESQ?oc=5",
-      "date": "2026-07-07",
-      "source": "Reuters",
+      "title": "日経平均株価3日続落 半導体関連株の調整が続く背景 野村證券・岡崎康平",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96cnVsX1RTSnN6ZUdqbWFyWnRWemV6RUx1M2RMakhaZmp5b2FtNTBDbUlONmhYTHM0WS02YlRQQTE5Ui1IRzNzOFFzU256eFZBd0VFNkN1Q2hvQ0YxWG9R?oc=5",
+      "date": "2026-07-08",
+      "source": "nomura.co.jp",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,23 +19,24 @@
       ]
     },
     {
-      "title": "独インフィニオン株が最高値圏 パワー半導体世界首位、新工場稼働に高まる期待",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FRVlfRnNpRzJzR3NUOExZZGs2TjZQRUxlakNxZ28tOFdZUThsYXQwNmw3M2VJZFB4R1pMUlNnZVEzdlJrOG05YzlUQk42MGNkNl9tR3RCQy1xZG5YMFFwc3ZubGNhQmFpMkpiazF6MHdiSUxRSF9hakhpQkhmUQ?oc=5",
-      "date": "2026-07-07",
+      "title": "ラピダス、半導体受託価格「TSMC以下に」 小池淳義社長が方針表明",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NbWJXdng5Skl4V0lqWGpMVGVkci1IQkFQQm42TlBCTkNvekk3WWhLeGVRUXJOdnhJNVljQTNJdTNtQ2ZpZzFsMEs4Y204WmRQYnlSZmFTSURXQ0E0bHVUOGxlaGg3bk5YVUxuRg?oc=5",
+      "date": "2026-07-08",
       "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "semi-process",
+        "foundry-model"
       ]
     },
     {
-      "title": "7日の日本株は下落､AI･半導体関連株の一角が急落",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvVlI1VXQ0Vk1IRzZ6ejRCNll1WkUwZ3hES2dvd3dlWF8yTkFIcW1WMEVjcGNiYXFjaDRtTlpURWhxdGFxSGZXNFp4enJ3RzM1MWMzbmdoUQ?oc=5",
-      "date": "2026-07-07",
-      "source": "四季報オンライン",
+      "title": "韓国半導体株が反発、押し目買いで 供給逼迫続く見通し",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pNmNsNHd2QkdXNC1xU0F5MWh6c1NSd3VoRzhOajRoOVFCMGJldlZhZzl1Rzc4cFB6RGxqN05kdmw1bFJjSVY5UGVHaEJZWVNDN3ZsTDRFMWVncHVLd2hBSUJNd0thQnMwVmlBLXpFX2tCZC1NSjRtdQ?oc=5",
+      "date": "2026-07-08",
+      "source": "ロイター",
       "domains": [
         "semicon",
         "supplychain"
@@ -43,10 +46,24 @@
       ]
     },
     {
-      "title": "NY株反落、130ドル安＝半導体・AI株が急落(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3VXMzF2cGlQTEpnQ2RndngyXzUxcTlBQ2xiMVlxSm9venhzSXRUTlNsQ1Q0OW55eW16X3k1N0NrLTFxQzJpeW91MlNNYWVhVTluMld6Wm8yMGNsV1lfQ25iNVJhSmQ2RU5rM2cyeHNLNjNsaDhlX3BJX0UzcW9CZzVXdko3MEE?oc=5",
-      "date": "2026-07-07",
-      "source": "Yahoo!ファイナンス",
+      "title": "「ＴＳＭＣより少し下の額で」…半導体量産化目指すラピダス社長「価格で負けるわけにはいかない」",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tQzhzWC1YcFZfMTBSQ2xYWkdxc2lzUUZyQ1R1cWVzcTZwLTlyVU40RnFuZDllR1gxeGtxMlloRjZDaWFhc2xsMV9hbVhKVG13NWZBVU0zbTNwX2VfbFlIc1podEo?oc=5",
+      "date": "2026-07-08",
+      "source": "読売新聞",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "英経済誌も注目「最先端半導体で北海道は“次のシリコンバレー”になるか」",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VSkc3dlVGcGFwUENPODFxeEdsX2t6T04taXcydkJuQktCM3phaEhKRG5tRXBUcHF0YU8wT1pERU1xdmlsZkx1X1NHaWlqREpHT2lV?oc=5",
+      "date": "2026-07-08",
+      "source": "クーリエ・ジャポン",
       "domains": [
         "semicon",
         "supplychain"
@@ -56,29 +73,175 @@
       ]
     },
     {
-      "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41SzZzUGF2bzl2VEJEZjIwbVVab1I1X2wxR21JcE5wNnYyTlByT1dCNVBLUmhMb0g5OEZUMlgwWFBnNE1JYlpiVzBSMmZXbDQ3azc4bA?oc=5",
-      "date": "2026-07-07",
-      "source": "ASCII.jp",
+      "title": "最先端半導体価格、ＴＳＭＣ以下に ２ナノ、競争力確保―ラピダス社長",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05OVY3VG9aMEhzMmtaWENYMDgzVHNyTlBXMlZVOWJWZHk4TkNSNEE1TDByU01TdHNaSlM1VTl2dmx5SWdMWWkxZ2RBYlZhb2FHSDZ5ekdwVjZOZG00VFhfTTM4dw?oc=5",
+      "date": "2026-07-08",
+      "source": "時事ドットコム",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "semi-process",
+        "foundry-model"
       ]
     },
     {
-      "title": "米国株式市場＝反落、半導体株に売り ＡＩ相場の持続性に疑念",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1ZWV1dTQklSLVEzazVqVlU2QU94WlJIVVBkVWxRZzBiQkh0cGh4MUZCUUdpTmpDWGFWU09HQkw4MlVOUFZuRXF4NnJJVVdHUHlUcEl6N0lvVV9WbnR1VFE5U3VzTjc1UG94MUVLMm9DSWgyd1JXLXZqNEhGT2VLRQ?oc=5",
-      "date": "2026-07-07",
-      "source": "Reuters",
+      "title": "分散型AIデータセンターの拡大と光通信インフラの未来〜電力制約、オープン化、ソフト主導への変革〜：『ビジネス2.0』の視点",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVXlYQXhpVlV3clhSZzY5SDRxZlpzSnRacXNqMk9DY3lEYnN3ODhlTGJSY3otMF9BV3dvSC1ONF9wUE1BaHlvTGhzajhIVUVlbmxzMjlRV0Z3RlZOdzNQVW1CZDJvandJdDBz?oc=5",
+      "date": "2026-07-08",
+      "source": "オルタナティブ・ブログ",
       "domains": [
-        "semicon",
-        "supplychain"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "semi-process"
+        "datacenter"
+      ]
+    },
+    {
+      "title": "住民脅かすAIデータセンター 水と電力の爆食いで環境負荷増大 全米で規制強まり3ヵ月で75件が中止に",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsOEVKOFA4WVNTMi02aWJRUkpyZFlLcnE5QU5PVHJITW56VHRQcWhTMUozdEdoTy16NnJwMnJmWnVnYU83WHQzQlhDakE5SlBYdmYwYw?oc=5",
+      "date": "2026-07-08",
+      "source": "長周新聞",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "AI・データセンターの省電力化に期待、QSTらが光駆動型磁気メモリ実現に向けた新技術を実証",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZldUODB0NU5MNnBTVGhPT2c3enNMdWRwTkZ1T0hGOUlBUzg2al9MOVJ0TmVVdnVEZldZNFYwYVZVRmZhQXozU01EV0M5Z0dldnFUUDAzbWxUMnA2TU13Q0hkTDVLdzNXQmc?oc=5",
+      "date": "2026-07-08",
+      "source": "PR TIMES",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "サムスン、次世代AIデータセンター用SSD量産開始－エヌビディア採用",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UeW1NeVE3eDhoVXI0WGpxTk1wamhGTDIzSXBROHMwa05fVmVKcF9YbkRDenBXWXpuaFVpWFBHWUc0NHhBQzhDaXI0TmVMWndoVDMyOE1peWx1MWhFZDBvb2NyeF9HSERWSFZsRjBObi1kanJCSVk0?oc=5",
+      "date": "2026-07-08",
+      "source": "Bloomberg.com",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "アマゾン・ウェブ・サービスが今月公開した新たなＡＩデータセンター。消費電力は一〇〇万世帯分に相当する。（インディアナ州）",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNYlpfWElDYjlhZW1jX29tRkpTQk1aSE91aWtDazJkNXpCalk3X1BROHZwQ05zUlNhcXdlU0NEZHZ1aUN2R2p6dEZ4TUJWbFVhV0NKeEZhLWEwWEZhaG1fVUdaaWJnN2FhY0JpbnBtUTkyVFFHRmxEZVhfQ3RGZTdZUXdSSjRJOFdabmdabU5na2NUNDNvd2xNQ2JIYmtUOXo3S0ZWcWJITkc2MGt5N3YtWXdVSnpGRm9wM3g5TWF6RUxMZHZIcUFWVUhVWWlpcnhzdk5rbFJGOHhpaDVLNFBwTDhvbFlpSk85SXg3TFhwV0k0N0duSW9mYUVVeHkxSUtvdml1eDU0ZzRiWmhQSTJsRlpGWEN3dG9xN3c3ZlJHUlc5R1lKU3NRWGo1My1tMnRhN205MS1NSFNZZXU5OGh5RDZRTm1Bd3dJNXdfZ3phMXdPbG90TGNKS3A4eWhsZWgxVnNuMkJhWDN3STFL?oc=5",
+      "date": "2026-07-08",
+      "source": "長周新聞",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "LGエレクトロニクス、108℃・大容量の産業用ヒートポンプ稼働…済州から欧州へ市場拡大",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CZTVFZExHa1A5d3RJOEh1MWd3OV92XzlzcXRUUVJ1VWdiTWRhNG5TSnRhYU9NbFA2WDVEMXdnODFaeGxZUGhLcUpVZk5Xd0tQZV9ULXV3Um5sQWFG?oc=5",
+      "date": "2026-07-08",
+      "source": "亜州日報",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "LG電子、大邱の製紙工場に118度の超高音産業用ヒートポンプを初供給",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9STmNiM3pFbE0taHJrQjRnNlB1eThOekxRc2FEanZEX2VuTEM1dUNfNnQyYnk3Mkh3Mkw2S0ZmTnZudmQyMUdka0RLNnU5SnBJSlFMUmx4aDBERXdyeE56QWZyRENramdLLXdaOFMyYWZ2Rmw4?oc=5",
+      "date": "2026-07-08",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "LG電子、産業現場のカーボンニュートラルを前倒しへ...国内製紙企業に最高温度・容量を高めた産業用ヒートポンプシステムを供給",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MkptMFpwbFBtelVBYVN4MUw0MWpaWlJ5SmVlY0VRVkNvYlA5N2J2dG1EUVRUTUdWNExlSVVZc3ctVi1WakRma1p0QTM2TXdrelJz?oc=5",
+      "date": "2026-07-08",
+      "source": "매일경제",
+      "domains": [
+        "thermal-utility",
+        "construction-city",
+        "energy-gx"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "LG電子、108度・大容量の産業用ヒートポンプ稼働…済州からヨーロッパまで領土拡大",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uSGdaR1lmYXV6Tkw0aGZEeU1UaFRGOWxTT3NPd01qYWx6ZVNQZVpEOVhMLVdTb3BFWTRuaXRKR3dyYms3SXlWbkR4aEYzVW1hbV9OcGUtVnB4Znc?oc=5",
+      "date": "2026-07-08",
+      "source": "jp.ajunews.com",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "LG Electronics、産業用ヒートポンプを世界展開 108℃・最大1040RT機を稼働",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWpPcUtsdTVGUDN0R1ZlYWxtX083am5HTS1WcTNIbk5FbWFhc0JFaHB3N0VHeWFxangtSkp5aG44aVNmMjQwdWVUcUVKcmZWR196NklPSWxjUnBPcmhwVnlsVVhxOVdiQl9jSU5MdGhNREszdnRhak40S3FrSS1SbWQ5cm1BaVJ5Y2RxaHh1dmNIRzQ3Y1lYelg5eG44WHBjT1FpM2FvSTN3VjA?oc=5",
+      "date": "2026-07-08",
+      "source": "디지털투데이",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "「冷暖房だけができると思っていたが」...産業界の“万能選手”ヒートポンプ",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01eFAtMTZyWnFBVU12V2d6QnZxS3V3UTQ4U2pBd2xtT1RLT1BIS1pVTmt5aXZ5dVlpS2Z1N3lkYlhJVVZvTkxyaVdOcmdqWC13WmJn?oc=5",
+      "date": "2026-07-08",
+      "source": "매일경제",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "［新連載］マクドナルド、紙製バッグ切り替え 包装から半導体まで広がるPFAS規制対応",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCejF4R2I4Vk5BM2dEUlFSeURDUGh5d09wYnF0NkYxV1hXRVRiZ2EzZzNPb3JrUlliTXZaVkdwbE5DSDh5RTVzcVhZbS13S3VOUnJFZWFhY3BkVTlRa1otTWFvUFpsU0E?oc=5",
+      "date": "2026-07-07",
+      "source": "日経ビジネス電子版",
+      "domains": [
+        "env-chem",
+        "semicon"
+      ],
+      "terms": [
+        "semi-process",
+        "pfas"
       ]
     },
     {
@@ -91,6 +254,21 @@
       ],
       "terms": [
         "pfas"
+      ]
+    },
+    {
+      "title": "ＰＦＡＳ非含有泡消火薬剤を検討 エネ設備の危険物取り扱いで 消防庁、海外動向を踏まえ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HU0drZ1VoNm9xRHJUT1o1clVIQU0ya19hblYxQkJzQkRLUnppcTNyRVZRaW8yOFduYUhJZ0NKcWM3MFV0bk1WbDRyWTU0M3ZyUG1LRVFDNUhJOU0zRndhekZIeC00SXRfOXNTWmV0WmV2ZHVkQVAwX24zVQ?oc=5",
+      "date": "2026-07-07",
+      "source": "kankyo-news.co.jp",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
@@ -121,6 +299,18 @@
       ]
     },
     {
+      "title": "【国内初！】徳島県発 社会実装に向けた「水素エンジン ハイブリッド車」の協働実証を令和8年7月7日(火)より開始！鳴門公園にて出発式を開催",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MT1kxWldDOWhFQV95OF9ZR3dGS3RSRnlGOE9YU3RES1N3UFZJMTg3VDhGZDExYksxWDNYbHR5T2RtUXY1NlJPUG1yUUMxckRGWGpSaFVuUzcyTlkwaV9HZWtMVU9MZWYyMHc?oc=5",
+      "date": "2026-07-07",
+      "source": "PR TIMES",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
       "title": "水素用低圧遮断ソレノイドバルブの世界市場（2026年～2032年）、市場規模（2方向、3方向）・分析レポートを発表",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnYVMxSVRvS2RjX0NiYlZjN2g5TkdaWU9SOUVSVEZFY1l6emhQeXh3ZFVUZ2FkN0g0MEdoRnhyZ0kzUDlGSWkzWmRIdEIxd0U?oc=5",
       "date": "2026-07-07",
@@ -145,10 +335,10 @@
       ]
     },
     {
-      "title": "『グリーン水素製造と水電解装置市場』の技術、有力企業情報、市場予測・分析を掲載した最新版の調査レポートをIDTechExがリリースしました。",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tTXo4ampWTU1SeFZrQ0FIOGt2ZGlsWTJDaUQyTzhwUVlMbE0xNV81MGUyU01LR0VlNDlOZER6MGFFcmxfRk01R1JpX0lVVlFncGJOeQ?oc=5",
+      "title": "『グリーン水素製造と水電解装置市場』の技術、有力企業情報、市場予測・分析を掲載した最新版の調査レポートをIDTechE",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1heGNkMkJrc3NHaGZyTFZDZ0NhZTIyR2lVSUw0cy1GeU5STDhmQ2lDMVBsS2J0MlR6cFZVQjZKaFpGVEhGcGVadG5nd3Bvalg0TS1pUTdVQkZSV2hINVVQRGxPYTRFbTV1?oc=5",
       "date": "2026-07-07",
-      "source": "ドリームニュース",
+      "source": "ニコニコニュース",
       "domains": [
         "energy-gx"
       ],
@@ -157,58 +347,16 @@
       ]
     },
     {
-      "title": "データセンターとAI需要がけん引、米電力消費は2027年まで増加傾向＝EIA 執筆",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmOUQ2SHloNEN2ekRYU2tEenAwWDVxYkZLakoxdktmYjZIM3NRQ2RLbDRIZ1ZQcE8zdVdkYlRibUFUTDBlNW83TXpsNjZKZ3pxdElZYWJNTGxCakxfeFBFS1I4WWdyQUlIZmRWdWR6WlQ?oc=5",
+      "title": "AIデータセンターの水使用、公表値よりはるかに多い",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54blhRMDVqVzdHekVMYjIxOV93MjV0SlFpVUd0dU82cnc2eE9EUjQyY0lMTmN4Z2lXejZTV2V1VllNNFJJRGpGQk9rYUc?oc=5",
       "date": "2026-07-07",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source": "ダイヤモンド・オンライン",
       "domains": [
         "datacenter-ai",
         "power-market"
       ],
       "terms": [
         "datacenter"
-      ]
-    },
-    {
-      "title": "AI計算能力が「メガワット時代」に突入、試験・検証体系の再構築が迫る",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XOXFDdDRpRnphMlYtVENubnRSU0dwRjJwekJ6Z1BJdlQ2YzREb3VEWGIwck9qSDlRbHh6UUJEekJlRXpYOHFKMExhTm5ZUlNQR3hJd0hzdGZVLVNfQWU2Y0pWNHlSYnJ2N3JBZlZ4Y2Y3SE9Q?oc=5",
-      "date": "2026-07-07",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "AIデータセンター時代の電力品質へ、サンディアが既存インバーター協調制御を検証",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPV25LY1h2QThncW9HNUlfX0ZtelpYVGJNakZXTjBIcUZuRkRpbFZzOWJNaHpaQm5FX1g2Z3N1a0IzRFp1X1dxX213V2hqWmo1OHpKaGY5dG1qN1lPci1jR05hc2s0eDJL?oc=5",
-      "date": "2026-07-07",
-      "source": "XenoSpectrum",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "泓徳能源傘下の星星電力、海盛風力発電とPPA締結 2028年から50億kWh超の洋上風力グリーン電力を供給開始",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TWTZWTHpRUFZ5eTZreV9mLTNjU1htUFdES3A4clpPUkd2WUFNRDJ3T3Z4dTdJdFpEckkyeFBoOWVUcmF6LUhYSTB2Q1kzRDFJR21lWEFrSUhyWEl4M0pYbGRSYWM3NElzeDBQSVZnM3MtY1Jl?oc=5",
-      "date": "2026-07-07",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "ppa"
       ]
     },
     {
@@ -226,21 +374,8 @@
       ]
     },
     {
-      "title": "水源式ヒートポンプ用熱交換器の世界市場2026年、グローバル市場規模（プレートアンドフレーム式、フィン式、シェルアンドチューブ式、同軸式、マイクロチャネル式）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uVGFfSWdpRlpGeFdtcmI3NTUyYmlUQVV2U3Etem1WRTNNNlBLSW1aUHBvaTJsZTd0dEFpY3NnMWVMNmh4SmhGQ2M1aldPUG5RWjFjNA?oc=5",
-      "date": "2026-07-07",
-      "source": "ドリームニュース",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop"
-      ]
-    },
-    {
       "title": "指針値超えるPFAS検出 滋賀の川、規制対象2物質（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0tuVmNMTGdmTTQtdjk2dDkzQlZKQmo5UDQ0NXdqT0hYcDZhclNlTkRYQzg0TV9aWkpRdjBhUjVDUldPbzRBd0NOSVk4LWQyN0pXM0RnZjRpTGwxak5PY2lsVTlta1Z2OWR4NnJpSWpQQlZiUHpRdTV1VWNQcTZyYm5fUG04S0hfYWNabnhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BeTFqYVIzQ0MyWlg4U19pV2FvNWdoT0dGZmZncmt3YV9pVWZuUUFtT2tQYm96dmcwbDJkUDQ0bUd4WGlGTzFtRklKd3FEazlQbmtUTXM3ejRMQVBCalBUMXhlZDJNdzczUnpldFpodmFzZVgxdFNtUVprdkFnUFU?oc=5",
       "date": "2026-07-06",
       "source": "Yahoo!ニュース",
       "domains": [
@@ -248,65 +383,6 @@
       ],
       "terms": [
         "pfas"
-      ]
-    },
-    {
-      "title": "指針値超えるＰＦＡＳ検出 滋賀の川、規制対象２物質",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PX1loUEVkdWFWRHRDelk3ZEl0WS11ZGNGN2cxbkxqeVhraVZjQzFKUW9JaDRTVmZuRWV4NjdTc05RSFhyQzItTVhOZmVIYXg3?oc=5",
-      "date": "2026-07-06",
-      "source": "日本海新聞 NetNihonkai",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
-      "title": "「プロパン・CO2でフッ素系冷媒を代替」...ハンオンシステム、PFAS-Free白書を発刊",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UM2ZpVldTLU9mSWM1NDdsSHplZXVfN1JkOTU3YlNReFV6S3JSbkRUUVJLNUlLNTR0Q1Z1eVdBYmNGZXRwLWIxWDdGOEo5OHNTd1Jv?oc=5",
-      "date": "2026-07-06",
-      "source": "매일경제",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
-      "title": "AIエージェントは通常の生成AIよりも最大136倍エネルギーを消費する",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05YUd3UHZ1bTU1eVJGYmFVXzNITk9nZXJpb2dsZTBTRzFjLTl1d2VBd2RScjBqaEdlSWItVFU1bFR1SEtYckxmbXk2MGp0YldWN2ItOG9zYzhhdm44ZlJIVDdWcw?oc=5",
-      "date": "2026-07-06",
-      "source": "GIGAZINE",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "知っておきたい「光電融合」01 なぜ今か “AIが招く電力危機”対策の切り札に",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVa2c4T1BjZWNXaVNVemhqM3hVNDdoc0VrSUtqWS1iNWtHZGg1VUxPMFZzSk1xSFBOaWs0bHMtWnhJQWh5NWZ4dk9WVlNyN3NRRnRtZURTVGx1UThKckxCaUR6ODNrQkYxV2tFYQ?oc=5",
-      "date": "2026-07-06",
-      "source": "日経BOOKプラス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
       ]
     },
     {
@@ -359,21 +435,6 @@
       ]
     },
     {
-      "title": "工業炉メーカーのメイチューが進めるカーボンニュートラルへの対応。中島社長が語る新製品の開発",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yYVNBSkFXUDZEMGJHN3ExYXJqRnBYNl91Z2Y5M2YwOEluTUdKdEhQRDJvajhzLUpiZ3FnOEYtR1c2cG1Md1F5TUsxMGF4Zw?oc=5",
-      "date": "2026-07-03",
-      "source": "ZUU online",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
       "title": "香港、中国のAI半導体調達の生命線に 1～5月の再輸出が約20兆円、輸入の過半占め過去最高",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VTkJKY25Sb0hBR3RCeE8tUVdaZ080WC1EaXEteVgydTFOQ3NSM3R2RzN2RWpyNGlIUnZYN3gxMnQyNFk0REZweFdLMlhPMEo4U0NUMEFxVFJMZ19SQ1ktcFA2amU4RVM5dTVyZkFpb3dMLVIw?oc=5",
       "date": "2026-07-03",
@@ -390,7 +451,7 @@
       "title": "ＥＵ半導体産業、「暗い未来」に直面 米中リスクで＝報告書",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWZPYzdUaVRKdFhvamdjRzdqMjRDQW9JUExjZWlWR1pRVklVQjc2OGFpV2d0a1cwNUJJaUFIemhMcVY2TGZUMHdWWE1DUFBhTGhJaTNtUEh2M0wtYVlaS29YX1NrRTdwQlBBR2RkUmNOdGVkQkpmN0g0RUQwLVQ3bTljNXdmNlhqd1FKVQ?oc=5",
       "date": "2026-07-02",
-      "source": "Reuters",
+      "source": "ロイター",
       "domains": [
         "supplychain",
         "semicon"
@@ -411,22 +472,6 @@
       "terms": [
         "semi-process",
         "econ-security"
-      ]
-    },
-    {
-      "title": "[単独] 地熱を利用した冷暖房の実証研究団地にサムスン製品が入る",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XeWd2VUgwT1d2TDZ3TmlhMENXYkJaWnd2NW83ZjhNVU5MR2RrY3dnSVNtV1BoU1p4UWRZRlQxOGNfakk2eWVhSmp4XzhTcXlyZHRF?oc=5",
-      "date": "2026-07-01",
-      "source": "매일경제",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop",
-        "zeb",
-        "heat-recovery",
-        "boiler-steam"
       ]
     }
   ]
