@@ -1,41 +1,39 @@
 {
-  "collectedAt": "2026-07-19T21:51:47.560Z",
+  "collectedAt": "2026-07-20T21:59:17.292Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "TSMCという夢・AI人材育成、九州半導体の成長の方程式探る",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMEgyMWFlYUQ0MTVCZkY1enBnekZ1MlVYZFdic21SaWZDYThuZzd2TlNXak80RkdvY3pTVVJDZFZxOWRqYmZsUHBTVnd3NkRuVmtOQU5tRGhUWHZhU2Z3VXQzRmVyc1ZPcXhiZA?oc=5",
-      "date": "2026-07-19",
+      "title": "熊本県立大の黒田忠広理事長「半導体の経済安保、九州で守れ」",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96VV9BQl8xWHlZejVENXdKcjRqTVY1VmFmS0tLeGk2NUxqbHA0LXZwNEpWTU9BUWdtSE02UGtMS3F6ZFBsQlc3bmhXZnhaN0RWWFRyR010RHVQcU4zWEh2S3dfOWNwek03VllrUA?oc=5",
+      "date": "2026-07-20",
       "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
+        "semi-process"
+      ]
+    },
+    {
+      "title": "TSMC元社員起訴―台湾検察＝機密複製、中国へ漏えい目的(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRndrd0RGRXdSU0pDQUw0blZDRkllWUJmeHdSRDlmM0UyQkRmelZYSnhZeUdVOFl3WUh1a19vR1FwbnJiNkdKMEljbEhTektSdVVpaVJOSEdKYThCWS01eUlfcVJWWkZKTEs1d0tBQVl2OThaZGMxU2I3N0ZTNHNJWHRMOHNyN0E?oc=5",
+      "date": "2026-07-20",
+      "source": "Yahoo!ファイナンス",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
         "foundry-model"
       ]
     },
     {
-      "title": "AI半導体株急落の真の勝者 アナリスト「エヌビディアには賭けず、TSMCだけを推奨」",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UY0lobnNmbWFhTFdrSHUyYTV3bnFEejZ2eGZ6TEVhTDB1V080UGNzZDVRYW1uRXpxalFUVW1uYlRMdlNidkVoWEQ0LWNlYmJHTUx6b1pMUjhjNmxxZGFYY2JBeFpYRkx2ZGxsbE9tRlRjMUY4?oc=5",
-      "date": "2026-07-19",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process",
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "崔泰源会長「半導体オールイン」叫ぶも…SK Siltron売却のジレンマに陥るSKグループ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yR0w4WV9ZZGQzLS1GYklTNDRsdUtaM0p6V1ZtTTJOb2RzdTRrWGxueWhEQ29GNlA2TmtKbGp2N1lfejlIWHJVMmFGbUEwRmR0OGNjSUczZnB4VnBWNXpZZzRGa05yVUEyTDFBbHNVNHlDU0hx?oc=5",
-      "date": "2026-07-19",
-      "source": "BigGo ファイナンス",
+      "title": "S&P500反発、半導体株に買い戻し－米イラン和平期待で原油が値を消す",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2JLUjROX1MyZHJaVEZvSV9KQ2oyOUxqV2tjSzZlSkk4YWhrWGRBQlZoNjVkandKVkYzY0JkdXFxOW0wVW14dmlya2dacjBJeHF4YUgyaFI4NHJ5dVZDZVI4SXFZWU4xdWd4LUFjV0lPUUZXR2NiazJhbmRsdDY3dG1Cem1fUFBfaWc?oc=5",
+      "date": "2026-07-20",
+      "source": "Bloomberg.com",
       "domains": [
         "semicon",
         "supplychain"
@@ -45,10 +43,10 @@
       ]
     },
     {
-      "title": "ＳＫグループ会長「メモリ不足による『大混乱』…来年、ＡＩ半導体需要は倍増」 : 経済",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUXBDY25ibXczZFU5ZkJTaldfUUVUWk43dUFBU1BTM3NTVEpRMXluYzFtZGx6ajNWT1FyVkMwaXdCQWZicjd4bS11dlp2akFoeDRDa0F3aVZiTlU?oc=5",
-      "date": "2026-07-19",
-      "source": "ハンギョレ新聞",
+      "title": "本気で｢総合半導体材料｣企業へ進化する中堅化学メーカー",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41RjlBbkpKR2QyUFFQSTF2cTV4VEVxalFmYkpBdW50OEdwZXlFODVOdzh2THJuUnlXVmR6RW9LRTBTNmpzZGljN0lzeE1NcmpCZG9ndWdsOA?oc=5",
+      "date": "2026-07-20",
+      "source": "四季報オンライン",
       "domains": [
         "semicon",
         "supplychain"
@@ -58,10 +56,10 @@
       ]
     },
     {
-      "title": "佐賀・鳥栖市にパワー半導体基板のめっき加工工場 投資額25億円、田口電機工業が第2工場",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BRjJyNTlDSmw1RUpRREE1bnN2WTloSmI3NnJtVmhZN3cxR3ZMWnJONExpUEs1cEd6dWIzby1UYkJHX045dzBMZzZSc1RQZUR6SjhCRmJR?oc=5",
-      "date": "2026-07-19",
-      "source": "西日本新聞me",
+      "title": "ダウ平均は３日続落 ナスダックは小反発 半導体に買い戻し＝米国株概況",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wZFA4N2c4TGd3SHlBTEoySmRnWWdaa0dJT0JMMFRGNHVWTEJSd2x6YjRQNl90ZnA2dnIxRTZNNHRXZEJJTks0STREU1FpUFBFaXc?oc=5",
+      "date": "2026-07-20",
+      "source": "株探",
       "domains": [
         "semicon",
         "supplychain"
@@ -71,9 +69,9 @@
       ]
     },
     {
-      "title": "半導体素材・部品・装置ETF、週間リターン29%…大型株の調整で循環物色に火",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUXVSbC11bkwxemVOT09sNDdBV0NYUmtXUjY3UjZkVk8zYTlJZzE5UWk4Tjd3ZUhqb2ZQZmdYT205VlRlNGxBYlVOcHdTZzl0cGtEcmNHbzJBenFFNG9VOWpDem55azROdUJLdHZiS0FUcENC?oc=5",
-      "date": "2026-07-19",
+      "title": "半導体株が反発、アルファベット・テスラ・インテル決算を控えAI投資の真価問われる局面へ",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uZV9uTmROVUpOc2h2dnZTR1lRUjZwVUJLRGEyX1ZJRVF4OUZ2UmFJUF8yanhjRThGdHVVRnRKSzZNQS1BTTRsd2Z3VERsUXExYndCeVpxZVZ6WHdEQkg3OFVRVFdCSlhMYUxiTmtYaTVIcUxL?oc=5",
+      "date": "2026-07-20",
       "source": "BigGo ファイナンス",
       "domains": [
         "semicon",
@@ -84,16 +82,55 @@
       ]
     },
     {
-      "title": "軽量水素燃料電池の世界市場（2026年～2032年）、市場規模（液体冷却、空冷）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Jb3lmSUF2LTN6QVhWV2lOdEpENVFPZ3BSZXh6aW5OczJrTHZ1NlhBdDVJRjdzM3dzNmpaWDVNS0lkaHZKM1RjR3E1T3NCSU0?oc=5",
-      "date": "2026-07-19",
-      "source": "アットプレス",
+      "title": "カーボンニュートラル実現へ 環境問題に関心のある若者対象に企業見学会 8月開催 岡山県",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mZEdpMmpPZE1tUmt1aDl2RkU5aEhqR21PcVQwOFJpd3JCVl9tUHlaNE5EMkpzdEFIRTNiTmxrb2k0anN6aF9OQTc3d0VTaU1n?oc=5",
+      "date": "2026-07-20",
+      "source": "KSBニュース",
       "domains": [
-        "energy-gx",
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "住友化学、全固体電池の新部材量産 EV向けに製造費抑え安全性向上",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RRmZtM3I1WEY1dGRZbGh3RnhCb1otLTdPaUF1M2xBUUh6dEtJTmNoNEJ3U21CUkdkVk16OGZ4ekd5VjRiWjBlYlRVazl3WHRYVUpOWE1hWHBKbmJlaF8yRzh6Mnc3cnhVMkpFNg?oc=5",
+      "date": "2026-07-20",
+      "source": "日本経済新聞",
+      "domains": [
         "battery-mobility"
       ],
       "terms": [
+        "solid-state"
+      ]
+    },
+    {
+      "title": "水素用ニードルバルブの世界市場（2026年～2032年）、市場規模（高圧ニードルバルブ、中圧ニードルバルブ、低圧ニードルバルブ）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DVmtkRjZ5WWI3XzdYU1J2dDk3YkQ0S2Z0VnFKanNqT3JhMVVQanVlTTlQQXM1RWtqLWNSd1dBQ0s1TWxPZ0Nv?oc=5",
+      "date": "2026-07-19",
+      "source": "Newscast.jp",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
         "hydrogen"
+      ]
+    },
+    {
+      "title": "ニューヨーク州、巨大データセンターの環境許認可を最長1年停止 AI需要急増を受け全米初の措置",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvTFpVeE9IMlJqVEJlUTVoUkpjZmV1Tkdsa29rZXZqRi1GSGpaMFJ6SG1jazYwcmFPR3F1ZXhUNzdNazdFS1gxemo0WGgzdnlkQU95Q2UxWE55VFJMR1ZZNV9ya0daNWtUcjA0N1o1T3ZvYlduYk1VdTh3?oc=5",
+      "date": "2026-07-19",
+      "source": "Ledge.ai",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -113,10 +150,26 @@
       ]
     },
     {
-      "title": "ニューヨーク州、巨大データセンターの環境許認可を最長1年停止 AI需要急増を受け全米初の措置",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvTFpVeE9IMlJqVEJlUTVoUkpjZmV1Tkdsa29rZXZqRi1GSGpaMFJ6SG1jazYwcmFPR3F1ZXhUNzdNazdFS1gxemo0WGgzdnlkQU95Q2UxWE55VFJMR1ZZNV9ya0daNWtUcjA0N1o1T3ZvYlduYk1VdTh3?oc=5",
+      "title": "「最新のAIサーバーを置けない」、NVIDIAの進化に追いつかない日本の法規制",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZBQWVfZldKMENfdzJGNEpjMUFFc1hQZnFFbVRYeE05d1BGd1dERWtIZ1ZOTmNsemtEZy16Y1k4c3cxU1JSdm5pNllpeDd5U1FqR3JRbjl4QXhVS0RrN2tWUXZWb1Z4RmUzT1NnTjBiaVh6RXpLZTJnbXBXLUt0MDVCSXQ?oc=5",
       "date": "2026-07-19",
-      "source": "Ledge.ai",
+      "source": "日経クロステック",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "「10年待ち」解消へ動く電力業界…データセンター送電網増強の裏にある3つの論点",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JbTlneXJxNUpCQURrLWluM2J1ZEVSNTBtMkJ3cmtNUElZU0JUTFQwVlpHRUo5OUhNak9PRXJqMDZoSlNJT0FXaTZyR0c3T0ZjMktYa0NFbHQ1NkZ3RW5ZbDVKbEJMMllPVFNHWWZJY0lrN2s0dHlQTkprRQ?oc=5",
+      "date": "2026-07-19",
+      "source": "au Webポータル",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -148,6 +201,18 @@
       ],
       "terms": [
         "datacenter"
+      ]
+    },
+    {
+      "title": "限定的な日本のPFAS規制、欧米とのギャップに注意",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOekNDUV8zNVNiV3VCQVg1UXE4bENiQ0hSTFVpdnIzc3BJbEF4RnZpZ1RhSXBuc3MtX2dSbTZwZ0F1UjZYZnJUMUlOUjFMR1lidjNMV2w5VXVCRHJVeFQ4R3N0RHJZb2ZxRnVaXzRXS3FiV0xPZTAzNjNpS25LMUVKQWpLSmZyeFV2cnc?oc=5",
+      "date": "2026-07-17",
+      "source": "日経ビジネス電子版",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
       ]
     },
     {
@@ -208,20 +273,8 @@
       ]
     },
     {
-      "title": "ラット組織内水素濃度の定量解析：低濃度水素吸入でも •OH 消去に十分な水素分子供給｜MiZ ほか共同研究",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14MjQ2emszY3pKYlRVeG5LWDNYcnE1Nm9Cbng2ZVlnNWVvYjZWdUI4ZHpqYlN6NGdUNTdOYjM2dEdUVE5aek8wQTNSUTFPU3BkRktjYTc5RVUyMUNPbW1fQklXYUluYWtwOHc?oc=5",
-      "date": "2026-07-17",
-      "source": "PR TIMES",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "イーロン・マスク氏の夢、宇宙データセンターは実現するか？（窪田真之）",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yalhtcHBIZ2locGhuWnpYd01CM0M3YUE4Q1MwOVNTd1o3X19wTDFXTUJKb2wyX2Fjek44T25TT2YwRlRqVXFHNjF1eHRic1MyU2JoNXltWkhyVTFuMUdHQk03SQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xaGdPb2hhTWVqcl9jbUh0ZzJWN3VpbWpRd3plVm0xNTVaY0ZoTzA5TFJBZV9rU18yOFFOd2gyRUlmcVJyV3RmbGZhWjZBX0xDSU12ZTBreG02Zw?oc=5",
       "date": "2026-07-17",
       "source": "トウシル",
       "domains": [
@@ -233,40 +286,8 @@
       ]
     },
     {
-      "title": "KDDI株式会社 様の事例 | CTC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RaFY1NVNBWXpkcG04UnpZeHptaGVPd0VhN2VDREw3T0l0emlkdENIdG1WdmpIa1ZPeGN3alhGSl9YV1lEcGxONGJlRlB1WFNTdzdCMEJ5ejFjdzFKMnc?oc=5",
-      "date": "2026-07-17",
-      "source": "ctc-g.co.jp",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "NVIDIAが提唱「ワット当たり性能」、AI投資の主戦場は電力効率へ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wOVJpbmJGNlVJQ293bDRkZG1BcVJtbEpqZXRCNmRkVHlXeWtTbmZRU0VpblhaY2xRZkFGeEgxdElIelR1dGw2T3Q5TGdoOW9oX2p5OGlmT0xqc1ZhVnUtLXVJX09feFpPc3NLbzJuOTNLN0Nk?oc=5",
-      "date": "2026-07-17",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
       "title": "貿易コンプライアンスソフトウェア市場の成長分析と2035年展望：CAGR12.1％で57億4,000万米ドル市場へ、グローバル貿易規制・関税管理・サプライチェーンコンプライアンス・自動化ソリューションが市場を牽引",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BanVsY2h0RW1mRFp4QktyMExNR0lyR2hSZE9JYzktVlFSUTFmWjlGQzFuV3RVZV9LcVNQUUQ5aHpLY3JxaTBCcXdFZ0g?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Ma2I1VTNOSnFKZzh3YnU4TF91dm5ZcldrNTV3V25pZzZMV0g3T2wxTmFUZ2YzT25NVk1qLUpWUHQyaENoeF9N?oc=5",
       "date": "2026-07-16",
       "source": "Newscast.jp",
       "domains": [
@@ -290,18 +311,6 @@
       ]
     },
     {
-      "title": "限定的な日本のPFAS規制、欧米とのギャップに注意",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BOUFicENZa0V4LUJ3cmVWUmtMUUlhcWVWMWxoRGZncHBsZVZMOFBoQWhCUGRhNXFrSVFkd3lad0t2N3Y2TlJodnFXWjNnZnVYbVNod3drR2JyZXJ2SDVRNTdzVUVxNUU?oc=5",
-      "date": "2026-07-15",
-      "source": "日経ビジネス電子版",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
       "title": "PFAS規制の水質基準厳格化などを求めて全国の市民団体が6万筆の署名を携えて政府要請",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tNVZ2TDYzOGN2OEFwR1Q1eUR1Z1dPT18zYi1LaWNIZVV0QkdOOE9Xcm9PTFhjS0JGQ2ZpYUhNRl9jV0EzcF90cG02ZF9SZw?oc=5",
       "date": "2026-07-15",
@@ -311,21 +320,6 @@
       ],
       "terms": [
         "pfas"
-      ]
-    },
-    {
-      "title": "使い捨てプラの削減など要請 有害化学物質規制も ＷＷＦジャパンなどＮＧＯ共同提言",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2dzI5TGVoWDc2Ym9uRTN6RkR0VmRjRWRQdlo2SlJSdFpqU09JMGQwYVp6Y2N0SGZlUVZjYUpiVmRHb0ZWbVVFMDg1WDJNWGJLckt4VmJkZXpvT3RNQzlKYkx1bmFXREN1YUt5ZmNsTVlieFkwZVg5LTM1TQ?oc=5",
-      "date": "2026-07-14",
-      "source": "kankyo-news.co.jp",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
       ]
     },
     {
@@ -344,10 +338,25 @@
       ]
     },
     {
-      "title": "複数の太陽光発電所を組み合わせバーチャルPPAで環境価値提供",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RWENhd3ZJM3hzelFKTzdzYWkwZXJ3WlJTWEYwYUR1LVZqc01qd2tfaGZWLWVQS2M1UWJpUTFaTnU4Zm9FM3ZGeEJIZzA5ekNydVFtY1lnUm9zSlRrcTdlVGxtN0JwcFpjQ0E?oc=5",
+      "title": "使い捨てプラの削減など要請 有害化学物質規制も ＷＷＦジャパンなどＮＧＯ共同提言",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2dzI5TGVoWDc2Ym9uRTN6RkR0VmRjRWRQdlo2SlJSdFpqU09JMGQwYVp6Y2N0SGZlUVZjYUpiVmRHb0ZWbVVFMDg1WDJNWGJLckt4VmJkZXpvT3RNQzlKYkx1bmFXREN1YUt5ZmNsTVlieFkwZVg5LTM1TQ?oc=5",
       "date": "2026-07-14",
-      "source": "PR TIMES",
+      "source": "kankyo-news.co.jp",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
+      ]
+    },
+    {
+      "title": "複数の太陽光発電所を組み合わせバーチャルPPAで環境価値提供",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45R2dsNGVmQVF3OHFwV0p6cjBVS21SbHNDQjhJLUZHc1JZVHBsYXpiaVhNVjhDeFB6MWthSU1KTHFYWXhMcXY5NklrUDJuSVFZV3RneG1QNVh3NmxLNmRiLThQWTR6alJobklSVWUxbEJZVW5CaDdsNHB3?oc=5",
+      "date": "2026-07-14",
+      "source": "イザ！",
       "domains": [
         "power-market",
         "energy-gx"
@@ -392,30 +401,6 @@
       ],
       "terms": [
         "heatpump-cop"
-      ]
-    },
-    {
-      "title": "FRONTEO、11月の米輸出規制再発効に向け経済安保AIを強化",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JZXFQN3JSeF92YmZlYVlhTW9EY1Q2NzZsWHRHYzRvQmE5WmctUDZqTjlrekpXdWotWkpCcl8ydnNTYm5ndUowTktfdTBwbzlhYVdN?oc=5",
-      "date": "2026-07-10",
-      "source": "ニュースメディアVOIX",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security"
-      ]
-    },
-    {
-      "title": "FRONTEO、経済安全保障対策AIソリューション「KIBIT Seizu Analysis」をアップデートし、デューデリジェンスを高度化",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5abXl6dTd0dHZ6dnNVcFBPQnNxMDJNOXI0SW5JcVMwbEZ2Ty13NjhlUTMxTE1IdEhlN2Z1WlNERHVMbGxtY0dSTzU5SVdrX2Fkb0pXd3RXOGl3aVB4NGNqT0gzQmNwNklaRUE?oc=5",
-      "date": "2026-07-10",
-      "source": "PR TIMES",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security"
       ]
     }
   ]
