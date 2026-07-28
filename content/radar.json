@@ -1,13 +1,13 @@
 {
-  "collectedAt": "2026-07-27T22:06:15.875Z",
+  "collectedAt": "2026-07-28T22:03:49.512Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "半導体ＣＸＭＴが上場初日に466％高、時価総額中国首位 バブル懸念も",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXZ1S0VsVHFyZTdCSnZvUTE3RlVfR1JjcG85SGJOLTN1UTZhOUdPSDQwUUxzOHJscnhpbGpyeV9ERmV5b3Bua1J2UFlSdTAzMGNaUkpmZ1pKc1lhT2otY0xTdU1GbEJ5VkhBNDVpWHFqQ2U3RWZfLURwSU5WQk01OQ?oc=5",
-      "date": "2026-07-27",
-      "source": "ロイター",
+      "title": "ＴＳＭＣなど半導体関連の工場が多い熊本県、電子機器・自動車など幅広い製品の生産に影響する可能性も",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocFdrYkVhUDNDWlcyWTIzNDFPcGRZcGlWU3FuaGVta1B0dzRvZjF0WlEta0NkamVCd1Nyc1dFdXVwMW1YVkxTRV9tNG43SlBYOFlibVZYUnV0Sk5VVVZlNE9hNG8?oc=5",
+      "date": "2026-07-28",
+      "source": "読売新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,23 +17,52 @@
       ]
     },
     {
-      "title": "半導体は決算前で調整、関連株に警戒感【今日の市場はどう動いた？】",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oMjBraVFLZ3ZFWU5QeFpENE9kczVFTkpfdktpYWhnbFdIcjJLR0dadlVhMjUweURzcVFtUGIxQklnVTR4SlUzVzZFY0VYNC1lQjNRMmo2a2p5bXJQZEVHMGZHSXc?oc=5",
-      "date": "2026-07-27",
-      "source": "Yahoo!ファイナンス",
+      "title": "【地震】台湾TSMC熊本工場で従業員が退避 全員の完全確認を完了",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iWEVKbjVvZlQwNjJoemE4eDQxWkpjMk5RRnJuc0habDUwVmJPcDFLSkYzNGEyRE1zWHBicGRacHkxa01Lazkwa2NpTDdNOVE1dmZPd1VFVQ?oc=5",
+      "date": "2026-07-28",
+      "source": "TBS NEWS DIG",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "foundry-model"
       ]
     },
     {
-      "title": "三井不動産と熊本県が一般社団法人「くまもとサイエンスパークコミュニティ＆マネジメント」を共同設立",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96dFFMVFozYTRIMEJxWVBQSjdMLUtuaWdnaFdBeUdLZWpFVjRaTU11Q0pMMEVtYUNJVzJhMlNTSndNRTVqNlFmTEg0cE41MG5ITEVXN1B0ZkJUWnc3bzJNSmJZbzlBRy1w?oc=5",
-      "date": "2026-07-27",
-      "source": "mitsuifudosan.co.jp",
+      "title": "台湾半導体大手TSMC、熊本工場従業員の無事発表 建物の安全性も確認",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjNnNoZEN4VmVOMzd2bTd0TkZDMGdtc3htdklhakZzcGpGUW51Y3hadXljQ2JsSUdhZWVzVTBzanJTU3dYRm43V1RHVERZMHBUYjZmSUN3cW0xcFF5QVBfWDg5eU0zczluTEJBZEJqaDBfWlhJTHc?oc=5",
+      "date": "2026-07-28",
+      "source": "産経ニュース",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "TSMCと富士フイルム、熊本工場で屋外退避 TOPPANは操業停止",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUFVIX2FTQmlHQjVJVG9oQjUxVS1OVTBaa0VUQXBnWmVxYTFJemtUZ21QaHlDUjdKbThXeHk2anFSX1NOb3V1XzB4OC1qQUtTUjBwTzlhNWdLbG1lLTZNRU1RdEd1Um5NeC0xSA?oc=5",
+      "date": "2026-07-28",
+      "source": "日本経済新聞",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "power-market"
+      ],
+      "terms": [
+        "foundry-model",
+        "ppa"
+      ]
+    },
+    {
+      "title": "台湾ＴＳＭＣの熊本工場、段階的に操業再開 全従業員の安全を確認",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M0RYRlNyYmNDdTVGV1haNThFRUVORXpmeE1IMFdJZnZtcTM1Rk9WQ3VTT2ZhWTFOU3k2S0VkZGdheXF4bEVxQ2lhSDJqVlcxUkE?oc=5",
+      "date": "2026-07-28",
+      "source": "株探",
       "domains": [
         "semicon",
         "supplychain"
@@ -47,42 +76,108 @@
       ]
     },
     {
-      "title": "ASMLと米半導体株、中国のDUV技術突破報道で急落 執筆",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrSWY4YWhYRXQyd2FUSDI4aFJpeUxCUkEyTTZTNHRrZTRUNnR4aHVnNEtTVkhjMXo3QmV0STNtN0w3QzNCc0doLVFOU0dMNEZxVmFDVGtOY3AzTl9NbHJPanFVTGl3TGVPTTFyaE1wUXA?oc=5",
-      "date": "2026-07-27",
-      "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "title": "TSMC熊本工場、従業員は屋外避難 被害確認中 熊本で震度7",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHLW5XYjgxMmhUV1Z3c2Y1M2ZJVGkyS0J0UW0zTUN1TVNVVzhsUm9MLU5lR1IwbHV4b0pmRWoyZGpQTV94N3JZNXhkOExpa1NTLXpOUTAtWkRrQnlzVmplSkp1OEM2cm1J?oc=5",
+      "date": "2026-07-28",
+      "source": "毎日新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "foundry-model"
       ]
     },
     {
-      "title": "日経平均1日で2%超変動、韓国株が半導体に影響 個人の短期売買活発",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYY3hkbHRtQjRpTE9JY2Q5YXpySldENlFLYjhuV1pXYlpJVmJUaFVPamdVY3lSdnhxdTZ6cWJHdmlFd1VXZ095UUxyU2lkbUdvdU5OOTF0LU9qSXhNSzlWRTUzajN5SmMxdFBjeQ?oc=5",
-      "date": "2026-07-27",
-      "source": "日本経済新聞",
+      "title": "【ＰＦＡＳ泡消火剤】規制開始も処分負担重く 空港保有分、自治体任せ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1YzNSM1FuSm9uazBuajVHajA1OFdLTE1SbU8ycm1WSnJMb0VUbE53X21HWjltY2hGQWkxZHNVRGhRMUNHUDdYZFNST1ZTaGtjVXpHOXRhMXJNVjFpRlRkai1yYVo0SFU?oc=5",
+      "date": "2026-07-28",
+      "source": "山陽新聞",
       "domains": [
-        "semicon",
-        "supplychain"
+        "env-chem"
       ],
       "terms": [
-        "semi-process"
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
-      "title": "三井不動産、熊本で半導体エコシステム構築",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VbF9GWUN3emJUNzlVTF9DNEJTVmJKb2w2UXRqOGNnRHQza0xiV29nQTd1bzBsaktjeUZsV051M005dmU4T3hBSQ?oc=5",
-      "date": "2026-07-27",
-      "source": "LOGISTICS TODAY",
+      "title": "テウォン製薬 ESG強化 2050年カーボンニュートラルへ - CHOSUNBIZ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnEtc19CN2I2Rk9JUi03YTBHVUd3YzdCUkxtZDJMMkI5djAwZy1tMjlFX1BicGZUTzU0T2hISG9hbzJpaGx6S0ZGazBxT3BzOW5xU1k1dVd6VXI5ajI4U3hUNlVWTkRLNkFVRFhwdGVUWEd5S1pXbDktVGdha2xBedIBlAFBVV95cUxOR0Nkdmp5N05XaTloRldPNF9DQ1ROOHFXYW5CSzZKazVKcGZ3TllGbHg2N2R3T21hOU9FMzBQWlVRQUw2eTljREhWbzVrZWJyVEhJUW1GQm11UHA5aExKcnUyOHc4MGI3a3ZPXzFzZUZLTzJHaFNEZTQydS1EcHJvREdHZG1mN2NjLTJkQTZvYm9xanJo?oc=5",
+      "date": "2026-07-28",
+      "source": "Chosunbiz",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "ディスプレー強国だった韓国にとって、有機発光ダイオード（OLED）ディスプレーは最後に残った砦の一つだ。 中国は液晶表示装置（LCD）市場を完全に掌握したのに続き、中小型OLED市場も徐々に蚕食してい..",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzbTF6ZXp0NmYxdzJieHlCZUd3aGNBbWlndklvbDZvWklrWUktOHhQLUg0Q2oyd3lINF9PMWpZZEFBQ1ZuU0dmd24ySQ?oc=5",
+      "date": "2026-07-28",
+      "source": "매일경제",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "ムーア氏も予見していたチップレット集積 AI時代に重要性増す：SEMISOL 2026 基調講演（1/2 ページ）",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EWlB2TEd4cFM1dlFQdGtQS2poUDlKZXVYMHl0T1c5Rl9HQTZVTHZlNGtQWjB0ZDdKMllvSXlmZHg4cDhPMUJWOUJYRld4M05OZk9BaVdSMmUwLWpjaFNkTTJHZUhjdjdJQmdyTzF2WQ?oc=5",
+      "date": "2026-07-28",
+      "source": "EE Times Japan",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "semicon"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "AIサーバー向けスーパーキャパシタ市場調査レポート：トップ５企業ランキングと競争環境分析｜QYResearch",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpc1FMUUZJTUF5U0VyT1MtdVVJMzBOUDdvUVhsX2pJc2lUSUpJYzlYM1JHbXlGdF9DZGNnSmlZRjFpRWpORkU2Ym9DNkxLSnVKN2QtQkwxVQ?oc=5",
+      "date": "2026-07-28",
+      "source": "note",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "中国Highstar、リチウム・ナトリウム電池群でAIデータセンターの電力変動を三層で受ける",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91b0xtTHpBcE1EazY5WkFlVXppSkdieHh4eEhacWlyaUppMmhsNFZXMkVGNC05MklyQnA5aVZ5eXpKYUEyeFEyV0t4STVWdkhUSTVtbzJGM2hIb1NRV3VwN1A1QUdma1My?oc=5",
+      "date": "2026-07-28",
+      "source": "XenoSpectrum",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "battery-mobility"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -95,6 +190,18 @@
       ],
       "terms": [
         "pfas"
+      ]
+    },
+    {
+      "title": "グリーン水素の製造コスト、化石燃料水準に接近 中国「Hydo Tech」が資金調達",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE50ZDRzVzVnUDAwZlg0UUZKMFNJUmd6NHBibEpaYlRfcUZGM1FSTDZ3czFCOEIzOVhTLWs0?oc=5",
+      "date": "2026-07-27",
+      "source": "36Kr Japan",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
       ]
     },
     {
@@ -111,10 +218,10 @@
       ]
     },
     {
-      "title": "カーボンニュートラル認定の「アイスランディック・グレーシャル」、スパークリング4種を発売",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSFJCZWFVX1U2aGRKMXVMN1VlYU1VZDJ6a1Y0Y3VfeVMxSjNBck4tTVU4OW1yaFM5b01DNjNMQ3c5MVgtQXVsaHMwdDJ2MFotd01V?oc=5",
+      "title": "2026年カーボンニュートラルコンサルティングサービス市場レポート：市場規模・見通し・次期産業戦略– 年平均成長率（CAGR）7.20％で成長",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5abllaY1ExODJ1S0xrMGxhcHpFNXhtTEhYa1FnYmk3MURDMXhjYm52RjZoNXBlWnZFTnhsV3AxS2dXYmhVaW1jcHotSml6eTFwRUxB?oc=5",
       "date": "2026-07-27",
-      "source": "WWDJAPAN",
+      "source": "ドリームニュース",
       "domains": [
         "energy-gx"
       ],
@@ -142,31 +249,18 @@
       ]
     },
     {
-      "title": "2026年カーボンニュートラルコンサルティングサービス市場レポート：市場規模・見通し・次期産業戦略- 年平均成長率（CAGR）7.20％で成長",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GVHpwQjlZQU10MGl6Q09pRTZnbW9uVjRJVEFwVHY2XzRnX01zNFdsZndiWXdJZzBpS3ljVHF5MkFSa0wxbXVQdE1qWFgycDljZXJKVDEyaDNlbGxaTHplbXhQSTM5b05qZ2c?oc=5",
-      "date": "2026-07-27",
-      "source": "Excite エキサイト",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
-      "title": "UAV用水素燃料電池システムの世界市場（2026年～2032年）、市場規模（空冷式、水冷式）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YQUlfbFlYX09fRDRqdU1uclpCbUxUeDJNSUR5QUs0UU5zd0JCT1hKX0pvbnZNVDByeUF2NFhNdUFSNkNjV3hjczlLT21CZHc?oc=5",
+      "title": "AI半導体の“爆熱”を誰が冷やすのか…8兆円データセンター冷却市場、日本勢の逆襲",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Bdl9Ma1dTUUtxTy1BbzJPMkhsc1dISEdscFYwVFNZMndVVDloV0NqcGUzcW1oaDVFTXdHQWdyX3VVSm91OHJNOVdsdGRZOGlPR3BYSHJlSm5QRjg?oc=5",
       "date": "2026-07-26",
-      "source": "アットプレス",
+      "source": "ビジネスジャーナル",
       "domains": [
-        "energy-gx",
-        "battery-mobility"
+        "datacenter-ai",
+        "power-market",
+        "semicon"
       ],
       "terms": [
-        "hydrogen"
+        "semi-process",
+        "datacenter"
       ]
     },
     {
@@ -180,18 +274,6 @@
       ],
       "terms": [
         "datacenter"
-      ]
-    },
-    {
-      "title": "高圧水素ボンベ用マウスバルブの世界市場（2026年～2032年）、市場規模（35MPa、70MPa）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zQnA0NXZoVU5qMDRsM2xBeEVXOWRPSzJtNGhtYWpfWXNYZTlOYnVFR0hoVEtKcjJwZ0kyM3l4dFBXREt2ck1R?oc=5",
-      "date": "2026-07-25",
-      "source": "Newscast.jp",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
       ]
     },
     {
@@ -217,67 +299,6 @@
       ],
       "terms": [
         "datacenter"
-      ]
-    },
-    {
-      "title": "AIの次の成長フェーズがデータセンターインフラを再定義する",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVNsN05qOG5fMDY4aWVFQWlUdzFyLVdKVE1uWWhxblVlS1puUFRfZ3lhdUhYYklRWTZLMWlSMENNUXBmX25uUlp3UzdWNWF6RDBpa2VQTVRmem90bFZFNjYtRWRHLUk3NU1DWmxXTHpMZXlYdlktLW1PVV9kcEU1ZGltUkZWaDhZZWZOOGswYmFhMks0WmVfVmpIb2c?oc=5",
-      "date": "2026-07-24",
-      "source": "Renesas Electronics",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "AI サーバーの低消費電力、高性能を実現するファンモーター駆動技術",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92aW5NbUFveUoxdGtyOEViNm5MU2REV0dOb1dud2NzOThvd3RaYWJaQnhBNFR3Q2M5VTZOdWczVGxtMl9fVVJJN21PcWNxZTlyeFZ4bjFDUmtIRTZQajQzMmE1NHJaalJzSG5KdHFMbm43RlZ4WkNxMS1R?oc=5",
-      "date": "2026-07-24",
-      "source": "macnica.co.jp",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "東北電力、GPUハウジングサービス開始",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sRmFmMUlhYU1kN21COWJyQ2g4R0thSDNyMUs4OTVlbXczZGVpNk5WVXB2bmNRNDRfNmVhOGlrM1F6ZGVLTFJPNQ?oc=5",
-      "date": "2026-07-24",
-      "source": "LOGISTICS TODAY",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "次世代型高性能GPUサーバー対応のハウジングサービスについて",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZSFlSdXB4R3l1LWQxVzRZLWRyVnlEdm1GcEFkdVo5VUlKdkVQSUNmTzBlZGFfd1Q1akFXZjJYSmdRNXJoZXBBSVVJbVVQU2EtZFFVeldmT0M0Rnp3a1FHUXpnOW9jLW96RWxJUzZ5azVXM1M4MkVsTl9tVQ?oc=5",
-      "date": "2026-07-24",
-      "source": "ニコニコニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
       ]
     },
     {
@@ -332,21 +353,6 @@
       ],
       "terms": [
         "lib"
-      ]
-    },
-    {
-      "title": "【ＰＦＡＳ泡消火剤】規制開始も処分負担重く 空港保有分、自治体任せ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1YzNSM1FuSm9uazBuajVHajA1OFdLTE1SbU8ycm1WSnJMb0VUbE53X21HWjltY2hGQWkxZHNVRGhRMUNHUDdYZFNST1ZTaGtjVXpHOXRhMXJNVjFpRlRkai1yYVo0SFU?oc=5",
-      "date": "2026-07-21",
-      "source": "山陽新聞",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
       ]
     },
     {
