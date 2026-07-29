@@ -1,13 +1,13 @@
 {
-  "collectedAt": "2026-07-28T22:03:49.512Z",
+  "collectedAt": "2026-07-29T22:00:29.047Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "ＴＳＭＣなど半導体関連の工場が多い熊本県、電子機器・自動車など幅広い製品の生産に影響する可能性も",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocFdrYkVhUDNDWlcyWTIzNDFPcGRZcGlWU3FuaGVta1B0dzRvZjF0WlEta0NkamVCd1Nyc1dFdXVwMW1YVkxTRV9tNG43SlBYOFlibVZYUnV0Sk5VVVZlNE9hNG8?oc=5",
-      "date": "2026-07-28",
-      "source": "読売新聞",
+      "title": "熊本地震で「シリコンアイランド」に打撃 半導体工場再開めど立たず",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02OXQtU0p6TnBlZzR5TkFNdzZhZGhhbGstWUhRcjBGWXVTanFHaWpCRjR1eHRTaUFDUmRncUFRdTQ2ZVI0Q2p4R20xc2ZmUG9kTmpvR1ZMczNEdVNyYm0tbVhrR2lOUGM?oc=5",
+      "date": "2026-07-29",
+      "source": "朝日新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,10 +17,10 @@
       ]
     },
     {
-      "title": "【地震】台湾TSMC熊本工場で従業員が退避 全員の完全確認を完了",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iWEVKbjVvZlQwNjJoemE4eDQxWkpjMk5RRnJuc0habDUwVmJPcDFLSkYzNGEyRE1zWHBicGRacHkxa01Lazkwa2NpTDdNOVE1dmZPd1VFVQ?oc=5",
-      "date": "2026-07-28",
-      "source": "TBS NEWS DIG",
+      "title": "TSMC熊本、通常生産戻れず 工場の装置調整に時間",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZM3ZPR1c5Z2tXZ1RRc1hEZGdjbWZWMV9oZHl4UWRzeGxoc3BZVmgteGVQTDA4aHY2UDRyZ01SX2FEQVZjQ1NldzhxQQ?oc=5",
+      "date": "2026-07-29",
+      "source": "47NEWS",
       "domains": [
         "semicon",
         "supplychain"
@@ -30,62 +30,173 @@
       ]
     },
     {
-      "title": "台湾半導体大手TSMC、熊本工場従業員の無事発表 建物の安全性も確認",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjNnNoZEN4VmVOMzd2bTd0TkZDMGdtc3htdklhakZzcGpGUW51Y3hadXljQ2JsSUdhZWVzVTBzanJTU3dYRm43V1RHVERZMHBUYjZmSUN3cW0xcFF5QVBfWDg5eU0zczluTEJBZEJqaDBfWlhJTHc?oc=5",
-      "date": "2026-07-28",
-      "source": "産経ニュース",
+      "title": "AI・半導体株懸念を象徴するSOXの20％安 安定化に1-2ヶ月要する傾向も 野村證券ストラテジストが解説",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qVjlEUWJuZjhEdVQ3YzlyenBFOWtaY2doZm1TN0Q5MkxRQmYwT2h1ZkpXSFlqSnh4Y0tzOW96cWFzT2prMGY5M0ZNenN6YVNTQXVrangwQkVLejVTb1pv?oc=5",
+      "date": "2026-07-29",
+      "source": "nomura.co.jp",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
+        "semi-process"
+      ]
+    },
+    {
+      "title": "急落する半導体株の行方 ヒントは4年前の海運株？",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yVmF3RlFqV2ozVmFZT2lfQ2daUnM4V0dPSXNGZS1JTFNCRGM5bDR4cDA1MjVvcVMtUUhHUkxyaFVEb0lVeFo5ekt4Y3B3T1JWNU9tRXpLeDhjLTQ?oc=5",
+      "date": "2026-07-29",
+      "source": "第一ライフ資産運用経済研究所",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "令和8年熊本地震、半導体メーカー工場の対応状況：最大震度7を受けて",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wNWFjUVRWRXZzSW05SG8xRElQVjN0dk5mZDFPTXU0S1RsTHNQd3UyZ0ZjYmloMkQzNHpUa2d0NVdhUkdMOGZGbEV3Z3NNbmJTbWFTUkJPdGs2dzZvY2xRMDRhbmZ6Sjh3d3luZE9sVQ?oc=5",
+      "date": "2026-07-29",
+      "source": "eetimes.itmedia.co.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "熊本地震でルネサスやソニーセミコンが生産停止、TSMCは新工場建設中断",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZFdGbldtclRQV0psQ0MzR1VjWUg4NWNCQ2gxaFdwcWdOdzBtejR2ZnoxM1hpRGQ4bGlYcWZhTE05QTMwOW9nWW1rOTl6SThjY01fcmthUE5vTFJ1R2VEVEdqWVFBV1B4MjZNcg?oc=5",
+      "date": "2026-07-29",
+      "source": "日経クロステック",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
         "foundry-model"
       ]
     },
     {
-      "title": "TSMCと富士フイルム、熊本工場で屋外退避 TOPPANは操業停止",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUFVIX2FTQmlHQjVJVG9oQjUxVS1OVTBaa0VUQXBnWmVxYTFJemtUZ21QaHlDUjdKbThXeHk2anFSX1NOb3V1XzB4OC1qQUtTUjBwTzlhNWdLbG1lLTZNRU1RdEd1Um5NeC0xSA?oc=5",
-      "date": "2026-07-28",
-      "source": "日本経済新聞",
+      "title": "BOMcheckを含む情報伝達基盤の活用と 各国規制対応における実務運用セミナー 11/13（金）［オンライン］",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ORjh2c0w1MktGVkFEZkhJc0FtQ1BDRGVndXhQYUtBVTNVQlp0SVVvR2U0ZFEwUEJPQkY3RUJpcGtKMHh2OUw0ZUpHLXFTcTZNREhkVGVkZGtuTDBxVURpVk5iQ0ktOV8wTjAtSDc2aURHN0h3T0RpV0pn?oc=5",
+      "date": "2026-07-29",
+      "source": "ニコニコニュース",
       "domains": [
-        "semicon",
-        "supplychain",
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
+      ]
+    },
+    {
+      "title": "世界の材料ベースの水素エネルギー貯蔵の市場トップ25企業",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT3I5OFEtWEtFSHVGbUQ5ZXNPRnlObDNxQ0t1YUZQb3RmODlsX0FodXg0UzRBVGZMYVJoT0tObTJhdWVJZEY1LWE5ZWpZeDI3U2VCRS1ERWxjYXdIRmFkcmYtT2g5QUtVY0NxSWI5M0NrWmJfbXZXajVKZGdfNDd2cElrYXdPWDUzODhfWmdtMzRmRmpwQ3pkMkstZ3hQZlFJRjlBdWtHbnNheGk1NlV2bGROV2JDOTE4T25yY0p3Sm85OWNscEhpWWpVWWdXX3VkYnZZZnlIdWIxTmFuOEZVWTM0MlU2RjA5?oc=5",
+      "date": "2026-07-29",
+      "source": "Spherical Insights",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素パイプラインシステムの世界市場（2026年～2032年）、市場規模（気体水素パイプライン、液体水素パイプライン）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGN0g2Z0ZYSDJ4QlJIcGJweDBRQnJSM2MzXzB3OGU3cm8weWFCMFNKSHRmaTN3U2V3QlRxZFg2d2JEVHFVSUVhb05wTFVfVnM?oc=5",
+      "date": "2026-07-29",
+      "source": "Newscast.jp",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素製造用トランス・整流器の世界市場（2026年～2032年）、市場規模（サイリスタ（SCR）整流器、IGBT整流器）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yZEFoYkVKWndyYzg3MzBmaERxX3NxUE0yc2tCU2dVYjhXUGZWc0NXQTdLYzdyYVg0VTNkOWpXUkdjYjVwZnlGQVA3YXRLbHM?oc=5",
+      "date": "2026-07-29",
+      "source": "アットプレス",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素用圧力逃がし弁の世界市場（2026年～2032年）、市場規模（35 MPa、70 MPa）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Cb3N5Z3NUWjhQQ0hUbHVlejc0T3BlRjV6SkZnMkJLZTlvN2IxN1pzQmctT1BnNUdOM0xvLTVFV0hUQWR5UzNiTk43bG9RZkU?oc=5",
+      "date": "2026-07-29",
+      "source": "アットプレス",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "キオクシア、直接液冷対応のAIサーバー向けE1.S SSD「NX1」を開発 | TECH+（テックプラス）",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qbTgyUmp2Z0ZvbjhzVzFjWmg4Nm9LSHAwRUpDSE5jdmppQnNTNjA1UlVDNFlBUllPeXZOZ3IwNWJFNzRHemtrRzhjbnVMVkpFeU82ejdSMXVaYl94RTktcjVOTW5yUFpq?oc=5",
+      "date": "2026-07-29",
+      "source": "マイナビニュース",
+      "domains": [
+        "datacenter-ai",
         "power-market"
       ],
       "terms": [
-        "foundry-model",
-        "ppa"
+        "liquid-cooling"
       ]
     },
     {
-      "title": "台湾ＴＳＭＣの熊本工場、段階的に操業再開 全従業員の安全を確認",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M0RYRlNyYmNDdTVGV1haNThFRUVORXpmeE1IMFdJZnZtcTM1Rk9WQ3VTT2ZhWTFOU3k2S0VkZGdheXF4bEVxQ2lhSDJqVlcxUkE?oc=5",
-      "date": "2026-07-28",
-      "source": "株探",
+      "title": "ヌヴォトンジャパン AIサーバー向け デイジーチェーン対応 16セルバッテリ監視ICを量産開始",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Cd2xTQkotWXVCQ1FnVTdDRjJSOUV6eEdhendqd0FkdlRDQk1YdkRsYjNRMFVoR1J3cnR3elk4aXNjQWFUNmVJLXk3RHdUMXZhTVIxZXNkeGoyOGlHV3RSRUlIU0tMTFotcWV5OEJNcDRVbE12SkIydnFYZw?oc=5",
+      "date": "2026-07-29",
+      "source": "ニコニコニュース",
       "domains": [
-        "semicon",
-        "supplychain"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "semi-process",
-        "euv",
-        "foundry-model",
-        "hbm",
-        "cleanroom"
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
       ]
     },
     {
-      "title": "TSMC熊本工場、従業員は屋外避難 被害確認中 熊本で震度7",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHLW5XYjgxMmhUV1Z3c2Y1M2ZJVGkyS0J0UW0zTUN1TVNVVzhsUm9MLU5lR1IwbHV4b0pmRWoyZGpQTV94N3JZNXhkOExpa1NTLXpOUTAtWkRrQnlzVmplSkp1OEM2cm1J?oc=5",
-      "date": "2026-07-28",
-      "source": "毎日新聞",
+      "title": "Sayari、経済安保・貿易管理を巡り250人集結",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mVlg3bW05QTZ3b3J0c1JFUkxOUGEyNWJPOXIyYmd1TzJucld2TWsyQ0JLSkdZS1RQd3NudXIzNzg5R0hXdWhNNA?oc=5",
+      "date": "2026-07-29",
+      "source": "LOGISTICS TODAY",
       "domains": [
-        "semicon",
         "supplychain"
       ],
       "terms": [
+        "econ-security",
+        "supply-risk",
         "foundry-model"
+      ]
+    },
+    {
+      "title": "データインテリジェンスで守る日本の経済安全保障・貿易コンプライアンスの最新動向「Sayari Japan Conference 2026」を開催",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQUN0RmFjcHlROVBiZFBmMTNKMFVjYkZ1N3NxV1FpTUlwZXh3cHJxcnZGeXRPTzBrQWZoUGtYQjBmSl9yZVpiTk1kTlhHU2pBUU5FQ09RMWl0RWVCTnJiT21RUmJyLWtrRFE?oc=5",
+      "date": "2026-07-29",
+      "source": "PR TIMES",
+      "domains": [
+        "supplychain"
+      ],
+      "terms": [
+        "econ-security"
       ]
     },
     {
@@ -101,21 +212,6 @@
         "voc",
         "sds-ghs",
         "prtr"
-      ]
-    },
-    {
-      "title": "テウォン製薬 ESG強化 2050年カーボンニュートラルへ - CHOSUNBIZ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnEtc19CN2I2Rk9JUi03YTBHVUd3YzdCUkxtZDJMMkI5djAwZy1tMjlFX1BicGZUTzU0T2hISG9hbzJpaGx6S0ZGazBxT3BzOW5xU1k1dVd6VXI5ajI4U3hUNlVWTkRLNkFVRFhwdGVUWEd5S1pXbDktVGdha2xBedIBlAFBVV95cUxOR0Nkdmp5N05XaTloRldPNF9DQ1ROOHFXYW5CSzZKazVKcGZ3TllGbHg2N2R3T21hOU9FMzBQWlVRQUw2eTljREhWbzVrZWJyVEhJUW1GQm11UHA5aExKcnUyOHc4MGI3a3ZPXzFzZUZLTzJHaFNEZTQydS1EcHJvREdHZG1mN2NjLTJkQTZvYm9xanJo?oc=5",
-      "date": "2026-07-28",
-      "source": "Chosunbiz",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
       ]
     },
     {
@@ -137,7 +233,7 @@
       "title": "ムーア氏も予見していたチップレット集積 AI時代に重要性増す：SEMISOL 2026 基調講演（1/2 ページ）",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EWlB2TEd4cFM1dlFQdGtQS2poUDlKZXVYMHl0T1c5Rl9HQTZVTHZlNGtQWjB0ZDdKMllvSXlmZHg4cDhPMUJWOUJYRld4M05OZk9BaVdSMmUwLWpjaFNkTTJHZUhjdjdJQmdyTzF2WQ?oc=5",
       "date": "2026-07-28",
-      "source": "EE Times Japan",
+      "source": "eetimes.itmedia.co.jp",
       "domains": [
         "datacenter-ai",
         "power-market",
@@ -205,50 +301,6 @@
       ]
     },
     {
-      "title": "トヨタ／ダイムラー、ボルボの燃料電池開発企業に出資、水素社会実現を推進",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BZnYwaUxaeUlhc3hNaE52Y1dnYUVIYVUwS2l4Z3ljNEFpVG1VY04ybHhJTFN1Z3pOLW5YX3VuRi0xN3BaVWdnMFhmc0hQZlZmYUUyRw?oc=5",
-      "date": "2026-07-27",
-      "source": "トラックニュース",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "2026年カーボンニュートラルコンサルティングサービス市場レポート：市場規模・見通し・次期産業戦略– 年平均成長率（CAGR）7.20％で成長",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5abllaY1ExODJ1S0xrMGxhcHpFNXhtTEhYa1FnYmk3MURDMXhjYm52RjZoNXBlWnZFTnhsV3AxS2dXYmhVaW1jcHotSml6eTFwRUxB?oc=5",
-      "date": "2026-07-27",
-      "source": "ドリームニュース",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
-      "title": "グローバル燃料電池電気バス市場トップ25企業",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSlpSSDBrVVRON3UxMTRKZkplQ0gxbGFFUDExLUVYQ0lhQzR2MFFaQU5xdHJkaFJacXhJdXF6YlRYdWZIRnBJa013aExZeUFaOGNwLWFrR2h5cHk1bU9LUjhrdFNUWnFoVnM5YW84T2cweS1mRnAxd2RCZkwwbEduV0VUTk14cy1kVHQzWkFQUkZVa2VtTk9VZ1l1UGV1MVlRV21wQkNtRFZzeUxsbU1iWmVEN21FaTlFeW9HXzNtYzN4NjBnb21qWTlFWU5tY01PbWZRUTRNTQ?oc=5",
-      "date": "2026-07-27",
-      "source": "Spherical Insights",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
       "title": "AI半導体の“爆熱”を誰が冷やすのか…8兆円データセンター冷却市場、日本勢の逆襲",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Bdl9Ma1dTUUtxTy1BbzJPMkhsc1dISEdscFYwVFNZMndVVDloV0NqcGUzcW1oaDVFTXdHQWdyX3VVSm91OHJNOVdsdGRZOGlPR3BYSHJlSm5QRjg?oc=5",
       "date": "2026-07-26",
@@ -264,19 +316,6 @@
       ]
     },
     {
-      "title": "NVIDIA・SKグループの5,000億ドル規模AIデータセンター構想は誰を儲けさせる？キオクシアはどうなる？韓国語資料を徹底分析！",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mN0V5OEtPS19rRDVBM192b3R6c0VyZzFJN0tNNjktZXlZSGFZbkEzakV4ci01NjlIVllUY1VOX3lXdFdaTXlHMGxRWTczcUd3VmM0R1VNRDNPcUQtQUxSZTdzUm5JN01z?oc=5",
-      "date": "2026-07-26",
-      "source": "さっつーのAIエージェント",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
       "title": "注目を集める『PFAS』。PFASに対する主な規制、代替品、除去技術、分解技術についてまとめた最新版の調査レポートをIDTechExがリリースしました。",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PQlZVVVlLaUhOcGhseFNEaUFlUkdRdVlHRTY5MFNRenFTYVJNQ0JNMVdZanloQ0tlTTlUek5HQVpqRnBfc2ZvY255LTVNTW1yMEZv?oc=5",
       "date": "2026-07-24",
@@ -286,19 +325,6 @@
       ],
       "terms": [
         "pfas"
-      ]
-    },
-    {
-      "title": "ゲットワークス、東北電力との協業により宮城県七ヶ浜町に新設したコンテナ型データセンター「宮城AIデータセンター」が竣工",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fNktTczRqS1d4b1oyWUM3REVXOUJvQzhrdWUxVk10OWV0YTBjUUxpV0lCNVlKbC1SNmMyOFUxbVM1cUFaekdodWQ1eEFLYmtEM0JWSndKQ3ZfeU40OTMya0ZBX0FUNjFkVmc?oc=5",
-      "date": "2026-07-24",
-      "source": "PR TIMES",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
       ]
     },
     {
@@ -359,7 +385,7 @@
       "title": "住友化学、全固体電池の新部材量産 EV向けに製造費抑え安全性向上",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RRmZtM3I1WEY1dGRZbGh3RnhCb1otLTdPaUF1M2xBUUh6dEtJTmNoNEJ3U21CUkdkVk16OGZ4ekd5VjRiWjBlYlRVazl3WHRYVUpOWE1hWHBKbmJlaF8yRzh6Mnc3cnhVMkpFNg?oc=5",
       "date": "2026-07-20",
-      "source": "日本経済新聞",
+      "source": "nikkei.com",
       "domains": [
         "battery-mobility"
       ],
