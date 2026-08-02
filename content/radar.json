@@ -1,53 +1,27 @@
 {
-  "collectedAt": "2026-08-01T21:55:02.123Z",
+  "collectedAt": "2026-08-02T21:55:26.888Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "半導体検査装置 半導体テスタでは世界第１位の「アドバンテスト」 2027年3月期連結決算予想を発表 驚異的な上方修正！",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCb0hRMENHWkJXVks5QnQyWDlVSGJkYzIxdTZuWHdKbW40OXpnYWxlQWs3SUhaNmlUVlNIUGFCQkE5UDBjVW5XaERCOE56Z2x3RDNfOHlLazFTdnFhY0REOUF5a3JRVGhLaDBhaUdmZjF1X202U2xDbnBzUkQ?oc=5",
-      "date": "2026-08-01",
-      "source": "東京・大阪 都心上空ヘリコプター遊覧飛行",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "中国が総力を挙げて狙う「AI半導体の覇権」 拒む企業は“裏切り者”扱い",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lWklLcVhPZkNTcEZxVUxwSWQ2NTdTY0N6eVNKc3d5dmUwSmdWQWNxSGtUUmxGYTZXY2I0ZXRQeEM2TkZoZ2tnUUNGSldmWWVKdDc0?oc=5",
-      "date": "2026-08-01",
-      "source": "クーリエ・ジャポン",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "[FT]中国、AI･半導体技術の輸出規制強化を検討",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WTVU1bXVzUURqZXlCSXZ2R3B0UnV3NkE0QTY4Sk5IdmJhSzlqSDJRb2Z1MUxYZHdNZXFkbjVPdm1IQlBfWmpvVmpWR29rekRhcDVrcDI0RkNsZXMxaklsSl9tWjAwV0owWWFsSg?oc=5",
-      "date": "2026-08-01",
-      "source": "日本経済新聞",
+      "title": "半導体供給網を守れ BCP優等生のディスコ、3次取引先まで情報把握",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ReHN1QUp4VEVnLXp4WXZwY2F3eHpMZnk2MWV4ekJYeWVZNXRrcWR4UVJNWHZRM3lJRE9oeDZiTENZdlI1OGR1X2xJVERNbU12M294UmY5T2R2NnR3RmJuVXltdnUxU3JGbXNuaQ?oc=5",
+      "date": "2026-08-02",
+      "source": "business.nikkei.com",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
         "semi-process",
-        "econ-security"
+        "supply-risk"
       ]
     },
     {
-      "title": "韓国「半導体学科」狭き門に",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pc0lnSW9RRWZsY3dpVl9HcFkxbUZTU25NdEZRWHpFTUtya0xWWDNLVWZtTXBzWEpsRU1YZjNKRXdiLURwdjlKTVRGbTAtSC15UXZtbmRRVU5iLTlXU2hrTEZaemo2SXBEX1VHT29zdlk?oc=5",
-      "date": "2026-08-01",
-      "source": "毎日新聞",
+      "title": "【ご案内】10/9・10/10開催 半導体技術者検定エレクトロニクス3級・4級対策セミナーin北九州",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORVJkcFI2NWJ3UVZCZlBfaF8tZktnU0duMERvWlJvVTFyMFI0a1BYWV92R2hJSDg4SHNLMzI1Y1h0RTJlUDBqbmZEM05MQmVPOGJqM2EyWGM3SWtX?oc=5",
+      "date": "2026-08-02",
+      "source": "北九州学術研究都市",
       "domains": [
         "semicon",
         "supplychain"
@@ -57,10 +31,10 @@
       ]
     },
     {
-      "title": "半導体生産、順次再開 １６年地震の教訓生きる 熊本",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PNzAxUDhDbF9qQUJoVURKdi1YYW01ZG10SjUxdmtSZktBcnl0UkZMbHhxM1F1dmszeFBJTEppZW1JZV9Hd0MzTUZqbmZxV2l3V3BsSUdPVTVUQ3JKRFRUbDln?oc=5",
-      "date": "2026-08-01",
-      "source": "琉球新報デジタル",
+      "title": "海外紙が｢日本で唯一輝く半導体メーカー｣と称賛…この1年で\"株価11倍\" AIブームに乗った日本企業の名前【日の丸半導体3選】",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKdkVvMW1LVGVmRVFBYmphRTNqUTJZN0JQbVV2ZU1Ca0ptQzNjbU83a0ppYWt1M3czREpTRFYxdVRxY0d6bjhNVlRZSHNybENKeE9jYzJhN0Q?oc=5",
+      "date": "2026-08-02",
+      "source": "PRESIDENT Online（プレジデントオンライン）",
       "domains": [
         "semicon",
         "supplychain"
@@ -70,10 +44,36 @@
       ]
     },
     {
-      "title": "国内株式市場見通し：週末にかけて急反発したAI・半導体株のリバウンドの持続性が焦点に",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN2JDWENwekZ5Q0paZDhHcnQxbTNLSjRlTXRUWGswRXA2VUpoVVg4TWRpM1lNaldGNDBsUHU3NGZsMFR4QW5EaG9BQ3ZOR1prbkFxRHhKQ1RNTkNFOTRmQw?oc=5",
-      "date": "2026-08-01",
-      "source": "株探",
+      "title": "imecのCEO、AI半導体「演算効率10倍改善を」 3次元化や光電融合が鍵",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CdUhzWkJ6b1paendON2V3bUFPb29GcEhaOEs1UEQ1NDdjREVDeUo4ZkpBRWJHSjNiYjJhc0NaekFzX0xxdFVka21Nd002a2YyY055SEU5ZjNkcnZBRjlWeTdKT3NZRWM?oc=5",
+      "date": "2026-08-02",
+      "source": "日経クロステック",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "米半導体株、「黄金期」終了の兆し-4つのチャートが映す相場の転機（TBS CROSS DIG with Bloomberg）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WkhZbTJleUUtQWlrYnRRWG00aXRtVFdmcmhuY3dudWQ2M1poQ0F3eDVSRVl5R0VCOWZ2YmpwQW9jSlJ0X1ZCa1RiMm1xMC0yVktldGZUZnBKX0RQNlRnbHFmOUdEUjNTTjJLcHZrcTF5RW0yeFBmN3VMWUpCcVk?oc=5",
+      "date": "2026-08-02",
+      "source": "news.yahoo.co.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "米半導体株、「黄金期」終了の兆し－4つのチャートが映す相場の転機",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDdCeUQzeHh5end5bWhJVmhCMGh0NzJrTkpjZ295aU1SQ0k0MHpnUkJTcGo3UnctRHN4azg1aG1ITE1nSlUycmZZWlRjZlUwNkxBZ0dmbFJBa1I0QllEbEVZTVdBTkd3bDg1ZUZIS0JzWlBQa25peEFTTFFLOHkxbkZ4ZElWM010NmlBTGVB?oc=5",
+      "date": "2026-08-02",
+      "source": "Bloomberg",
       "domains": [
         "semicon",
         "supplychain"
@@ -197,7 +197,7 @@
       "title": "AI特需でスリーマイル島原発が再稼働へ…全米でデータセンター反対が広がる背景（ダイヤモンド・オンライン）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUZsOHJJTTZFQ2dxd0ZDbXJzbkNrREN6dDc5c2N3VjllUG85Uk5sVWVDWFpfRXhyWERIZUsyU2J4cGFucE9aMm1kU3pVendnLTMwTkpVV0NValJLQmVBYVphNzJEa25vWmxuU190WEFqZmV5ZVEyS01wU185UWM?oc=5",
       "date": "2026-07-30",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -210,7 +210,7 @@
       "title": "Sayari、経済安保・貿易管理を巡り250人集結",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mVlg3bW05QTZ3b3J0c1JFUkxOUGEyNWJPOXIyYmd1TzJucld2TWsyQ0JLSkdZS1RQd3NudXIzNzg5R0hXdWhNNA?oc=5",
       "date": "2026-07-30",
-      "source": "logi-today.com",
+      "source": "LOGISTICS TODAY",
       "domains": [
         "supplychain"
       ],
@@ -236,19 +236,6 @@
       ]
     },
     {
-      "title": "キオクシア、直接液冷対応のAIサーバー向けE1.S SSD「NX1」を開発 | TECH+（テックプラス）",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qbTgyUmp2Z0ZvbjhzVzFjWmg4Nm9LSHAwRUpDSE5jdmppQnNTNjA1UlVDNFlBUllPeXZOZ3IwNWJFNzRHemtrRzhjbnVMVkpFeU82ejdSMXVaYl94RTktcjVOTW5yUFpq?oc=5",
-      "date": "2026-07-29",
-      "source": "マイナビニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "liquid-cooling"
-      ]
-    },
-    {
       "title": "データインテリジェンスで守る日本の経済安全保障・貿易コンプライアンスの最新動向「Sayari Japan Conference 2026」を開催",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQUN0RmFjcHlROVBiZFBmMTNKMFVjYkZ1N3NxV1FpTUlwZXh3cHJxcnZGeXRPTzBrQWZoUGtYQjBmSl9yZVpiTk1kTlhHU2pBUU5FQ09RMWl0RWVCTnJiT21RUmJyLWtrRFE?oc=5",
       "date": "2026-07-29",
@@ -261,17 +248,20 @@
       ]
     },
     {
-      "title": "中国Highstar、リチウム・ナトリウム電池群でAIデータセンターの電力変動を三層で受ける",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91b0xtTHpBcE1EazY5WkFlVXppSkdieHh4eEhacWlyaUppMmhsNFZXMkVGNC05MklyQnA5aVZ5eXpKYUEyeFEyV0t4STVWdkhUSTVtbzJGM2hIb1NRV3VwN1A1QUdma1My?oc=5",
+      "title": "ムーア氏も予見していたチップレット集積 AI時代に重要性増す（EE Times Japan）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12b0E4RnEtU0NKYTJhX2hJWmo3UmpCdGlQZ1NFZ2FyMWlpVGpJYTFJYzFMQkJJamJGNmVQSjRSR2hQcEVtR3FZYW5tYjgxaWlNaVBob2w5Vm1qZmZCcGdORkx4VWI4M1VuTUY1UkUwMEY3SXQwemQ3TDc1ZmRFWE0?oc=5",
       "date": "2026-07-28",
-      "source": "XenoSpectrum",
+      "source": "news.yahoo.co.jp",
       "domains": [
         "datacenter-ai",
         "power-market",
-        "battery-mobility"
+        "semicon"
       ],
       "terms": [
-        "datacenter"
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
       ]
     },
     {
@@ -298,6 +288,19 @@
       ],
       "terms": [
         "semi-process",
+        "datacenter"
+      ]
+    },
+    {
+      "title": "AIの次の成長フェーズがデータセンターインフラを再定義する",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVNsN05qOG5fMDY4aWVFQWlUdzFyLVdKVE1uWWhxblVlS1puUFRfZ3lhdUhYYklRWTZLMWlSMENNUXBmX25uUlp3UzdWNWF6RDBpa2VQTVRmem90bFZFNjYtRWRHLUk3NU1DWmxXTHpMZXlYdlktLW1PVV9kcEU1ZGltUkZWaDhZZWZOOGswYmFhMks0WmVfVmpIb2c?oc=5",
+      "date": "2026-07-25",
+      "source": "renesas.com",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
         "datacenter"
       ]
     },
