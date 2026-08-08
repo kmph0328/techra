@@ -1,25 +1,12 @@
 {
-  "collectedAt": "2026-08-07T21:38:07.684Z",
+  "collectedAt": "2026-08-08T21:28:48.843Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "Google、日本のオープンソース半導体設計エコシステム確立に向けて OpenSUSI に特別賛助会員として参加",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1dkhmNzY4WkVETmdqRVNzUGowVHh2Vnk1RzdXRWtmaDhQVWxQNmJqa092dzBibUlXUEIyTzhoREk0dVU1WFJzVmJMc3gzRmVuRHpha1hjNkJyRE5ScGVLMG9B?oc=5",
-      "date": "2026-08-07",
-      "source": "blog.google",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "「機械受注」からAI・半導体分野の成長を読み解くには？ 経済統計の見方 野村證券・伊藤勇輝",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96bU1zVzFkOWFyQjdZUnJzdVA1QnBrQU1RUUdSZmNMYVA1S1lITGdrazU3bnhRTS1tQThEZUFYdzNmQ3AwUDBZZG43QTU5TzFoREdQcnB2ZlNnRS1fcWpR?oc=5",
-      "date": "2026-08-07",
+      "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
+      "date": "2026-08-08",
       "source": "nomura.co.jp",
       "domains": [
         "semicon",
@@ -30,9 +17,35 @@
       ]
     },
     {
-      "title": "韓国SKハイニックス、約6兆円投じ国内の半導体生産強化－需要拡大で",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxZnFZQWNYT0k2YmVJclZfZm1RTnZpWW5jV3k4a2VxQjg3UGdNMmtCSzM0aWNSZVdrZVNOVnlZTG9najhZd1VYdzBBVURYSXBacGhKZ0ktU0ZoU0xoRHdjZFBIUlF2RkdERjE1WkNpal9vbzJNNFhB?oc=5",
-      "date": "2026-08-07",
+      "title": "［福岡県］台湾・陽明交通大と協定 北九州市、半導体産業を支援",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1meDdhQm5wbTM1VW5FUEhkQVpxbHl5RjJXMDhyLWliTkJNRGJCb3QyeEdLWEpfclVxMDVLMVA1TmNyUzY5ZjZjeHhkZVRuSGxZdDQxUmxn?oc=5",
+      "date": "2026-08-08",
+      "source": "西日本新聞me",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "台湾が半導体安全保障戦に直面―シンガポールメディア",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMFdLSWZPZkpUalRTNlItSFYzcjdUU2d2eHVoN1YydzlxNEtwbmVMM3RvYmxENmJjWi1ZbGZ0bkM4UGtKREo5RzlvVVB4Rk1ZMWhJTGlGb3o0UnNvdHU4WWdVMUwtenVka09vX3ZaSlJLWmNtREViWkN2VDRCY3A4bXZMTWdIQdIBiwFBVV95cUxPcUdfYjZTb1V5VEwyaHZ3bVhGUEw1eXUySVhkazRkV01KN2RKUm0wZ0NNS2dIamU1THlkbkdsNC1qUUVQU29OTzBib0ZSUm9LdFRjNjN3NGVobVE5NDRsTTEwVUdNd1NqYXJmYU83RU1vTGFQMHl0X1RwNHlnTmRnUVdtb05iNzNwYU1n?oc=5",
+      "date": "2026-08-08",
+      "source": "topics.smt.docomo.ne.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "SKハイニックス、中国・重慶の半導体拠点で出資受け入れ検討－関係者",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aLW1NdTY5ZFlyMXlUeERwUlpSaG4zREV6c2prRVIxMXVLOG5wNHdpNldoTFVaNVNpeDJyWGxlTGczM0RzdHNPR2t0R0dUUlBKU3U1TjVnOUxjQ3JJbjFUVl85ZEdsd0ZvV0VRcUptOUxrZjZPbEE0?oc=5",
+      "date": "2026-08-08",
       "source": "Bloomberg.com",
       "domains": [
         "semicon",
@@ -43,10 +56,10 @@
       ]
     },
     {
-      "title": "半導体現像液プラント建設…東洋エンジニアリング、韓国で受注",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9IOE5uVVU0d0xtaDhJRlR4VC1NajlWR0JaWndIMlJIa0FSZ0tacVFKc3JpMUhfM0xra2NDc0tibWp1QQ?oc=5",
-      "date": "2026-08-07",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "title": "半導体を専攻する学生向けの書籍4冊",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RRDlUOVgwOEc5ZmpfbEFETk9pVmEyTC04anJ5U0UzdzkwdkUtZ3czc09YU0pfUzBNcHNvbUNHczdaOTZJbTFCV09BZkZxT1hZRHJoTFdETlJ3UU1GMHVMZmxnVjNmQ2I2NTRwelBTbGgtTUJhUzBWc3BSbWI?oc=5",
+      "date": "2026-08-08",
+      "source": "Vietnam.vn",
       "domains": [
         "semicon",
         "supplychain"
@@ -56,10 +69,10 @@
       ]
     },
     {
-      "title": "シェアオフィスが新千歳空港にオープン 半導体関連企業による利用を想定",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uV0t2RWxyZUl3SlJPdVdabENFUWZnbDRKY1dGalVoam9ZLUI1aGpWWHFzN2VTdzVNWWpVdnoyTGhNZTVIX3ByRVpNVTVJcmJNXzR5VzBKcWtQZw?oc=5",
-      "date": "2026-08-07",
-      "source": "htb.co.jp",
+      "title": "半導体ガス市場は2035年236億米ドルへ、CAGR 7.4％で成長｜半導体製造拡大・先端プロセス需要が市場成長を加速",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0WlR6eV9sLVg4TkZ5R2FVWHlLUTRqdlNhRHU0bkQ3d1F6UzNlYmpCMmNXM3V5bnlQenFUeWo5dXVuSDRtM0FsOU12enpGWGc?oc=5",
+      "date": "2026-08-08",
+      "source": "アットプレス",
       "domains": [
         "semicon",
         "supplychain"
@@ -69,16 +82,16 @@
       ]
     },
     {
-      "title": "米ＡＭＤがＡＩ半導体のターラス買収、推論市場への対応強化へ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5adTRjSTlpV3pQUHRxSFhCQUxYSVpFbVp4b1NXSDk5THNpX0JEV0JpQXIxZVFKcEdrSjlNbnRwVTE3ZjN4YjFNYk13OTk2MnB5VjQ1YkhuT3dRb2tfbDExVF9PVHg2Y2U3RDhUeXE2OG1BVWVVaGpvNQ?oc=5",
-      "date": "2026-08-07",
-      "source": "ロイター",
+      "title": "コパッケージド・オプティクス（CPO）市場、2035年28億8,700万米ドルへ拡大、CAGR36.2％｜AIデータセンター・高速光通信需要が成長を加速",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZWU3WlNQdHU1WHJHbjVnYVI3M3RnNmZPYURJVHJBRGJEMGlmbGs0aXRyWng5dTQ3THp0MFdTQVM0dF91LVlNa1VtaGYxNGs?oc=5",
+      "date": "2026-08-08",
+      "source": "Newscast.jp",
       "domains": [
-        "semicon",
-        "supplychain"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "semi-process"
+        "datacenter"
       ]
     },
     {
@@ -108,8 +121,23 @@
       ]
     },
     {
+      "title": "【ライブ配信/ZOOM】「非フッ素系撥水・撥油コーティングの基礎と応用、開発動向」セミナー開催！2026年7月8日（水）主催：(株)シーエムシー・リサーチ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZ3B4N0JMWjVpUm5ELVUzVGVVRVlZR3EwOVVCMGVmcDlhU1psYy0zaGk5a3dxUnJSMGowU1lWWTNqWWtaY29RUnJDTUc0Y08wMC0zVUtCOHcxaFk?oc=5",
+      "date": "2026-08-07",
+      "source": "朝日新聞",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
+      ]
+    },
+    {
       "title": "商用水素ステーション市場規模の成長推移2026：2032年3094百万米ドル到達を予測",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZWGc0WHlKZHRTWEp1S2tBNHllQ2tZMVQ1b1BEWjIyd1g3WEFRMGo0MDlYSU5jTlRRZDg1VXFPd3V2R3cwcVFYVDl1LTJMcVU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vaEhFbnFtWGJXY1VENHdRTThoV1ktc1YydjVaNmhialFJRW9uMGFYa0gydmtqV1JQdjU4Nmhzd2hhS3lvcklZ?oc=5",
       "date": "2026-08-07",
       "source": "Newscast.jp",
       "domains": [
@@ -121,9 +149,9 @@
     },
     {
       "title": "世界水素ステーション用熱交換器市場レポート2026：40.96百万米ドル規模と今後の成長性を分析",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Nb1pqV3lOLTV0TTFNMm9uMEhTTkV2Wk5NMTJMWkt3c0tlUXQtZldkYkVER0h2QWp1ZjZjYVRreWdhMjNEbEJydW9LQmFsZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNcGc4Y3V4dHdHTGpYdTQ5b1lGcy1nWW4zWnVHNDJGdVZFWFhJM2wxelJnNTNrbnItbm9WeFM0YTlhMktlUy1n?oc=5",
       "date": "2026-08-07",
-      "source": "アットプレス",
+      "source": "Newscast.jp",
       "domains": [
         "energy-gx"
       ],
@@ -179,25 +207,10 @@
       ]
     },
     {
-      "title": "豪州連邦政府、カーボンニュートラル認証制度を廃止へ（豪州）",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VU2Z0QTZ4TmpGMmpsZDFMSnFKVEc3NndLTU9uTFNULTZ3WnRJM2hWN2FPeHFzeExlUldSNktaQU5ZWmROMzZvSjFpQjFYWFZXX29oWlBkdGRiOHN2TVE?oc=5",
-      "date": "2026-08-06",
-      "source": "alic.go.jp",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
       "title": "【水素の特性から実装まで】水素に関する基本的知識が学べる講座を9～12月に全4回開催！",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xdFBreEtRSnhsX25Ydm5GMUxZV2MyVVRBNnd2X0gySDY4UmhNbThRWmQ3YnNXWmVUV1o0Vmd5MWg2SmJ0WWxMM0JncWVPRkRVWE5tTUdubExUQWtOWUxHbDNsV3o1TVRyZ1RyUTlqVFBQRG5lOGNtbXNDaw?oc=5",
       "date": "2026-08-06",
-      "source": "biz.chunichi.co.jp",
+      "source": "中日BIZナビ",
       "domains": [
         "energy-gx"
       ],
@@ -210,6 +223,18 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mNkRhQ1lCZGp6TFN6bTFPdlRnQnF6QmZRd3VfNHk5cWZkTmpRQ29NTXQ3OGNnQ2VobW5BRlQ5NnVZREZwMS1kSnRDQjBKSVd4X19mc0pNWDRTUlVOd0thaTZXcDFuZ1BCZHc?oc=5",
       "date": "2026-08-06",
       "source": "PR TIMES",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "グローバル低水素シリコンオイル市場におけるトップ15企業",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUJ6d3luVzREMzVSd3dIa1NOYWtoVno4WWdZMzNRMmdGZklySFVla2ZRaVE0YjB6azZsWUZ4eUw5WlUyNmIyb3h0M3hEU3VFTDNnMmdFU0RLaHhaQ0lGWFh2a0xEd0syNEgxQ3Uybk5LcE1selZndG1NVm15NFRDaUZqX0kycHhMR0pSOGZXV00tcmVGM3RDc0dsUVBxM3NzQU8yeVpJZUJ6bER1b1BQNF9US3pUWks2Uk1KRUltTTI1RlVCRWVZLUhOSDBaRmdwWnpsS1poMWFZMUhwTlJv?oc=5",
+      "date": "2026-08-06",
+      "source": "Spherical Insights",
       "domains": [
         "energy-gx"
       ],
@@ -235,21 +260,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlhfdEE4aEtXR2tlX2MwWktEOWtMbE02bnJaX1d6STJNaTcyODdrYkZTRUNLYWdtZ1kxYzNEWm40MkNwWXJXeEZ6U3lvazVmR1F1ZHJLMnA3QjBCTWFJZzh2ZzRELTRxb0FXOERZSFE1cjBHTTJNSkh1Q0ZJNEsyR3RJdWd4bkphSDYxMUgybVhjM0hIbWdzMGxOOXYwWllES3RSSWhB?oc=5",
       "date": "2026-08-05",
       "source": "ChemLinked Japan",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
-      "title": "【ライブ配信/ZOOM】「非フッ素系撥水・撥油コーティングの基礎と応用、開発動向」セミナー開催！2026年7月8日（水）主催：(株)シーエムシー・リサーチ",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZ3B4N0JMWjVpUm5ELVUzVGVVRVlZR3EwOVVCMGVmcDlhU1psYy0zaGk5a3dxUnJSMGowU1lWWTNqWWtaY29RUnJDTUc0Y08wMC0zVUtCOHcxaFk?oc=5",
-      "date": "2026-08-05",
-      "source": "朝日新聞",
       "domains": [
         "env-chem"
       ],
@@ -303,19 +313,6 @@
       ]
     },
     {
-      "title": "SpaceXとNVIDIA、宇宙データセンターに向け衛星用AI計算基盤を開発",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DSmhKWWI1Z0dDazB2a1dILUdsMkE1QklCR1prZGxHdWFFazlpUV9lalhGZS1GLXNmZnhrU1VzRER3NGNHb0J2MklnS0c3eWNlLW1zX3ROdXVQdzBJS21mZlhBaTQ?oc=5",
-      "date": "2026-08-05",
-      "source": "Impress Watch",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
       "title": "EXCLUSIVE-サムスンとＳＫハイニックス、中国製半導体装置を試験 米規制リスク念頭",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRnhjMXljakpkaVFiLXhzaGxUTlVXXzAxMFoyYk5wd2dMZzF6cml2OVd5Yk1LRTVnVUlBLThJdU5za2xEMko5Mm1CZHE0LUhSNHN4UzdFSHVVNDJKNHBzX3l2cUVqaTQ?oc=5",
       "date": "2026-08-05",
@@ -352,61 +349,6 @@
         "econ-security",
         "supply-risk",
         "foundry-model"
-      ]
-    },
-    {
-      "title": "Sayari、経済安保・貿易管理を巡り250人集結",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mVlg3bW05QTZ3b3J0c1JFUkxOUGEyNWJPOXIyYmd1TzJucld2TWsyQ0JLSkdZS1RQd3NudXIzNzg5R0hXdWhNNA?oc=5",
-      "date": "2026-07-30",
-      "source": "LOGISTICS TODAY",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security",
-        "supply-risk",
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "BOMcheckを含む情報伝達基盤の活用と 各国規制対応における実務運用セミナー 11/13（金）［オンライン］",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BUzVPWDlzRGQ3LWtpaU5sYVFrbEpOc2ZLdm9HblkyLXBtdzhqcFhmTUVEMElYVUV2MkcxemtPUGFRUXItbjZKeHNDNHRwR3Vrd0Rr?oc=5",
-      "date": "2026-07-29",
-      "source": "ドリームニュース",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
-      "title": "グローバル規制動向を踏まえた貿易DX",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80ek5IUTUwX3I3U1piTFIzaXJob3NGQ0czYVB4TTU0azctZEhWWXVwVGpMZWE1VUlzRGJMUl9hVUJDX2VpSEVBUGFnb2wxTFV2SFRCemFaLUR1ZnpUM2xyTDJXMDlNZGZ4SUFZTTZR?oc=5",
-      "date": "2026-07-29",
-      "source": "kpmg.com",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security",
-        "supply-risk",
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "データインテリジェンスで守る日本の経済安全保障・貿易コンプライアンスの最新動向「Sayari Japan Conference 2026」を開催",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQUN0RmFjcHlROVBiZFBmMTNKMFVjYkZ1N3NxV1FpTUlwZXh3cHJxcnZGeXRPTzBrQWZoUGtYQjBmSl9yZVpiTk1kTlhHU2pBUU5FQ09RMWl0RWVCTnJiT21RUmJyLWtrRFE?oc=5",
-      "date": "2026-07-29",
-      "source": "PR TIMES",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security"
       ]
     }
   ]
