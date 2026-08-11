@@ -1,58 +1,57 @@
 {
-  "collectedAt": "2026-08-10T21:40:01.925Z",
+  "collectedAt": "2026-08-11T21:44:54.952Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "TSMC、7月は44.7%増収 最先端2ナノ半導体も収益貢献",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CRzFGdG5PYTRYcW1WTktLZHp3UmVIdnlyS1RCTTdNS0dWTEpONTc4TzNiRXctdm1BREIxbHRrRnJ4LWpuaFVQMkYzLVcwcmdmR0I5OXQ2Qk9vV0trQlJXdEJpakF3QnVtZ2JPcw?oc=5",
-      "date": "2026-08-10",
+      "title": "ソニーとTSMC 合弁会社を設立へ",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40TWo2THBtT0NtM2F2eE83dGc2c0RXZmh3Z2dkblRPZFNUcjloM2dxc1lZYzFEU3pFUmlLblJtVk5nTDRVNjZXeTlHd2w3US10?oc=5",
+      "date": "2026-08-11",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "ソニーGとTSMC、次世代画像センサー量産を正式発表 熊本1兆円投資",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40TlI2c19qdlVtRkRuUzNPc2k1YmNEaEJjSGJCMHJPbmZPaFZzT09ybzhIcjMwSXlkbXBpUVpvMEw2X1o3MmdTc2hmY0xST1NNOGY2ajh0SjRaVl8yWTZncUVDVUhIREItZlNOUw?oc=5",
+      "date": "2026-08-11",
       "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
         "foundry-model"
       ]
     },
     {
-      "title": "SpaceXとTesla、テキサス州で世界最大級半導体工場「テラファブ」建設",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YZDBqSi01aWozdm5MLXhjaUVfWFNHUUxqc1d4bVAycmtGc1E5SndTVzNNdkhrbGZOVXVhRVlSUXBNZl95U0I4Z0tIcURlVkU?oc=5",
-      "date": "2026-08-10",
-      "source": "ビジネス+IT",
+      "title": "ソニー・TSMC 次世代画像センサー 2029年から量産へ",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13VWlfcnJqdlhKR2QwUGFhQWJNYkxKWW9Wd1BwU2JjY29oSlFyUkwxcUNhNDk2ejZVRGV4a01SUFhrczlzd0tuaGhZeU1BSkIya2E1aGctZE9xSGRQY0Jr?oc=5",
+      "date": "2026-08-11",
+      "source": "NHKニュース",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "foundry-model"
       ]
     },
     {
-      "title": "韓国、35億ドル半導体基金設立へ 国内製造拠点開発を加速",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpEUEFpNDJkc2h6MFlKbEJxZ2IzWC1UaGdiZ3owcWRpM3E4bUFCLVNuRjYwU0ZzTmxidnJ4M1I0MHF1aGMyZkdIQm1faXJDQmx3Z2lYSXhwaWVRM3l1VllHVE90QjBSTENMZnZtYUc2NWlLakhPcQ?oc=5",
-      "date": "2026-08-10",
+      "title": "ソニ－とＴＳＭＣ、29年から次世代画像センサー量産へ 熊本に合弁会社",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SdkVmTGhJcmxzYzEwcFlRdHVwUHZWOUpQY2pqT0hmS3RLeFV3dzhqZkNtSlYtekhRTW5oeHd0UmhMcjJhUXAtT09Oa3R2OThtYnBBWXZORWhaUlE5XzRGNDI1M1FjVk1YYlhDYVU4RnV4b3Q3Ulk0Vg?oc=5",
+      "date": "2026-08-11",
       "source": "ロイター",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "ソニーＧ－急伸 ＴＳＭＣと熊本工場に1兆円投資 次世代画像センサー29年量産＝日経(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFd6cnVUZDFMUUgwUUxfak9mMHJWRjBqMXhaY3A1TnlKY2xkYTlBVWl6TmVGU1pwS05oU3NvNWhIMXBDQm42WF91Nkx6WnlGRnFfZDdsUHYyRUFFY044d2JIdmp5UndBeFlKSE5LbHM4ekpyMjhIcm5rUjl2Zmk1TnhXZks4Qmc?oc=5",
-      "date": "2026-08-10",
-      "source": "Yahoo!ファイナンス",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
         "semi-process",
         "euv",
         "foundry-model",
@@ -61,27 +60,10 @@
       ]
     },
     {
-      "title": "ソニーＧは４日続伸、ＴＳＭＣと画像センサー量産に１兆円投資と報道",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SNVJWYk5VMUZ1UzBmVWtnWTdaSkhqRE5INkp6RktJVlZDbUd3cTN2SXoyYndoUzhFZ1g0QnNPUlNKTThRT1M5SDViR1UwSmxZTUxmekREUUxPWlJ3RDVlOQ?oc=5",
-      "date": "2026-08-10",
-      "source": "株探",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process",
-        "euv",
-        "foundry-model",
-        "hbm",
-        "cleanroom"
-      ]
-    },
-    {
-      "title": "TSMC、7月売上高は44.7%増―AI需要は堅調だが、収益還元は追従できるか？",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUJJRmpwdnQ1VHowY1RkV3ppSGNhclNNcE51VlZfZzJsUjNYaWlJY0hpd0o1NGs0YkhuVTF1aTJ1QWxnSVIwZlMxaFZRRWhXUXVWN21xRlB0WTVkTHN4eXNMSjFESHFPenIyanE5amxVblY0M1dJMGVCZnphWmlOZ1FQWHViWDRvWW1jWlVCTWxvbWlGWWthS1lMd2gxSG5RaDJyQm1B?oc=5",
-      "date": "2026-08-10",
-      "source": "Moomoo",
+      "title": "ソニーGとTSMC、次世代画像センサー量産へ 計7470億円出資 [熊本県]",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aQkdFOUtSRVFQeEc4M0NhRG5wMjVFNWdZTmEzcFBfZjRlWmRpRHRrY1U5eHZwdTc3a0VjRVRvZjU5SGthVFVWM1Y1US1lelpZM0NTN25ocGowTFN0SldMemI5ZWRKSms?oc=5",
+      "date": "2026-08-11",
+      "source": "朝日新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -91,10 +73,38 @@
       ]
     },
     {
+      "title": "独立し成長するキオクシアが証明する、ニッポン半導体が沈んだ理由",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44X2Q3cUp3enh2NC1Mem55Ti03bEpvN1B1N1loTS11ZXlrM25WUnlRYkVTUUtuY3UxSzhBN0FDeXV1NjE3QW9LRGVUVkd5RW9tb2RUQjFR?oc=5",
+      "date": "2026-08-11",
+      "source": "JBpress",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "レ・チュン・キエン博士：新たな規制により、化学物質のライフサイクル全体を通して追跡が可能になります。",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3M2SDRpT0JJSHVMLTJMSTVzeHhUQXhCdk9qQmFreFcxWTRVb3pDQkxCXzBCdU9SX0tqR3M1M3FPUTFRTXRRaEVoU1RCaFVrNkc2dlJRamdRSkJPUXA3bWZLTHc0TlJqYU05VFBGYkExcWZqdnRmNkItZXpxQjhfVnpmd2s4UTBDOXItWHhBckFCTk1rcjFieWN4LWM3aG1R?oc=5",
+      "date": "2026-08-11",
+      "source": "vietnam.vn",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
+      ]
+    },
+    {
       "title": "水素電動フォークリフトの世界市場（2026年～2032年）、市場規模（",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JX1JMa3prNU96WTJSa3NUSktmWDNKTkVzZjlVNWt0SHFsU0swTUJGYnA0NU1Jak9Ed2c3R3RmMEZ5RkZvTUhGeDhjeUVVTUE?oc=5",
       "date": "2026-08-10",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "domains": [
         "energy-gx"
       ],
@@ -103,24 +113,10 @@
       ]
     },
     {
-      "title": "【JPIセミナー】（株）東芝「再エネ・併設蓄電池・系統蓄電池ビジネスとアグリゲーション事業戦略」8月26日(水)開催",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1cFZNelZsakhwdG4wYXA2aUlLQXM1Rmd4OG9nUWlYd25nbEZFSmszN3FldWw1bC1xc1cwOTJPYlhVNUdDbWZxWVBhRFowcktWNEk2Wm5lRGxpWGZDQW9uUE5vdENrZGppOFhpd3VTOG53TU1jTlJXc0RmZw?oc=5",
-      "date": "2026-08-10",
-      "source": "ニコニコニュース",
-      "domains": [
-        "power-market",
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib"
-      ]
-    },
-    {
       "title": "AIデータセンター市場は2035年に1,975億7000万米ドルへ、AI需要拡大とデータ処理能力強化で市場成長が加速",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yRGFnb1FqYTlMdlV4a2Rqa0sxUlY3dWl6WlhEUnpSX2R4R1M5aTI2RjZfRkc3emJMWVNhaEVEUl8zYy0tU1E3NVNJLWhGZXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzelN0eW9pUFJXMnI3ZHd6WUNxLTZkU3JTWnhLMDk0eE1yVGxrbUxSM2VrUXJvSk5qRmdVUXQ3XzBVUFYwaENz?oc=5",
       "date": "2026-08-10",
-      "source": "atpress.ne.jp",
+      "source": "Newscast.jp",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -144,19 +140,17 @@
       ]
     },
     {
-      "title": "【AIインフラ危機】生成AIの電力爆発を救う。NTTが賭ける「光電融合」の衝撃",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwZnR2QnlPX09SRk1hOG5NNjh3N1YzeXZPUVQwZXZOSUJlSnR6VktwVGo1LURLVXBQTnlHT0JybTI3ajBYUkNuVzhwaGhQdFNyaTZWckFB?oc=5",
+      "title": "高帯域幅メモリ（HBM）市場、CAGR25.37％で急成長｜（CAGR）25.37％ AIデータセンター・GPU需要拡大が2035年の市場成長を牽引",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FUkhNUlROSE5VR2ZtZ1YzczIxM2FLQWw3NWJ2NldUNEo1V2w3TUdPMWs5V3FhVjZMWS1nOFFxLXZqZkVHUkZj?oc=5",
       "date": "2026-08-10",
-      "source": "DXマガジン",
+      "source": "Newscast.jp",
       "domains": [
         "datacenter-ai",
         "power-market"
       ],
       "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
+        "hbm",
+        "datacenter"
       ]
     },
     {
@@ -176,19 +170,6 @@
       ]
     },
     {
-      "title": "インド再エネ大手、超高純度グリーンアンモニア製造事業に着手(インド) | ビジネス短信",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yM2plaTl4U2oydGtWa01NTmo1U3BJaFM1bGRxUVFsb0RlY05HeDFIM2JIclI1NHMyX1daNXdqa2RHYld6MThieEhiYnFvcFlodmJLZnZmYkdpaXA2Q0R6U1NBTFJocnYzWU1kak9B?oc=5",
-      "date": "2026-08-09",
-      "source": "jetro.go.jp",
-      "domains": [
-        "energy-gx",
-        "power-market"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "グローバル水素ガス市場のトップ25企業",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWC1fNlhhajBiQWxPRXRabGEyb1h6eThORmdzXzFjNi05akp3S2liejlXZ1l5RFFyYUY5WVlwdG1KQ1ZueUdqRG5ELWM5cUlwZTVVdm9uN3dSSHJlQzl5SlBJZnJRX1ZjVEtacVpJT2c3dHNyUHhLSDNkOFVqVDV0YjhoNG5RQ3BIejZZXzFNWlJqbm1SMXBPdURHV1o5TWZTYU5LM1ZCdmI1TzJ3Ykg3U0s3N3FfS3MybkpCRmR4SUcxMWRTVzFfakV1WFFYZw?oc=5",
       "date": "2026-08-09",
@@ -198,6 +179,19 @@
       ],
       "terms": [
         "hydrogen"
+      ]
+    },
+    {
+      "title": "東北電力、宮城県七ヶ浜町にコンテナ型「宮城AIデータセンター」を新設",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IRW1CYUl3UWlxOGNvOGdWN1FVZWlBejFHMVdMWEhyR19YV0xDekZZVi1nYVJOUzNrekgtUFhQRExmYzV6b3l4eEhNb3A1eXlaMms4?oc=5",
+      "date": "2026-08-09",
+      "source": "ビジネス+IT",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -214,16 +208,15 @@
       ]
     },
     {
-      "title": "通信3社のAIデータセンター競争、焦点は運用技術 冷却・接続・電力効率がカギ",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnl4U2ZHN2pMS0VhT1NyRHRxbmJudFpZUGV4WVlsNXR4MnZ0YVE0SmVKOVZZWGo2ak1xQlFiQW04d0xSZS1RUUdEYWJOUEQxYXE2Q0VXQlBvRVE0UmZqd1Z1R2JWV1hrMVNOUDFoZDBzb2tfN1NHN09vMUNJb0g5QkQ4TkhhbnNwclNrX2VaNnZFRmhmSU9LRW12T0FpSGJjRkt0cGxLTDduN3V4aWk4MjBLSVpQc2xYQjJkS0lXczVwcGFIQmtSdVNZeHE5LUwzR05obWtB?oc=5",
-      "date": "2026-08-09",
-      "source": "디지털투데이",
+      "title": "「永遠の化学物質」と呼ばれる「PFAS」。規制状況が大きな転換点を迎えるなか、IDTechExが関連する最新調査レポートのリリースと無料ウェビナー予定を公開しました。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUTXhxUWFTT0N4MkFkSjB5UFNFMFBWOVl1QjRySFpNajN6RWhxWTh5VWs5OC10SjA5a0hod0xEY205bElPOWRRdjNqQTM3X3NPd3ZJ?oc=5",
+      "date": "2026-08-07",
+      "source": "ドリームニュース",
       "domains": [
-        "datacenter-ai",
-        "power-market"
+        "env-chem"
       ],
       "terms": [
-        "datacenter"
+        "pfas"
       ]
     },
     {
@@ -237,18 +230,6 @@
       ],
       "terms": [
         "semi-process",
-        "pfas"
-      ]
-    },
-    {
-      "title": "「永遠の化学物質」と呼ばれる「PFAS」。規制状況が大きな転換点を迎えるなか、IDTechExが関連する最新調査レポー",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9udDhBMjQyOWFEU0d4bTZjd0Z5Q05XU1FkbzNCcVItLU9PcFZwSTZZeDRxem8tRk5lTUVPeXNFOEtqb1UzdGdSN1BHY200UnA5MzEwbXIya1ppNjNOSUh1V2JlR1MwOVdIejVTQzVWeHVJWlJPMmc?oc=5",
-      "date": "2026-08-07",
-      "source": "ニコニコニュース",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
         "pfas"
       ]
     },
@@ -307,6 +288,18 @@
       ]
     },
     {
+      "title": "水素利活用ビジネスモデルの成立性を検討するNEDO調査事業に採択～ 水素ステーション向けオンサイト水素製造モデルの実現可能性調査 ～",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mNkRhQ1lCZGp6TFN6bTFPdlRnQnF6QmZRd3VfNHk5cWZkTmpRQ29NTXQ3OGNnQ2VobW5BRlQ5NnVZREZwMS1kSnRDQjBKSVd4X19mc0pNWDRTUlVOd0thaTZXcDFuZ1BCZHc?oc=5",
+      "date": "2026-08-06",
+      "source": "PR TIMES",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
       "title": "月次化学物質規制ニュースまとめ：欧州・北米編（2026年7月）",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlhfdEE4aEtXR2tlX2MwWktEOWtMbE02bnJaX1d6STJNaTcyODdrYkZTRUNLYWdtZ1kxYzNEWm40MkNwWXJXeEZ6U3lvazVmR1F1ZHJLMnA3QjBCTWFJZzh2ZzRELTRxb0FXOERZSFE1cjBHTTJNSkh1Q0ZJNEsyR3RJdWd4bkphSDYxMUgybVhjM0hIbWdzMGxOOXYwWllES3RSSWhB?oc=5",
       "date": "2026-08-05",
@@ -335,10 +328,36 @@
       ]
     },
     {
+      "title": "サムスンとＳＫハイニックス、中国製半導体装置を試験 米規制リスク念頭",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41cnBrLW5iNkdRZ25jVVlqWUhCdzhONE1GY3F1aklUM3BaZ0pwZTZDNXdMMXJQaVJQU1dlYTNvak9uYkJ4QTZDYzBrWW9VYmpDQk8wTTFGMFRrTzNUU2xDUEhheS1MM2ExWnVDX0VHNmJTdFN0NUJBbg?oc=5",
+      "date": "2026-08-05",
+      "source": "ロイター",
+      "domains": [
+        "supplychain",
+        "semicon"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "米国製AI半導体の対中迂回輸出を遮断、NVIDIAがアジア顧客半減 管理された依存の深層",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwUjJ2WUxBc2ZZUEtOakJuVmt2TzZmQUQzMEo3TWhBRzVNUXBGR0ZqWDNuXzk0eVFGTERKSEVhRUpZM01rQjNxRHFGVm42VWNpdHhHWkZR?oc=5",
+      "date": "2026-08-04",
+      "source": "JBpress",
+      "domains": [
+        "supplychain",
+        "semicon"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
       "title": "サムスンとSKハイニックス、米輸出規制リスクの中で中国製装置を検討：AMECが評価リスト入り",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONnNUa2JTZzU3bUJHdFdIdzV5MDM1YnlPOHlrbDVVTllTbzhkbS10UjQwQ0YtMXpCVUlJbEJ5bUNjX19iaGdkZHVXOHlXSEtyM3NwbGN4QWk4VzRzUzlnbnF5QWxRSGEwZXk3WS1BQWRfWHBvWllIbHFlSWdjMDBfRk5ueXRRSkRzVExZeXZmMXplTENlbzNuZ0tKWWo4QTZ4c1NjamtlMEhNZEZaWUY1QldKZ3hqMG03UnRoZ3d6Q0NiazJ5YnZSNXp6aXNpYmdGeGRpXw?oc=5",
       "date": "2026-08-04",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "domains": [
         "supplychain"
       ],
