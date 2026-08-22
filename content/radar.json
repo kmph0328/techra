@@ -1,39 +1,12 @@
 {
-  "collectedAt": "2026-08-21T21:22:52.637Z",
+  "collectedAt": "2026-08-22T21:20:19.590Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "「ソニー×台湾TSMC」提携による半導体イメージセンサー共同生産の勝算と課題、“工場軽量化”への戦略大転換で設備投資を大幅削減するシナリオとは？《再配信》",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3TmpkS2g2emNGZ19pY0hiTFNKenQwOGs5RWpsWEoyX2NVOGF2ZjhvbjFmRUxtOGlDbUxCMkliYVc1STZqZVU4TnRleUbSAU9BVV95cUxNdXNyRUZSMjUxZm5PRWJ2WmY5TmZzYXlYRjdlb29BZkVMSVk0Smo2Yi1WTmEyTjF5eFVVekRtOHFZWmZiVHBDc3czVlR1ZUNB?oc=5",
-      "date": "2026-08-21",
-      "source": "ダイヤモンド・オンライン",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process",
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "サムスン半導体部門の賞与6000万円 スマホは60万円、組織不和生む",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsRXg4ZDgxQmVIc1ppdkRwSHItNWxMSkMweG5VdUdRQk82QzN1UnFMSXhjWUxkYXgyd1VyV2xKME9pZ0o1Tm54dVZaaFE0cExiQ1V5LVVJSjc2d2kyVzBEY2JtZVNsdE56OVNIWA?oc=5",
-      "date": "2026-08-21",
-      "source": "日本経済新聞",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "「もし決まれば非常に大きな成果」SKハイニックスが宮城県に半導体工場建設検討か＜宮城＞（ミヤギテレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUFRmWWItVFNCbDBaUmZhd19XdkY0djQ1Ui0yZExQSE9wTGpyZ3VxaEFUWjRkcHEtUFJVbXBJMVY2VndRZUkyMEZZS1lzdlVTWThESUk5TEhEYmNPZ0xHbzdmMWsyTVM1R2k2RkFiUzVPS1dVQlBWdVJpX21ZWlk?oc=5",
-      "date": "2026-08-21",
+      "title": "製造現場の実際 肌で 半導体装置メーカー体験型インターン 全国から学生参加 岩手・北上（岩手日日新聞社）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PWk8yQU8xSlpOZ203Um1rV09RamhRN2NaTXVXUEVkbWlEMTlpemxhT3VYS3p6M05kV0wwOXY1RjJESFB2cU5SbHVFdmt6eGZKcVBwb0QzVm9ZNl9uWlpjVFE5Ulh2Q1l4QnVXamt6QUNMVWZCTzZtb29nc0luVlU?oc=5",
+      "date": "2026-08-22",
       "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
@@ -44,10 +17,10 @@
       ]
     },
     {
-      "title": "ＳＫハイニックス、日本でメモリー半導体工場建設を検討＝韓国紙",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96endaOTZSaTNtSUJseXNXelRBdVNQRUlvbTg4X19iR3Q2b0piRHVOSEg1eUJOclpEUDlrMUFHZnhEejdzY3NqaUFnVnQxQ0FKc3BTT1VtcEV3TWdSQk80ZG5KQVRzNzJ0R1BGMmM1bGFCNWtQcUZfYw?oc=5",
-      "date": "2026-08-21",
-      "source": "ロイター",
+      "title": "メモリー・ロジック・パワー… 半導体って63種類もあるの？",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iaUl0TUw3blJTWXVJczhwV2hndC1lMHJ5Wkg0TTY4cHpzNXEwNUkzRHZvaGZhajNsWHU3ZFhyMUxuQmhnc1VMZ3BpOWhUMzF5X2hiWmtOSDE1SDhCN2lobDdxYmpjSWxNaFVCYw?oc=5",
+      "date": "2026-08-22",
+      "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -57,10 +30,24 @@
       ]
     },
     {
-      "title": "高市政権、国民の税金で「自動運転用の半導体」開発",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0taW5zeTQxb0VxcmhUZlN1OHg4RUdlSkVCUHJYLWFnd3AxR3JXSkdQdnVUUkRPOXJaN1BPUHNtZGtiZ283UUY4aw?oc=5",
-      "date": "2026-08-21",
-      "source": "自動運転ラボ",
+      "title": "エヌビディア、AI半導体搭載サーバーを値上げへ－15%超えるケースも",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IR05pZUZIZ2xPZmdrZUxGMHhCT2lSdGlWaHpoRlBzb1JTNTZBc3ZkMGlYZDl6V0I0bmEwZlBzcWtZUFhtODNpVl9uOHhFa2E2YkZNSXA0SmVtSHFfMmdqQVdYbkZMa21yVE1nMm41VHY5eEYtLUtZ?oc=5",
+      "date": "2026-08-22",
+      "source": "Bloomberg.com",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "datacenter-ai"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "〝ポストSiC〟として現実味…「Ga203」量産へ、8インチウエハー製造目指す",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93bjhrN19fZ3RpRmMtVnFleG54Tjc0c0pWMWN3Y3c3QWJvWmZLSUx1dHdTVFVXVUNOamxvNXJBZllJUQ?oc=5",
+      "date": "2026-08-22",
+      "source": "ニュースイッチ by 日刊工業新聞社",
       "domains": [
         "semicon",
         "supplychain"
@@ -70,16 +57,41 @@
       ]
     },
     {
-      "title": "ＳＫハイニックス、半導体材料・部品・装置の強国日本と同盟…大規模な補助金も期待 : 経済",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kMW5uY0tCSzZMTUtLd3Q1QnJwWkNvOHNKVF82a0hWWnkxZzVQSFdjUG1mWjZwOF9MbEJDSzYzZEo4WHIxYkFlWklpbnZPbzdCZWJCX3A0Nzl6cjg?oc=5",
-      "date": "2026-08-21",
-      "source": "ハンギョレ新聞",
+      "title": "半導体、外資の投資6兆円に",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdFdRNGFtZW1IcFZKc3plSVJUbm1ub1JEU1poUzBQaFREcDlUTjhhVHg2YW5RUzN6STIyZ3RaSU1vVG1QeFFsOUNteWhabGtJcXJjQ0tWeGdxV1RfY3RaUW44N3NvdWtTeVppWQ?oc=5",
+      "date": "2026-08-22",
+      "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
         "semi-process"
+      ]
+    },
+    {
+      "title": "半導体パッケージ用ボンディングワイヤの世界市場（2026年～2032年）、市場規模（ボンディング合金線、ボンディング銅線、ボンディング銀線、ボンディングアルミニウム線、その他）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpZm5oQkd4VEVDZm5SV2NuV3F2bDFwbjRWdVg5M2hxY2xYVjhNSVFTSXMtM0ZLV1IyVlkxYnRxamJmU0pucVpSa1pwTXl4SVU?oc=5",
+      "date": "2026-08-22",
+      "source": "アットプレス",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "壁掛け式水素水生成機の世界市場（2026年～2032年）、市場規模（大型、中型、小型）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42eFAxdkFIOEZ1Zlg0UE9GaU9aZTV6ZHFONUQxVVE5MVp4STdPS1pVSzh3UWdOaTFoR0FFVmpZY28tOFhXekI0cnhOTFcxMk0?oc=5",
+      "date": "2026-08-22",
+      "source": "アットプレス",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
       ]
     },
     {
@@ -96,18 +108,6 @@
       ]
     },
     {
-      "title": "台湾・盛特材料、四国に蓄電池再生工場 ニッケル国内供給",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45SUYydnZ4UkFaQ1RVZTl3WTQ0VG1SUEFzR1p5c2twV3c2eFVEOGxGQXZNWlFJem5MMzZjSjlhaWtmOFhZMUdsNWtUNmhwYTRmOXR5dXo2Rk8?oc=5",
-      "date": "2026-08-21",
-      "source": "日刊工業新聞",
-      "domains": [
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib"
-      ]
-    },
-    {
       "title": "中国の天賜材料、上期純利益が約10倍に急増 蓄電池向け電解液の販売が倍増",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wYmpnd0JHZjR2ZmU5RVE2cFVqZmVmeHY2RmxCX2hPUUdiYnZBOUZHVURabXVNS3ZnUnk1R3BueHZRM1pGN25FOWhCSU9pQ05KWS1RenRqVk5TR0hacHBSVUxwMDJ5MDUyQ3M3OXJNWEw5Ul9o?oc=5",
       "date": "2026-08-21",
@@ -120,8 +120,8 @@
       ]
     },
     {
-      "title": "AIデータセンター、オープン設計が標準に…OCP Koreaに1500人集結",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CSVgtald4VkR3Z2l1NzQwblNNT1plSjliOFZzSGhBNFNTWXBBTklPUFloYXpkUmZFSVdyX1AwZ2ltWnQ4RU5VQmc5cDdaU3J5ZVNwTWRGVE1Uc0kwaHptczBxYjZpWFhyV0o2YXBMaWpReU5M?oc=5",
+      "title": "スペースX、軌道上AIデータセンター「スターマインド」構想を発表 最大100万機規模",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNFBEenBwNTg3NF9HdTBKb0ZrcGE0WnlhQ0pORkRwWDdKVmVGektBVnFzU3N3RTh4VWxmQlJOaEk4Nm04b3hpTnJMQ0Z3MnZheVBhOVl2YWY1U2lKcGVRd1pDeDJLTERoT0I4RC1SeFVYVk5z?oc=5",
       "date": "2026-08-21",
       "source": "BigGo ファイナンス",
       "domains": [
@@ -133,8 +133,8 @@
       ]
     },
     {
-      "title": "スペースX、軌道上AIデータセンター「スターマインド」構想を発表 最大100万機規模",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNFBEenBwNTg3NF9HdTBKb0ZrcGE0WnlhQ0pORkRwWDdKVmVGektBVnFzU3N3RTh4VWxmQlJOaEk4Nm04b3hpTnJMQ0Z3MnZheVBhOVl2YWY1U2lKcGVRd1pDeDJLTERoT0I4RC1SeFVYVk5z?oc=5",
+      "title": "AIデータセンター、オープン設計が標準に…OCP Koreaに1500人集結",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CSVgtald4VkR3Z2l1NzQwblNNT1plSjliOFZzSGhBNFNTWXBBTklPUFloYXpkUmZFSVdyX1AwZ2ltWnQ4RU5VQmc5cDdaU3J5ZVNwTWRGVE1Uc0kwaHptczBxYjZpWFhyV0o2YXBMaWpReU5M?oc=5",
       "date": "2026-08-21",
       "source": "BigGo ファイナンス",
       "domains": [
@@ -200,32 +200,6 @@
       ]
     },
     {
-      "title": "小型空冷式水素燃料電池業界分析：市場分析フレームワーク＋主要プレイヤー別シェア",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxMGloUkpaeFltcTdsc3A0Zm84NmY3eGhZVjBNd2kxNDUyMUl6V0YxZWEyNHljdE1VREY3RnRoSFhDZ0ZzX1JkamhoX3k5ZDQ?oc=5",
-      "date": "2026-08-20",
-      "source": "アットプレス",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "中国のCATL、2035年までのサプライチェーン全体のカーボンニュートラルを宣言…バッテリー低炭素競争に火",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xcWxJRGdXQ1VzTXgwRm1zUFg0RThhdGx1X2VoRlNRcHJFTE0tdzVUNmkwVzBJeHV4QXctOWdSMFFsY2pXM2pnV1YwWThfeXlBYTFDa1Q3Y2tabVduWnFZODZSaGtNd2xlQjh1N1BhcWo2WnhD?oc=5",
-      "date": "2026-08-20",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "energy-gx",
-        "supplychain"
-      ],
-      "terms": [
-        "supply-risk"
-      ]
-    },
-    {
       "title": "足元に眠る天然水素、21世紀の「ゴールドラッシュ」が始まった？",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NckVaMW0yZzdvdzIzWnhtcVVXTmtwMDlCMnB1ZVV6TENCbG9hVjhSQjFzQy1pbDFrNVFhU01iSlM2eTBUMFNfaXRtd0cwaEJDb0FBSA?oc=5",
       "date": "2026-08-20",
@@ -279,10 +253,10 @@
       ]
     },
     {
-      "title": "湖北工業が大幅反発､低電圧･低電力消費の光変調器を開発",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LZkp5MG1JRzNqTTdlcVdLMXpYMlVuSFZ6SXd5OHpNTXRjSUE3dkJ2WXoyZ1dEQnlIMHAyelRaMk1QQkk1TmU2RklWY2lVNHY5Uk9WNE0zMA?oc=5",
+      "title": "「電力不足」と言われる裏でAI企業が発電設備を買い占めている実態",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KeFBSZkREVC1KTjFfV3JLMng4aDB0RFVSeWVFNHJlbkpBQ3VRNkZ0VXZqMGpjX0MyRF9PNDlQUG96ZW5OR0ZYS1JlZEZDMmN5Y1RkbHl5Y2JMck1kQmhZTw?oc=5",
       "date": "2026-08-20",
-      "source": "四季報オンライン",
+      "source": "XenoSpectrum",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -292,6 +266,21 @@
         "pue",
         "liquid-cooling",
         "hbm"
+      ]
+    },
+    {
+      "title": "カーボンニュートラル社会構築に向けたESGリース促進事業における「優良取組認定事業者」に4年連続認定",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnOFV4Z3NGVVpHOF9BSkhEb2FyUHdVM2p6eEdVZ2JkaUc3ZDZheXhzMkJ1NGp3T0xFeUdEZEQ4ejZCYmI4T3RGVWlNdElNN09KSmtWdU9mYnV3enhNNVVzUExFTElTX25LUnc?oc=5",
+      "date": "2026-08-19",
+      "source": "PR TIMES",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
       ]
     },
     {
@@ -307,6 +296,18 @@
       ]
     },
     {
+      "title": "徳島県の蓄電池産業クラスター計画 政策手段にインフラ整備など",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2xNOHJBSWN1WnBRTlVxU0dEN0tuVTRPT2x2cTZZV1ljLWtLSHY0TnFkVVZKdC10bkZvOFZGZ3c3WnE5UmhjZDZISFdtU0owN1pZb0Nvb3dLTmVLNkZRQl9kUENUdVZ6aHlCQThlMVcxSlNHMXFmQTVmZVlRc2tsZA?oc=5",
+      "date": "2026-08-19",
+      "source": "建通新聞",
+      "domains": [
+        "battery-mobility"
+      ],
+      "terms": [
+        "lib"
+      ]
+    },
+    {
       "title": "ヒートポンプコンプレッサーの市場規模、シェア |成長予測 [2034]",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWXZDTHlKbTZnUVZWVmMxRS1Ud2FxMzVoYVR0dnRfcERDaVpSZlNDVGM0eGF2aXgzd0FDQjV3OU91ZDBYb1BfWkhzZG1GYktCUEcyQXh3MEo0NTltTXp2cEJRdzhLOFZFYktmckNLOG9senlWeFpjMnEtZU53OVFCSS0taldxVUJpbWRIX1VGVGt2NlB1akViVWRodXNneW9ocGxEZ3I4Q1p2dk95MHRUX2N1QUxHN0VMV3J2TzZBSHp0Q2QxZnlGeEoxY0tjNHNmeEhvcVJHRHlJTjNqbzZ1STR1Mk5aMjBmVDdYVDBpdWNqcFRsOTRLY3NwM2NMRFRueXNvUVR0b21LNnVKelFtWGJFdw?oc=5",
       "date": "2026-08-19",
@@ -317,18 +318,6 @@
       ],
       "terms": [
         "heatpump-cop"
-      ]
-    },
-    {
-      "title": "米中の輸出管理・経済制裁の最新動向を解説～経済安全保障・リスクマネジメント対応のワークショップ～（10月16日開催）",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nRnZVbmZrVTdZWE5vTHZkOEtZb1F1a3FuZWRfSEZFME5ETk5CVzA4dnVxaUJWaE1DdDRITTAzOG1nbnNnYlg1ay1TV0wxLTcxWFpYTWllemRiRWtz?oc=5",
-      "date": "2026-08-17",
-      "source": "商工会議所",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security"
       ]
     },
     {
@@ -392,85 +381,6 @@
       ],
       "terms": [
         "ppa"
-      ]
-    },
-    {
-      "title": "ヒートポンプ用ロータリーコンプレッサーの世界市場（2026年～2032年）、市場規模（R32、R410A、その他）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84UU5IUEkxeWVVQzc4amNxQ1NFWkNEaUJteVVtMmhfVnhGSnFYdTNCcHBGN3VNRzlicjFwVGVnQjlyX2M0LVpj?oc=5",
-      "date": "2026-08-13",
-      "source": "Newscast.jp",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop"
-      ]
-    },
-    {
-      "title": "ＥＵの新包装規則が12日発効、ＰＦＡＳ・プラ廃棄物規制へ",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ya1RqaVRNcU9CTFFKbFAwWXY1a1ZlaTVpVDhDdEEwam5lVHJVTzB2RE1PQW1vVFhZSkpWcjdlNS1YWDlSQVdqRHFYSUNZVnQ3bC1KOG1qYUlKTlBDeGIxaUFleHN5SVhFNkhCZXllX1doLVVfaDhQMFcwREdmQdIBgwFBVV95cUxNWnJKN3F0UVNmOEJJUmsyQmxla1M2STJWbi1JczNZaVpxYjg2SlMwN0pHNlU3RmJOczFFWklhSjRQbEU3MHp2Y242UWpUN3lvOE1vTTVLQ2QzUF8xQXl5NWxObVRfYVIwcXdBYWRIbFdGU3pvUEJiQUFYUVVJb2FiY3NSWQ?oc=5",
-      "date": "2026-08-12",
-      "source": "ｄメニューニュース",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
-      "title": "スウェーデン政府、国内独自のPFAS規則案を公表、意見募集を開始（スウェーデン、EU）",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tamI0c1o2dHVGeFZLYkgyMHdWeXZteVlHVmhXTGp6QmVvWjNtUWZQOW01LU1PTVNOa2lrQUlfcW5DeHRPUkgxU0tOUDRmYWNkS1IxMWE3b0F5OWZhNVgxSDJwTDhRamhTSEZn?oc=5",
-      "date": "2026-08-12",
-      "source": "Infoseek",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
-      "title": "自然電力と東京建物 既設FIT発電所のFIP移行によるバーチャルPPAを締結 市場価格に連動しないスキームで、追加性のある環境価値を長期安定供給 東京建物博多ビルにおける脱炭素化をさらに推進",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NV0xEVTVZMXBtZWx2bV9YcXl6Z0l5VXVURGk4X3Rlbzd4VllkLVNsbURiY1FZV25xcXFqVUxYNW8zdGZIcEJMVVBEQmJPaU9LNm5ESFhxbEdndVR2ZFR5b2FxWkFSOFoxaWc?oc=5",
-      "date": "2026-08-12",
-      "source": "PR TIMES",
-      "domains": [
-        "power-market",
-        "energy-gx"
-      ],
-      "terms": [
-        "ppa",
-        "fit-fip"
-      ]
-    },
-    {
-      "title": "香川で経済安全保障セミナーを開催、地政学リスクの影響や安全保障貿易管理、技術流出対策について解説",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jQTVONERoMXE0Vl9sUUhrc0lmYm5GOXUxVTJ2Q1RDZEI2cktUSXZ3V05sQ1p4VHRfc2h3emY0aVVMSDZNcUdzdmxRT0M0eFZsZHJoTTdBYndRWlU2cHFFYzh1MHlHVE5QQ0lyc3NR?oc=5",
-      "date": "2026-08-12",
-      "source": "jetro.go.jp",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security"
-      ]
-    },
-    {
-      "title": "【経済安全保障と資源ナショナリズム】重要鉱物の輸出制限が過去最高に。2009年比5倍の規制拡大とサプライチェーンの分断リスク",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqY3dreExKbmJXZGd0WjBFLXdLOEowSzFVS0t2eGNDTkxMMlFaMlQyd3ZZSVJkdnFqbjVndTU1ZmFnOFJzeFRtTjV6UUhjS28?oc=5",
-      "date": "2026-08-12",
-      "source": "DXマガジン",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
-        "econ-security",
-        "supply-risk"
       ]
     }
   ]
