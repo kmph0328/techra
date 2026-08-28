@@ -1,13 +1,30 @@
 {
-  "collectedAt": "2026-08-27T00:28:30.242Z",
+  "collectedAt": "2026-08-28T05:07:03.367Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "京セラ、3D半導体ウエハー吸着する次世代静電チャック、年平均成長2桁以上へ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CV2FlR0otcFdGUnNHNXI0NUVPX0VXc29vcGlFQjFJVlR1RllXM2dUWmYydHBnWjZoRVNiSFQzQ3BydFVKdHlmcFRPYVNKS1pRUWc?oc=5",
-      "date": "2026-08-27",
-      "source": "電波新聞デジタル",
+      "title": "台湾積体電路製造股分有限公司【TSM】：株価・株式情報",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xdTcxNWFHTmcxM1RUcWhCWktEeDJHeGc1eEFjZ0FqUWlhT2laQmRtcW1DNk1LMDZBOVMzTjNxUW5oVnB1SlpGQ0hGc3ZDZw?oc=5",
+      "date": "2026-08-28",
+      "source": "Yahoo!ファイナンス",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "euv",
+        "foundry-model",
+        "hbm",
+        "cleanroom"
+      ]
+    },
+    {
+      "title": "初期設計から量産まで一気通貫 カスタム半導体設計のCyient",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hNVR3N2hsTVlBTTJUOXlpNTdpYTNraWoxbi1HU0tqdEJPNXpWNllNQUt6dTB6MVpIOTVfcm1zdWR5YWRqNllEbkhrOGxQb3EyN3ZTV05pRlpOekg5cDg4cDVMbUNnRnVDQXZLUGZMWQ?oc=5",
+      "date": "2026-08-28",
+      "source": "EE Times Japan",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,24 +34,23 @@
       ]
     },
     {
-      "title": "ソニー、TSMCとの半導体合弁は何を意味するか",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VR1lJOWtkR01aLXgxZ3ZxLVViams0OXkxQl9VRkZiV3FYOVhuOU5QMnVCXzNkYjlobHRrck54OVpZNnJMWmJvV3k2dFNRS0JXaGJDZVdtZmdZTGtadjJwSDd1VTJOcm9PX1E?oc=5",
-      "date": "2026-08-26",
-      "source": "日経クロステック",
+      "title": "ブロードコム社とメモリおよびファウンドリ技術分野で戦略的協業を拡大",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lV0dybUpVeFFYOXBING1mWXFDaVZQd01sWVQ1MHVpT1FJNWhkWFhhb3RHd253cHlGVVROaElsTVlvYmxtZ2sxWk5wZ050RDAwYVRSaXdINE1BWjA?oc=5",
+      "date": "2026-08-28",
+      "source": "共同通信PRワイヤー",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
         "foundry-model"
       ]
     },
     {
-      "title": "トクヤマベトナム、先端半導体用シリコンウエハー原料工場を開所(ベトナム) | ビジネス短信",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RYkNlZTNIQjdIUkp4b242aVRzZ3FDNF9hTWNFaHlfS1c3aWRVOUJlZHpvVVZlU1EzaS1ZMjg2MHg5aklCNml2LWxKMmdnNzZYekp2YTh1OWpEQkltYlRSZ25lZEFPc3gySzFsei13?oc=5",
-      "date": "2026-08-26",
-      "source": "jetro.go.jp",
+      "title": "午前の日経平均は小幅反発、半導体株や主力株の上昇が支え",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkhQUTYxSWdsM3NaNmZTblFlNmV0cFVjbGgtMGhsRmFoMUZEVVpnbkhJLXpXWjZkM2pSd0trZjlldGE4cUczakNZN1IxRjhxSE1QMXl6RkY1YXo5TVBnaEg4SlZzYXNraGdIakJULTVpSGxtamxwUTJwdDZaQW5HZg?oc=5",
+      "date": "2026-08-28",
+      "source": "ロイター",
       "domains": [
         "semicon",
         "supplychain"
@@ -44,10 +60,10 @@
       ]
     },
     {
-      "title": "小中学生・保護者向け「半導体工場へ行こう！～地域の魅力発見バスツアー～in井笠地域」（タツモ・エスタカヤ電子工業）を開催しました - 中国経済産業局",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5od3B3dDBvZ3RPYUNURWlYbW9qRW5YQ25KRER3MUgyRk11T0oybGpVd1RjVDVHc3RoTHI4N09HOVBUczNna0R0ZVVvSkVwVVhOb0NSX1pDWlZCZEdlbWZqa0JaSWo2TGZXU2pnZzdOa1M?oc=5",
-      "date": "2026-08-26",
-      "source": "chugoku.meti.go.jp",
+      "title": "熊本に集積する半導体関連工場、早期再開の背景に「１０年前の教訓」…被災２日後の再開も（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlQTh2Q2MxT1hvczlBVnphdHcxZWVTUmZleS1YVWRfeDhwZWZhQnNkTFJJc0R4QllTeE1GMWZtWk9vNDJtQS1jNUJza1ZIbWxMUk9DMzh2SEtxWi1adGdlUlZfM1hFc2pNdWZRaXh4OUdLdG8tMnFZcElpY0lYWkU?oc=5",
+      "date": "2026-08-28",
+      "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -57,10 +73,10 @@
       ]
     },
     {
-      "title": "住友化学の水戸社長が「農薬と半導体でROE8％」は必達目標と断言！製薬子会社・住友ファーマの提携先探しの進捗と、全株売却の可能性は《再配信》",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rUjdYWnFqeTdoYnVzX3dmZUdwTG9sZDVsTWZOTndCcUpJX1I2SjRtNXN3OFJhWFA3ZWtTeU9ZZHE2Z1F6T2ZFT25OM3TSAU9BVV95cUxNVWc2WnlZS2V4b3c0SVZ2SVVpSWlKenB5TUdDSlJ2cUxrV2tXQy1CbGlleWt0a1NfWXRneE94a216RENubU5ZaElPeVhYa3FZ?oc=5",
-      "date": "2026-08-26",
-      "source": "ダイヤモンド・オンライン",
+      "title": "株価 値上がり 半導体大手の決算受けたアメリカ株価上昇で",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83X1lFMV9sdFdYQ2tZa3M1bzIzbG9vTlFBZE5iUklzRng4MVg4dlBSMXpnZk9nRjl0MWVMSmNXNVRHSzkzNnJGeG03RTU2ZzVRMDJEa2tmcjZ5Yko4azhB?oc=5",
+      "date": "2026-08-28",
+      "source": "NHKニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -70,25 +86,130 @@
       ]
     },
     {
-      "title": "アマゾン､エヌビディア半導体200万個を追加購入－データセンター拡充",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpWkFaV2FYTVVpOER3bTBLQWY4OUFod3oyM19UMFl3Sk5oTkp4RklGOG53Uk1jNWJLRGxEalMxTkw2R3A4NENjcDdNNjltekk5LUZyQ0U1RjVhYUNodDlpcGk2T09rUEw5LVlsM1p6MXlWaWk1RnUw?oc=5",
-      "date": "2026-08-26",
-      "source": "Bloomberg",
+      "title": "水素燃料トラックの世界市場（2026年～2032年）、市場規模（軽・中・大型）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ec0VGRkxxX29DZXZrNjVSZXBKMTZaR3YydzBPSUFsNC1SNXdiTU5IWU1zYnBSc2tiNjQ1bWJEUUpSWjhRMnRrVVctbDRoMkU?oc=5",
+      "date": "2026-08-28",
+      "source": "アットプレス",
       "domains": [
-        "semicon",
-        "supplychain",
-        "datacenter-ai"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process",
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "空気作動式水素バルブの世界市場（2026年～2032年）、市場規模（低圧バルブ（40 bar以下）、高圧バルブ（40 bar超））・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ldnEzOUx6Mno3UlpQVURDaVdRNFZKMmttMjRUNWw4N3JlcVExQ29SWnpkOXhfbGIteGVEOENzcUtNUFhFNnhwRW1GNWpiZEU?oc=5",
+      "date": "2026-08-27",
+      "source": "Newscast.jp",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素トラック市場、2035年に1,865億1,000万米ドルへ拡大、CAGR 43.52％で成長する燃料電池大型商用車・水素インフラ・ゼロエミッション物流の将来展望",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKdGY4ZU13OGdlWElZRndRRGIwajhQY0dZYk95MHpGZmJLa3REV3dnVVFLbS1ydWstYWtSN1gxVjJOYzNqdDBrQXhnWVQ2bHZnWXNr?oc=5",
+      "date": "2026-08-27",
+      "source": "ドリームニュース",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "CCUS用遠心ブースターポンプの世界市場（2026年～2032年）、市場規模（BB5、BB3、その他）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dTQ1VC1YRXFtaURsc2xUSkNtYXBIVnRxcGhPcGlZWk5CMjdPX09GcTFzUU5xZmlqWHVYQ0pRS3JRUUREVUNTOWt6SXljcVE?oc=5",
+      "date": "2026-08-27",
+      "source": "アットプレス",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "ccus"
+      ]
+    },
+    {
+      "title": "データセンター電力制御のEmerald AIが1.5億ドル調達 JERAも出資",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUp6U2VVNXZpeF95aDBvaGVlNGpFYU5LVWU3aEkxLVpGU2VwY0xjSUlPMlJUTUV0d21jQXlGV3QxZ0c2VTBSTWFfMVZJMHNQdjctRXNIRThIaFBITTFpS1I5TlctYm8zQmhUU0NyQi11MkZKcWFBQ0tvLUcyMGdfcUlDUXFkWnpocmhwTDh6TUVJZE1Pb3VLNWozaF9pSEhoZVhSdndmdnZJTEJwelZuUFdWc05VbTJEcGNnbGRFZU4xYTlQNS1ZXzVva2Y2SG1NT1FTTnZGYW4?oc=5",
+      "date": "2026-08-27",
+      "source": "アドバンスドテクノロジーX株式会社",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
         "datacenter"
       ]
     },
     {
-      "title": "カーボンニュートラル、CCUSに関する講演多数！ 化学工学会、 第57回秋季大会を開催 9月14日(月)～16日(水)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UlBCYW8zN2J2Y2lza19wQmRJaEZKTmRKeWx3NVcya01rLUFfZklRMlV2cU9xQlV1NWdoY3M4XzhhNlhaX1IxdjRucXk4eFUwTjJWazltWkQwcU5vTnpKRXloTjFOenJW?oc=5",
+      "title": "ようやく加速し始めた「日本のAIデータセンター」 世界各地の競争と日本の課題",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tNGs0M09JUE1oaWY2bHZBcnZuWURPUzVrODViTkxIUlUzRDN0TGE2eE1RMGhpVnFiaXRyNVF1RENHQzg3ZzdiNnlVTEVRMnFtVHF1S2pKcXVFUDh0RjExNDFCUHhUNnN6SXNR?oc=5",
+      "date": "2026-08-27",
+      "source": "Impress Watch",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "［新連載］NVIDIA「ジェンスンの数学」 GPUが生む価値は0.5京円",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aU2MzdllCd1NDTVhEZHE0MjB0akpqeHF4YVM4RGNGRGZxZElNcGpqYzVlRDRZZk50d2dBYlp3M3QwQmg1SlRzeEh1cnNVUkQ5WWN6UU9JdDVSaXdyNFFhelhlQ2p5cEk?oc=5",
+      "date": "2026-08-27",
+      "source": "日経ビジネス電子版",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "ソブリンAIでは日本のメーカーの「モノ」が売れる②――日本仕様の液冷対応サーバーラックが売れる",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ScnQzR1FrSEpCZkVvLWtDM0JUQUFZdXNSa0VyamlFSllPcW1Fc0hIQUJMVm1GWk1CNGk3UVRhelFmckV5ZmlxTkowdG93ZFJjdUhWVGxTbWFfVHdTSVVsZ1BFNEhsZw?oc=5",
+      "date": "2026-08-27",
+      "source": "オルタナティブ・ブログ",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "liquid-cooling"
+      ]
+    },
+    {
+      "title": "十分な電力供給の確保 ― AI開発への野望を実現する。",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0JJdGttOTM1NmdkS0VUQ29NTG1vSTF1VEtXVE10eTVoN0ZmWGFlUXl5dWRhRG9DcDR3eXJXYjVoaUVtdTlNdXlIZEc1ZUY5cUNvS0hLZW9mRk9sRnBpUmJYamJqVHlpV0Zjby1yamQ5enhDWWVyOXlXN29LZHJDVk9YUWtsbmM?oc=5",
+      "date": "2026-08-27",
+      "source": "Vietnam.vn",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "カーボンニュートラル、CCUSに関する講演多数！ 化学工学会、 第57回秋季大会を開催 9月14日(月)～16日(水) 広島大学 東広島キャンパスにて",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5eUJKbkRNeGQ0T0FfYlNOQjBSV25nM0RxZjhBNGRlRHRPQmZtVWM0bUUzM1BsSWdtN2s2YUpfZ1FocEpFSjFCSGs2RWo1ZXZCQkVGTlNWRQ?oc=5",
       "date": "2026-08-26",
-      "source": "ニコニコニュース",
+      "source": "広島経済新聞",
       "domains": [
         "energy-gx"
       ],
@@ -98,7 +219,7 @@
     },
     {
       "title": "英国の建設機械メーカーが水素エンジン車で快挙 『JCBハイドロマックス』陸上速度記録を樹立（前編） 当初から平穏ではなかったプロジェクト（AUTOCAR JAPAN） | 自動車情報・ニュース",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFgzRkY4SV9qaDNrNG8wcS1WRFRVQk9CZWJjVEV2WXJ5ZDVZb2FjM1RYWlYxeERCU1pKbTNscWo2VXRGVUJ1Q3d4RFJONjlOYmFuVkh1V2YzWEE5V21lMHJSSDhwRHRPRkpaR2xSeUQ0WmpITWc2bUl0N19xSWhHTXdVWXZNT3dfXzNqTWl0MnJleVVM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzVXLWRseFdVNFZDcGF0ZlNuQ09PUlNMTUQ3Qko0ZE9zeF9JQzlDOWRsUlhHWkdkSXd2dXIwTHpKVk1kcXJzbEdQdjFTNFk3U2hiNnJudjZuekozUkItaXc5bW55UTJtYzNzYnU3d1J3MGRES0VzOGFCeTJIT0xwT3N2NHo4dUJ0?oc=5",
       "date": "2026-08-26",
       "source": "carview!",
       "domains": [
@@ -106,46 +227,6 @@
       ],
       "terms": [
         "hydrogen"
-      ]
-    },
-    {
-      "title": "大阪が誇るカーボンニュートラル技術を一堂に集めた企画展「おおさかカーボンニュートラル技術展」を開催",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mdFRsRzcwWlpaaXRVMmQySGdQbnVXSVZQU3QzS1hQZzVHREVWZmVDa0VGbHNOMy1icThUQlVKaHdobXctZC1UaVQ0aUhKVm9NZ3pEUVBjMkZ2aXNCUlIxSzVUQ182eS1ZekJEeWhQMW1EVjRPdUdEeVZB?oc=5",
-      "date": "2026-08-26",
-      "source": "イザ！",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
-      "title": "日本企業が撤退した北海油田、次の主役は石油ではなく水素になるかもしれない",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wb3d4ZnYwRW1lbFRzT0h1YXpUVDZCVFItMzBoanJRempsY1dndENHU1ZkTU1OcHFXSEVua21iTU9GXzl5QnFPUVJ0LXdETXV5emV3dGZJdldLRHhrT3FkSHRHZThIMzg?oc=5",
-      "date": "2026-08-26",
-      "source": "XenoSpectrum",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "日立ハイテク、リチウムイオン電池の代替となりうる全固体電池を実証 パウレックとフィジカルAIで効率化へ",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWN0FfZEZwV1JONTRZN1JDaFVld3VXVy1mWVNZZ1ZMd3NfdTg3S2F3QmwwLWRENzBETDhjRlNVc0dhYUdDU2JxRUJpX2NWd2FRMldxeDBodkVNTE4ta1ZF?oc=5",
-      "date": "2026-08-26",
-      "source": "PlusWeb3",
-      "domains": [
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib",
-        "solid-state"
       ]
     },
     {
@@ -163,53 +244,6 @@
       ]
     },
     {
-      "title": "【第一実業】データセンター市場への電力供給の「短納期化」と「PUE 1.1未満」実現へ",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52akwySmpKZ21QQnMwZ0UwYnl4aDVyeE11QUNfdnRTZnBjU29qczZUaXBySDg3NXN4ZXN3VF9FTWNyUDRoNXJsZmNCVmxOc0oybGZTdVg2TTFZSHlzUGtTRWtwM1ltMENvSEE?oc=5",
-      "date": "2026-08-26",
-      "source": "PR TIMES",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue"
-      ]
-    },
-    {
-      "title": "OpenAIが独自AI推論チップ「Jalapeño」を開発、NVIDIA GB300を電力効率・遅延で上回る｜Semiconductor Geek",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SYWdPbDQwN3pvN0tZRmVJTFIzbzBzSUdRUE40cFV5ZmttRTJCRGlYcU5sUXdtQVphbUZuVUF6Qk01YnlwN21NdlZnMFU4ZkJldHpkZVNrSktGRTlCWXc?oc=5",
-      "date": "2026-08-26",
-      "source": "note",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "semicon"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "瀚荃、AI電力コネクターが牽引 上期EPS2.75台湾ドル 株価はストップ高",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kOUQtOEZianpZblVMemplWG1fZWJjQXZpNzNpaUU0bUpuX0ZGaXBBb3FUN0JYY21pYURCbFpMeVh1S1c4NFlHOU5aWUtoT3ktUlducFVUdGE2NDFZMTZtSnFqb003Y3NxNDd4YWY1QTZqWUNY?oc=5",
-      "date": "2026-08-26",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
       "title": "高温水源ヒートポンプの世界市場（2026年～2032年）、市場規模（100～1000kW、1000～2000kW、2000kW超）・分析レポートを発表",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9SRGJhUWVhS2l1X0Y4UUdDYzZNN1VxQ3FZS2trbEZKWFZTeVFGMmVPYmJtZGl0UDlqa01IYVNyTUtJVEdIdVR3?oc=5",
       "date": "2026-08-26",
@@ -220,64 +254,6 @@
       ],
       "terms": [
         "heatpump-cop"
-      ]
-    },
-    {
-      "title": "【10/16（金）】中小企業水素関連産業参入支援事業「NAGOYA H2 Biz」第1回水素技術ワークショップの参加者を募集します！",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Y2JEYlZSQ0otQXh5QXhYa3JKd3pjT2c4N3liZ19SRmhBRTFZbkxJdTFXazUzcVZWeFBUVFN2UGdzY3ZFRmxPaThOeEpaREVMLVpQdUhRbTFqZDlVa2VzTkd1WGZ2bk92empXX0dhM3Q?oc=5",
-      "date": "2026-08-25",
-      "source": "aisin.com",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "アーチオン／タイのカーボンニュートラル実現目指すCJPT-Asiaに参画",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yWHAyelowdFJCT0FhYlRnd0tqMGR0VVA3V0NodzlFOWwyVEsyMld0NUJKS0tfR2p0UjRvcG5EMjVoWFFzQ3FuRUNQd0lkT1JGSnpFRQ?oc=5",
-      "date": "2026-08-25",
-      "source": "トラックニュース",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
-      "title": "AIインフラ投資の焦点が液冷・電源へ拡大、サプライチェーンの新たな注目領域に",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03SXBIaldQNEN3WWxJbVBhNE1nblhFWm5mMm5GRW5xUlhLbFg1ZW03ck5ydHhBU2tmMlR4WlZVb3gxWWVURHFjRFQzWWVvQlZGOHhXRDVkVzVKWVpUT09ld1lYQWpycFl4V1BMaWtUWTVHSGtz?oc=5",
-      "date": "2026-08-25",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "supplychain"
-      ],
-      "terms": [
-        "liquid-cooling",
-        "supply-risk"
-      ]
-    },
-    {
-      "title": "【NVIDIAがJetson Orin Nano 2を発表】エッジAI演算性能が倍増、消費電力は4割削減",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBieVphVTVmdEVza2pxYlpkcFpmeWZyWGhXQ1hLZ3cxVUxwV3ZMeG11b2NTQXJWanR3a1pGNFRwbHBQU3BlX2NQeFh4cmRHUlp0REtCYWJpRXp2U0JCaGVyZHhGbGhiN3F2dHJzUU5tOFZTSkRV?oc=5",
-      "date": "2026-08-25",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
       ]
     },
     {
