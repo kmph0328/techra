@@ -1,13 +1,13 @@
 {
-  "collectedAt": "2026-09-02T22:59:55.959Z",
+  "collectedAt": "2026-09-03T22:59:01.757Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "エヌビディア・セールスフォース決算通過 AI半導体市場へのインプリケーション 野村證券・村山誠",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ldy1uUW4yNkdBSjlha19QS1JBSk90TUZWbWJVYzFsZ2V5VEFpSDZXOUV1SDRlbmlDbDdnZ3FCS2J1OWl5Y0UwMHloMmI0bzQyVktENmpPdnhVSTh6c2Rr?oc=5",
-      "date": "2026-09-02",
-      "source": "nomura.co.jp",
+      "title": "半導体製造装置メーカーにおけるCRA脆弱性報告義務への対応",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGdOcHE4X29ON211VndkZmRhZlJ0ZFN3Wk4wWl9oRFY3YzF1azFkcnBsVkg2M1dRVVlNWV9ydEx3WUVBU01oOHU5SFFMZXFlb2ZjZU94Mk9xZlRKeFN6dDhsN0MzcDZfbEpUOHBFU1ZVT3ZMM1lpWHdOWHRLN0VKQ2NYQUEzRkFiOGt5U0tNNXp0WWUxU2lTOE1fX2xRNUo3MExwTk9wWU52WDNGTGRlNm4wcmJFNTFtVlZ5aHJ6RHI2Y0hyNzdieHFyVkRoaEJkWnkyeDRteFNha0xDWU1lYTRR?oc=5",
+      "date": "2026-09-03",
+      "source": "PwC",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,22 +17,22 @@
       ]
     },
     {
-      "title": "決算:日産化学、半導体材料が好調 大門CFO「2030年までに設備増強検討」",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xSHZSTzJKbG5pQndIR09ZeFQ5VnlPVE9hMGdpNmJqSUJBQ2Y2VWprVExqbmxENFBRdkZVSDlHMWpjX0FJRThYU3hWWVhEWUUwMEpkSFhYeHF5RHllUEo1Y2xvMk5IV21LMzRndA?oc=5",
-      "date": "2026-09-02",
-      "source": "日本経済新聞",
+      "title": "【本日の材料と銘柄】台湾TSMC、調達が必要な製造装置が昨年末から9割増(フィスコ)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVU0zam9mMTd6Q0p4elBhbXV5Z1NPUDZ4YWJ6dlFRa0xCLXZBT0MzV0tvZXJQOERMZXhDRnlGV2lCbUVqTFdBOUJPSFByYXdtLUQ1eHZYM0JLLVh6cU9NSnJYY0lsS1I2NG9FLXlOamIxWldmLWZBWXB6Snd4TnV3OGVzbmZSWlU?oc=5",
+      "date": "2026-09-03",
+      "source": "finance.yahoo.co.jp",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "foundry-model"
       ]
     },
     {
-      "title": "【まとめてわかる】日本の半導体産業は復活できるのか 再起の条件",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Ym95T3FmaWZOTDRza3N4U0twSWNTT2dqOW4za3paS1VPMnE2X3VBSXlxWDlnWEpuaFZKNmtwZXVqRGw1X3UycXowLVpmUE5zS1R5LWtiTFh3aEZSenNxYWFwQ1Bza0E?oc=5",
-      "date": "2026-09-02",
+      "title": "（チョークポイント・クライシス）一極集中の半導体、国内回帰の壁 台湾、干ばつ受け再生水増産",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wakFRbG85YVpsU2psVEt2cThidkt4QUdaT0Uzb0VTdXhJRl92TVphSFJ0YTNaMDA4alZCRW9JWUtZdWNCd3VYNjVyOTVYUGJMVi1XTGo2ZmpQRU53?oc=5",
+      "date": "2026-09-03",
       "source": "朝日新聞",
       "domains": [
         "semicon",
@@ -43,10 +43,10 @@
       ]
     },
     {
-      "title": "TSMC、半導体製造装置の購入見通しほぼ倍増－旺盛なAI関連需要受け",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS1XQnprUElXUk94ckZ3LWdRM2VmdFAtUXA4clZzY25aR2JNa0ZRWEp1WnZ2cmdoMzF6ZVd0ZUl5WHZWLW0wUTRPc1NoRjZmSjVTYlJ2VVBucDYzZnpzbGNCMXgxbV9SMGV3WWppeXhHLVl2bnpLX1BUT2VfR0ZKWGgwV3dONmxJeklGcEFsUEw?oc=5",
-      "date": "2026-09-02",
-      "source": "Bloomberg.com",
+      "title": "TSMC、半導体製造装置の調達見通し9割増 25年末予測から",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KVk1wOV91Y2twLXRGeEtKYzhXQmFDN25uLWlvTDV4NUFYTlkyaVF1dXZwTmE4Vk5uS0d3RHNuUmZaRU1KUnhhdDBueXlQVkRsX1hFenlJaUlhWnd2QmdIejhFb1ptSjdOaXJJMQ?oc=5",
+      "date": "2026-09-03",
+      "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -57,10 +57,10 @@
       ]
     },
     {
-      "title": "日本、台湾半導体産業と連携探る 国際展示会、多くの企業など出展 | 全国のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OSnhteFlZSGl1cjNSQklONHc4dzJHQy12LVFvQUpIcWEwRXIzemU2WHhHRzcxSmNLZWtxSGY5MjdfZDl5UGMzRENPaGFRUTlnTTV6NjhJX2x6WXlJa2c?oc=5",
-      "date": "2026-09-02",
-      "source": "福井新聞社",
+      "title": "〈世界の体験〉 台湾 半導体製造の多国籍企業で活躍",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zLWIwdFJjMlF4UWJhbWNUOU0yODdlNTdKdTg1TXc2eTNLc0l3TXQxQnBIdkp6STdlNDhjNXM4VXduZFFDT0dwU2NGYlM0NFIyRTNWRm83Zjk1VDdWalhlX2o0WHNPS2VIcVQzcWpqanlHejRvZkg5cw?oc=5",
+      "date": "2026-09-03",
+      "source": "seikyoonline.com",
       "domains": [
         "semicon",
         "supplychain"
@@ -70,10 +70,10 @@
       ]
     },
     {
-      "title": "半導体製造装置の工場棟完成 日本特殊陶業子会社",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxWUloc0N0a1VTaFUtN0VFR0lISFVqRVJ2eFFESkFmN1llelctUDNpa2ZfTWxmaFY5cENSQ05rcVY3WlRlZnBNSm4ydUhmcC12UFptSTRod19yNldMZ3dxTFdwNXFleDVOMU1aallndG1TVGs?oc=5",
-      "date": "2026-09-02",
-      "source": "chukei-news.co.jp",
+      "title": "《AI・半導体関連の日本株「3年後の成長予想」ランキングを公開！》主要16社のアナリストが見通した42社の利益成長率を一覧に キオクシア、アドバンテスト、東京エレクトロンの順位は… トップ3は年平均50％超の利益の伸びで大化け期待",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5GbmVVTnZJVzN3a2ZBZGRsS0NuRWdjYjJaVFJTRnlQUV9hMzdKakRUbTlDa2VvNzVIdXdlUEJrRV9YUXZoUVZ3?oc=5",
+      "date": "2026-09-03",
+      "source": "マネーポストWEB",
       "domains": [
         "semicon",
         "supplychain"
@@ -83,10 +83,64 @@
       ]
     },
     {
-      "title": "AI向けデータセンター投資が電力設備と冷却市場を押し上げ、2030年に7兆ドル規模へ膨らむ可能性",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jcS1NVkZ5VWFhUW9jVzNfRHNuMnFCWnNaNllMLUQ0djQweE9IeUdkRjBfbjdYS0Z3NTA0S1lnRkdHVjNfaHJPWjdjdXZWemZ0bDZuQ0tZWEVDZHBSOGN0NQ?oc=5",
-      "date": "2026-09-02",
-      "source": "Межа. Новини України.",
+      "title": "月次化学物質規制ニュースまとめ：欧州・北米編（2026年8月）",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVhibjZIZnhDRWtmNUZsaGpYdXVsbEZnaEpDYU41UjVxcm9ia1V1b215bTlUTG5GOHc0T3VHMkhab3RfbDJYcDBxTzNwa05CRDZ3UzNKc3dhd09XNEtPNUhybVpJNUxpclJCT1NCNTFaYkQxV0ZoSWdDamhXd3JRRk1abXZIbDQ4bmZqX1RMaldRNkd0V05uV3lTUE9HUF9Zb0gxMUN4SjE?oc=5",
+      "date": "2026-09-03",
+      "source": "jp.chemlinked.com",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
+      ]
+    },
+    {
+      "title": "神戸市と仏研究機関が覚書 水素・航空宇宙で企業の欧州進出支援",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsV1BaYlBhRFFvR1lJX050N24wVVNBZnBSWTRQZExrczltVzdaRDlBS2ExaEVTUWp2dnhoTmdad0Jsd25sV29rSjFtVXBTUDZ6VnVERGs3MDlsWnRjdzhkbko0TV8taTdpd096TA?oc=5",
+      "date": "2026-09-03",
+      "source": "日本経済新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "大阪が誇るカーボンニュートラル技術を一堂に集めた企画展「おおさかカーボンニュートラル技術展」を開催",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWUFHZWhzVW5LN3hQVXZwdGdfaHJGM3p5RW53WWduWWpYLVdONldnOGowOXNjb3FWQkZhZkRGcVNFYUpoM3VFQ2tyWmRKMThqcmZWR3JtWnRtYzg?oc=5",
+      "date": "2026-09-03",
+      "source": "朝日新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "韓国のPOSCO、BHPと組み水素還元製鉄「HyREX」商用化に始動",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Xc0x1MkhxdS1SV0dQMUx6anJkdUtZUXR4NlFib1ZDM3ZtRWhNTGNKU1BCcDduVU41TVdBeUtYNDJNd0M5bk9xcm5KOTQ3Z0EtM2hmQXpZbk5GdEFBdXl4b1BBR0NLVS05ck1WSS0zclRMRTBO?oc=5",
+      "date": "2026-09-03",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "日立、データセンターを一元管理 消費電力やコストを低減（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNS1zZTZzdXhlc3k2ZEVPdW0xS3dUQlc1aXVOYmNYR3RUM2lzTkp6aU42M2VBSUw1YkRPZlZxd0l0TktQMmUyMTdRSkpLeW9GakZSQ3JOcnRIbHZiTEVpMUhzejZIWFZ1YUdhaXJzVmxYZm1xY2NuSlNoLVlsSDA?oc=5",
+      "date": "2026-09-03",
+      "source": "Yahoo!ニュース",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -96,10 +150,40 @@
       ]
     },
     {
-      "title": "SiC AIサーバー電源業界の主要企業調査2026：競合分析、事業戦略、競争優位性",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PUEpFMmtRRG0xY3ZtZXd3Q2huRjgxR1hHYUY0VEdyYUZ0ZGFZWDJxaUJqa2NuZFVnYUZHTlJJM0RCT05tWmQxQUZmTEFzbEx2bWtR?oc=5",
-      "date": "2026-09-02",
-      "source": "ドリームニュース",
+      "title": "日立、データセンター設備をAIで一元管理 北米で新サービス開始",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tblpIWFZMWjd1TWNNYmpkT0Zfa2JkVWRhcFZ3bE0tRWJjLVkwYjM1UGI5ZGp2TlhtUk4zNXBhNk9JQ0tjZXNiS2xZSXVpd2dlWkxUWG83a1BUYXQzVUpZRW1KQURkLW9hZENmVENna2ZCRkhI?oc=5",
+      "date": "2026-09-03",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "〈パナソニック〉AIサーバー電池大増産で｢売り上げ3倍｣の勝算､不振のテスラEV向け米カンザス工場に開けたAI転用の道",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMckdkUlE4Z0ZOWWVKNDFpWUtoN1g2czNndTlPMmlsbHRUSmk1QVN3bFdOQjBYc1I3Q3lxdWpFQ3lxTkhDd3FuR2s2Ym1RUC1ub0tsbFdrZDloS2lWYnpJ?oc=5",
+      "date": "2026-09-03",
+      "source": "東洋経済オンライン",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "battery-mobility"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "【シリーズ連載：エネルギーから知能へ】第5回 最後のボトルネックはエネルギー。原子力発電が戻ってきた。最終的にAI革命で利益を持ち帰る企業は？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGQTlCTWMzOE5lQjRUbVZfMi1ZMXJreGNDbnFyelktWXdPeW1TT1ltWjJhQmRYTmhENkNVNlU4ekpTTF9lUHBuMnEwWUsyRTFnTW5F?oc=5",
+      "date": "2026-09-03",
+      "source": "ダイヤモンド・オンライン",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -112,26 +196,51 @@
       ]
     },
     {
-      "title": "AIの未来を照らす中国西部の風力・太陽エネルギー―中国メディア",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uZUx6bXIyQWZKX2hvV3dJQ1o2WWRoR3dFa1VIbEZ6LXZkUmx3c0NMN2E5eFZmb0hlc01JUkk0NWpMeE1pNWdRMURiQnc3OWFFMDdRRUxQSk8xN1ktSThWLV9CUnBIYk1v?oc=5",
-      "date": "2026-09-02",
-      "source": "ニコニコニュース",
+      "title": "日本におけるモジュール型・コンテナ型AIデータセンターの最新動向と将来展望",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02enIyZmV4dXB6LW1nVVBtRklmdExPMG92VjVkejFmaXNaenJiekMtV3lIa0lfRnQ2VjJlbTBNWkV1cGRsMmYwZGV0eTQ5V1RvVzlfWGlRclpLNUNTUEVFN3J2WQ?oc=5",
+      "date": "2026-09-03",
+      "source": "sattu-ai-agent.com",
       "domains": [
         "datacenter-ai",
         "power-market"
       ],
       "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
+        "datacenter"
+      ]
+    },
+    {
+      "title": "NANDフラッシュメモリ市場、2035年に1,199.5億米ドルへ拡大｜CAGR 4.37％、AI・データセンター向け大容量SSD需要が市場成長を加速",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBncEstQnZVUGtPaENEVnpveGpMUWpsNGt0TkdnbjhJc193elZuTV9maEJBVVdzeUZzQU9qOEYtalNVVWgxbTNpVFlKTVc1WXc?oc=5",
+      "date": "2026-09-03",
+      "source": "Newscast.jp",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "OKIエンジ、EUの化学物質規制に対応 国内で成分の詳細分析サービス",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85ZjE1cEtJa1J1SkZKYW1KdnRBbGxfWm5MQkhoUHJrWkxhaU04dmQzcDlFdmlwcktjWEpYLWtLWjU5QmhiTmlkN3k0eC11X2ZfTTI5cWxyS3NHbG9RNDBGYVVRejQ1dHM4dDJWVQ?oc=5",
+      "date": "2026-09-02",
+      "source": "日本経済新聞",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
       "title": "製造業の部品調達担当者の8割強が、災害や貿易・環境規制などの外部リスク情報を「人手で継続的に追い続けることは限界だと感じる」と回答！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwWDlDQ1dORWlTUTdpWjd0MDdMOElrbGZ3MW5mZm9JbVlDUzdXckZiRVNyRXVvdmFnTWo1cklfWXcyeVJVdmhZbW5VbGQ5ZzBPdFRKR2NFZFEwVEx4ZEh5M0M0TDZQTWQzckE?oc=5",
       "date": "2026-09-02",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "domains": [
         "supplychain"
       ],
@@ -169,63 +278,6 @@
       ]
     },
     {
-      "title": "「カーボンニュートラルに拍車」...韓国南部発電、石炭分野の中小企業の事業転換を支援",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GUDFCNlc5d1ZyVGVfT2FSOEdIZC1MdGJsazNhX29BNGpfc08yX1A0WFpnaFEzOHNzcW45QzBlcVBpVGNrcGtSQUhuZE5WUGRlMGVJ?oc=5",
-      "date": "2026-09-01",
-      "source": "mk.co.kr",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
-      ]
-    },
-    {
-      "title": "AIデータセンター水冷化進む 熱管理が競争力左右 - CHOSUNBIZ",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84QmRGa2FlUldkZklLeW8wQmRDUm1qeWM5ZjNxWnBxbHIwdGxlMnJhZUpma1dRbXhIbE9PcEMyTGIwa3AzOEF5ZmFfeTFiY0E3bXQySmUyR1d3cTkzWGVlTGt5dW8taG05Q3VCQlU1bTYxNm5lU3pISnJR0gGOAUFVX3lxTE9kNnJzUWpHcXVmYjl1b3M0YnoxdDd4c2lhRkg2djVxSDJBcDM4dWpnSThYbk1hc0xNemJqMjVVdkgwR0QxSkg5WHJGUHdqZ0tsaWJhajd4YXozRXpQOGw2N2RPSmxyc2YwM09FeUxIamlmWURqR0RQaUFGU0NyYnFjZkt1OWIyNnBHT09ZNHc?oc=5",
-      "date": "2026-09-01",
-      "source": "Chosunbiz",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "AIの発展を支えるサーバー冷却技術と安定的電力供給＝貴州省",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rczV6SVpoQTRheVdBMWhJUEpwdXRuTjFGVXZmNGFGbnZ2Q1BQci03eHBTc1NMUWpKcl9yVDNIM0RPeUxIM3RBY0FNMTVIQVBQQlItTEJBX3ZqUWs4aWZJTllUelBNa3c?oc=5",
-      "date": "2026-09-01",
-      "source": "Record China",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "LS Cable & System、超電導ケーブルでAIデータセンターの電力難の解決策を提示",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BUXdVTklLVk9lMFdQZFZOY2p0VFZWTWxTRlhFc1lrTVdHcWJ0eTJKT0Iza0swRFJWXy02THJucWxoc3NCVDQ3WEdSMGVnYTNYam1RWmdHZjlJTFpsc19IcGdsbUV0WW9HUE85dFUyTHBCamFK?oc=5",
-      "date": "2026-09-01",
-      "source": "finance.biggo.jp",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
       "title": "《「第3のPFAS」の危険性》行政の監視網から抜け落ちる「PFHxS」　各地で人の血液から高濃度で検出　免疫機能、脂質代謝、肝機能などに影響を及ぼすリスクも",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xeWFrT0NJbUhoU3hMMGFRbkpaVXE1eDRFSUVYekc0Z3RUXzdUNHotVUZpT2JwWUl4RW1kX0w0QnplOVVKWVZIbzdzamlCTFo0ZTRadEg5c0hkOEpQZUxseEdXR1HSAWpBVV95cUxQeExKYlZhUC1uNVk0czE5SG5jX090c2xpRWFRdlJyYmc5RG9sWUhHMlZQb0xLT2RxR0pmd045QWZtaWVQbThKOXhYVzNZVUJmeEtyWEZtMXhpYkNXMzM0WmNNRUpFckNwZmtR?oc=5",
       "date": "2026-08-31",
@@ -235,6 +287,21 @@
       ],
       "terms": [
         "pfas"
+      ]
+    },
+    {
+      "title": "【受付終了】 中小企業向け 第1回カーボンニュートラル推進セミナー",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iM2N3Ul9VMThSLVdIYlJYdS1HWnVJVmRxN0tzSnJwUWxyd1RRLUp4NTBmVk4wOE40THJ3VGNTUXZlRUxoN0t3b1JlYmxaRnJ1WUFKREZva2ZTYjhNbktqek5KZw?oc=5",
+      "date": "2026-08-31",
+      "source": "pref.saitama.lg.jp",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
       ]
     },
     {
@@ -250,53 +317,18 @@
       ]
     },
     {
-      "title": "現代自動車グループ、HMGエネルギー・水素事業本部長に「BP出身」の洪恩姫副社長",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zby15ZHQ1NmNuX255ekZTYjJfRkFRUjdTTENqSHVrLU8yVEVXcXVDZ0hZWjRiNkY4a0wwODVrZGVwaE1XV0JNLTB3WVRITVdMQXkw?oc=5",
-      "date": "2026-08-31",
-      "source": "mk.co.kr",
+      "title": "EUが包装のライフサイクルに関する新たな規制を導入するにあたり、水産物関連企業は何をすべきでしょうか？",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmhVOTJESnFLdUZOV2s2Qy1DcDZmalluaEFfOFZlajBVbE01WnU0Q2JkekFxc0ZmcUhvVWhwQmxGUk53VVFwVVJHTHJTdUdYT3pHSVJIcWVVTVliSUZCNFMxeUZCaC1SeGRjVS1uSFc1cDlKNlRvU3J1SVgwQktLdUdDeFVmUFNVUVdMOU5BeHMzZHRNSGluRVE0SnNDaWwtZm9Z?oc=5",
+      "date": "2026-08-27",
+      "source": "Vietnam.vn",
       "domains": [
-        "energy-gx"
+        "env-chem"
       ],
       "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "水素燃料トラックの世界市場（2026年～2032年）、市場規模（軽・中・大型）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ec0VGRkxxX29DZXZrNjVSZXBKMTZaR3YydzBPSUFsNC1SNXdiTU5IWU1zYnBSc2tiNjQ1bWJEUUpSWjhRMnRrVVctbDRoMkU?oc=5",
-      "date": "2026-08-28",
-      "source": "atpress.ne.jp",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "日立ハイテク、リチウムイオン電池の代替となりうる全固体電池を実証 パウレックとフィジカルAIで効率化へ",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWN0FfZEZwV1JONTRZN1JDaFVld3VXVy1mWVNZZ1ZMd3NfdTg3S2F3QmwwLWRENzBETDhjRlNVc0dhYUdDU2JxRUJpX2NWd2FRMldxeDBodkVNTE4ta1ZF?oc=5",
-      "date": "2026-08-26",
-      "source": "PlusWeb3",
-      "domains": [
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib",
-        "solid-state"
-      ]
-    },
-    {
-      "title": "高温水源ヒートポンプの世界市場（2026年～2032年）、市場規模（100～1000kW、1000～2000kW、2000kW超）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9SRGJhUWVhS2l1X0Y4UUdDYzZNN1VxQ3FZS2trbEZKWFZTeVFGMmVPYmJtZGl0UDlqa01IYVNyTUtJVEdIdVR3?oc=5",
-      "date": "2026-08-26",
-      "source": "Newscast.jp",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop"
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
@@ -309,33 +341,6 @@
       ],
       "terms": [
         "lib"
-      ]
-    },
-    {
-      "title": "【PFASの認知度調査】74.0%が「まったく知らない」と回答。一方でメーカーに環境問題への取り組みを「期待する」人は67.0%に",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fT25sM05MZHBwaDdkaTFPMXFnaXRtLVJCYVZHLUpWUGNFT1BSdnlEYjhyM254akZsWV85dC1PeDIyeEhxSlRXZXdya29ZbFZXODRJY1cxQUJBcFFpM1BzSFFha3J2WlhEV2s0?oc=5",
-      "date": "2026-08-24",
-      "source": "時事ドットコム",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
-      "title": "プレスリリース：［カーボンニュートラル総研レポート公開］「GXは企業価値を動かしているのか」東証プライム7業種119社を独自のフレームワークで実証分析（PR TIMES）",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xbkpVbnpmUmZzRVZuRi1Rb3dLS2E1UGVhcWE1dVptMm9ZcnBHMnpBZFlnQnI4SUp2UExCMDI4YWxSOFc0NE1FaW9QbUFvUGhMN21lSXJKWk5FcGpBdXBSb3poS193Ym8t?oc=5",
-      "date": "2026-08-24",
-      "source": "毎日新聞",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
       ]
     }
   ]
