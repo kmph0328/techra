@@ -1,79 +1,12 @@
 {
-  "collectedAt": "2026-09-12T22:50:51.037Z",
+  "collectedAt": "2026-09-13T22:54:10.576Z",
   "freshDays": 10,
-  "candidateMentions": {
-    "核融合": 1
-  },
+  "candidateMentions": {},
   "items": [
-    {
-      "title": "韓国で「半導体高校」希望者殺到",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MUE52ZXg4XzE2V1BJdU9Sa09Sekg5MmFEa2IzNXhvUTBqMF91LWg4N1pLNldsdU1XendIY2doY0RfNWdxYTNYSDJsN2FfNzNQ?oc=5",
-      "date": "2026-09-12",
-      "source": "Yahoo!ニュース",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "富士通がAI半導体を輸出、スパコン技術活用 米国やアジアの需要開拓",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mcUEySldCTnh0cnF5VFE0VWlFX3Z3el83OV8yRVMzbGhnS1h3VVRNRlR5Vzh2YmZEdEp5dEZZaHM5LVdSWXhSbmpEenk4Y2YzM21LRTJDa0UwM1Q0bkRXMDhsVFVXblZYMTdlcQ?oc=5",
-      "date": "2026-09-12",
-      "source": "日本経済新聞",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "理工系人材がTSMCだけに集中したら､次世代を誰が教えるのか？――その土台は｢中学校の教育｣にある",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xTXlUSkJSWEtnVjJET19sMnh4QUlGWV9rbXVhZEc0YTNyUGRoRXRHSldSOUJLSE9KODIzNUlXWm91Zy1nV1loMVZkR0hzNlM5X3pTSjJaTzBORFRyOUxN?oc=5",
-      "date": "2026-09-12",
-      "source": "東洋経済オンライン",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "【AI・半導体関連株の本格回復は？】What’s UP日本株 #5（2026年9月号）｜動画ライブラリー",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42V01BTkNEV0wzcVoxM1dmTDhWSGhlaHJZWFJwckVMSEJiSnlzMHRNN1laaGNZSTZUZ1dJZklxTXdMNi15WVkyZ1pXcVR2UEJOR2Nr?oc=5",
-      "date": "2026-09-12",
-      "source": "am-one.co.jp",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "韓国、改正反スパイ法を日曜施行 半導体機密流出で最高懲役30年",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2cGN5WmVQYkoxb011VFhab0UyY0Uxc0NrcFFvYk8wZnc3Vzl5ZE5UUmNwQjlHQ1YxaGNlS1U4ckhDd1h6VE9UT2lCLW9lUEh1Um1ULVBBY2RHbER2SkZ3WEhGUUJyRjJxNjJ0TGl5QW1HaGVi?oc=5",
-      "date": "2026-09-12",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
     {
       "title": "GX 韓国半導体・トップ10【633A】：株価・株式情報（夜間PTS含む）",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SWDhWeFZTSnJ6OGtuMDZkcHphazFuSkV2X2hOWDRYV1VVNDl6RzlwNThtSVF0Wm9Zc2FOcGRTN1Z3UEJLVXRXSEdtclhCZk42Vmc?oc=5",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
@@ -85,10 +18,79 @@
       ]
     },
     {
-      "title": "35MPa水素燃料ディスペンサーの世界市場（2026年～2032年）、市場規模（シングルステーション、ダブルステーション）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kcHBadFN2NXBuajlydzViRmVqaXlNeFJYdUxCZXVpX1dGN3hlUm04LTV5YnJkQkxNbzBPYnBMN1pJUDBaSFhNZV9ncVdVcHM?oc=5",
-      "date": "2026-09-12",
-      "source": "アットプレス",
+      "title": "AIの主役はGPUからCPU、メモリーへ 半導体微細化60年史で見る進化のボトルネック",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRGVPUTVqMDdycUU4LUs4VHp2SjRxRm4xandVRmJ1VktrRjhySGZpZU05X2V4RklvcTRMNFdkVXVGZ0hPTTNhMS12aTlMRmladExBTlJR?oc=5",
+      "date": "2026-09-13",
+      "source": "JBpress",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "datacenter-ai"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "四小竜とは 中国の新興半導体企業、相次ぎIPO",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZeEhqX2Y4aUV1c01tZzVObzhzQTJmU1JXWlhhTFNzNnFEeG1BUmVXcF9yaHZxMnJ3SGkzNERvblhxMzdWMnFDejMzZ2dwTk9kOTQyZmR1elpXdERqWXhZZ2xRN0JNUk9rZThIcA?oc=5",
+      "date": "2026-09-13",
+      "source": "日本経済新聞",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "AIブームの落とし穴 ：データセンター・半導体生産で増大する水資源への負荷 橋本淳司",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZWIyZnVTcldmNnpDV2s1SU02ekJUTkZXRXQ2em5hcXdoLVlLNy15Y0xVUDZHUEw1Ni11aWRrOGhSRVgyQkw5aWhfWDFuVmJRQU8yaG1kTjRjOHZ2QlFWVDM2Q1hVQS01ZFo1OTlST3FMQmdfT1EySEtGbldZWnc?oc=5",
+      "date": "2026-09-13",
+      "source": "週刊エコノミスト Online",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "datacenter-ai"
+      ],
+      "terms": [
+        "semi-process",
+        "datacenter"
+      ]
+    },
+    {
+      "title": "【半導体人材の未来】〈46〉「明日はもっと良くなる」 TSMC創業者の失敗と人材観",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjVTh3VnhPWWlKR0dkbDhnSUtuSmd2T3dTZHRRaUphX1RibUNZRFQ2akFXVEpfek5PQzVrZFc2V2ZuZXF3eVFuNjZHcW1KUGI5WWc?oc=5",
+      "date": "2026-09-13",
+      "source": "電波新聞デジタル",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "韓国の半導体契約学科、合格ラインが韓医学部並みに…薬学部を上回る288点",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93a2hzYVZqRlVWdDg0aXZ6cEotMm1LYnBkNUhPR1BkQkNodEs1MVA4cHhQT05VdWhtYjloN1NtN01CYUo4MjJkanNmUm03S20taktBcHNSQ1NveWtuVDNXQVRlbXc0UWh6WkY1eGJzTUJQZ9IBVEFVX3lxTE01eHUtVDhQc3Yzb0RaX2YyeThmS1NYbUViM0wydVd1b2RIaUhkY2Zhd2JYaWlHTmRVcHc4ZWVNQkxjT2NqMlMzX3EtanZHdklKdVNRRg?oc=5",
+      "date": "2026-09-13",
+      "source": "AFPBB News",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "欧州に「水素トラック」アライアンスが誕生する!? 多数の自動車メーカーとエネルギー企業が提携",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yLTdwYkRLZTg1U3RmUW1QcDZQNUxRdUxhYUFwd2FhNWVKNHN0TDB4UmUzQU03T1BfN2ZLUlFNZm5pV2U2d1IyenJXOGEwZHpQM18tRw?oc=5",
+      "date": "2026-09-13",
+      "source": "fullload.bestcarweb.jp",
       "domains": [
         "energy-gx"
       ],
@@ -97,27 +99,19 @@
       ]
     },
     {
-      "title": "統合型ヒドロアミノアルコールの世界市場（2026年～2032年）、市場規模（グリーンアンモニア、グリーン水素、グリーンアルコール）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQSlRoZWdzcVd0Zk1pcnRtak8xRmFSanhxYll4WjVLTnQxOFVkdEJzUWtHLWhLOEZBcXVQOE1fc0ZpN0R3OGF3?oc=5",
-      "date": "2026-09-12",
-      "source": "Newscast.jp",
+      "title": "AIの発展を支える サーバー冷却技術と安定的電力を供給 中国・貴州",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9ZV0NjVzhNTzRJVlZuN2F5YmtTRGl6STgtQ2ttbkg5NkI3ODMxcGdwU0VIVEhkVmt2N200?oc=5",
+      "date": "2026-09-13",
+      "source": "36Kr Japan",
       "domains": [
-        "energy-gx"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "Fertiglobe、Covestro、MB Energyとアンモニア契約を締結 - ニュースと統計",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTk0tQkFmOGRiOEhPQ0oyTHNXS2w5aTRzUTJWdjgxSlVjQkpnVzVaYlJ1eFJpNF9LS29SX20zcFhXZkM1dERXSkJRMmxfbnk5NThBcUVreERBbVZJSlV0WjJsUnZUUy1iWWR0UXlaeGxxX3YyMHBxZ1JLUmFWUjBXblpWMVZSenUtZDRsUExDTE5SQk03VktpZG96RzQzdEdYNlgw?oc=5",
-      "date": "2026-09-12",
-      "source": "IndexBox",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
       ]
     },
     {
@@ -148,22 +142,6 @@
       ]
     },
     {
-      "title": "AIの電力変動を蓄電で吸収、東芝とDIMAAGが10C連続充放電を目指す",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BR2F6dHFpaUJaRDlpX1lzdDNDV0JDMzFINmlUQi11SkRjZEFlWDBBVE52RlVTWDF0MzBUVmphWXVrT1d2alkxN1hjNmRhRWVkWXlMX3ZoYmxDb1U2ejhtTFZqRGdVQUU?oc=5",
-      "date": "2026-09-12",
-      "source": "XenoSpectrum",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
       "title": "ロシア企業が、衛星、無人航空機、水素に関する分野でベトナムとの協力を提案。",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjNqMzlvV1EzVU9pTUw0dklDRUp1czBQejEwc2pDSktfZXNKajRhd3dtWHRTSzNmQnh4MEd6Q1U4cThReGdmSTNMVTdKUnV0bzZDcGhUSmM5Z1N6YkhsLWVHdGZESjZYZ2VaYWxIdzRma3pmVTlZU2U3S2JLLXJZZDlJbmwxdmFJazJObzNqbXR4bDhYTi1IRkFn?oc=5",
       "date": "2026-09-11",
@@ -176,34 +154,24 @@
       ]
     },
     {
-      "title": "医薬品用ヨウ化水素の世界市場（2026年～2032年）、市場規模（57%濃度、47%濃度）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3WThLM0o5Rm9ib0RJcGJxa2h4MHlPRFliUU9LT1BHcVFaQnBjaHgtZHlQNnRMSUdRYWNTdVZ0THZYXzZ5WTA4?oc=5",
+      "title": "日経クロステックNEXT 東京 2026「広がる直流800V給電、EVの次はAIデータセンター」",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLc21GRF9rYnY0Mkx1QktUbTliZjFGOEhISkRfUWVIR2t3NG5OeGdjbm05bTNWQjB5cEVBR29vRnhuSVU3R21PVml2eHRsaEZFWEJjbHEzbFFGUFR4bHlRMjZOQjZ3WmtO?oc=5",
       "date": "2026-09-11",
-      "source": "Newscast.jp",
+      "source": "日経BPイベント＆セミナー",
       "domains": [
-        "energy-gx"
+        "datacenter-ai",
+        "power-market",
+        "battery-mobility"
       ],
       "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "地球が生み出す次世代エネルギー「天然水素」市場、2035年に30億米ドル規模へ急成長 ― CAGR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wYkM1Ylo3NVRiOGk0MHYtb2x4SXJUMjVwUTlFZFdJMmJyZFVsYVZ4alpjTkZPOGJrelF1NEZOSThwa3R6M2FUTU1BMzN1TU9pcmVtTFNwUzJYMXhRYjhoTG9PcF9LZWU4c1Ywb0xhUWFoYjUwX0VLZWVMOA?oc=5",
-      "date": "2026-09-11",
-      "source": "ニコニコニュース",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
+        "datacenter"
       ]
     },
     {
       "title": "データセンターUPSおよびインバーター市場、2035年232億米ドル、CAGR 7.6%、高密度計算と電力安定化需要が成長を牽引",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tWHA5SFp5SmFUMVZyQTNvVlhFOXNKQjNJQ3NnYXFPT3IzZmNZY3hMZlRaMjhUdHVtSXJ2OFprX2R1dXZqcFNXTHU3b0tJUlU?oc=5",
       "date": "2026-09-11",
-      "source": "Newscast.jp",
+      "source": "newscast.jp",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -227,22 +195,6 @@
       ]
     },
     {
-      "title": "「生成AI時代の電力制約と光電融合」と題して、株式会社三菱総合研究所 先端技術センター 主任研究員 齋藤 達朗氏によるセミナーを2026年10月23日(金)に開催!! | 株式会社 新社会システム総合研究所のプレスリリース",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RdDhKdEpqRllDUzVJWG9mWXQ4X2tXZHlMTmp0eEktM3BHUEFEQWJKaHhOMzBGbHM5TE8yRXZDclpNYklhOGY0UFBaUEJLMTJYVEJXNTVfZGwyekdPbjJUN3p5amVQczhoakE?oc=5",
-      "date": "2026-09-11",
-      "source": "PR TIMES",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
       "title": "加工デンプンバインダー市場2035年予測：包装拡大とVOC規制が需要を押し上げ - ニュースと統計",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1JZeHhTN3FlTjMyUHdoeXNMQ25vWWgtekI2cjg0enJtSm1nQ1pUSUxxUU1idnNVeDMzOUtPbkN1dUdWYlN3LWNZZWlBckIybkNDUlJtdHZpYWl3Y0NlQ3JwZlU5anNGZmJGbVlsNHZYalR5LU9pY2NlYk1UcThUYTVMRTUzVGdfUU5NeEpYVkRDZV96VGxxcER2N2Zoci1mV1lLeUlvUGI0X0Nic2JGTWExcnNRQ1hLY2JfZDRsZXBpZmczX3lIV21GSzZ3QV9YRUE?oc=5",
       "date": "2026-09-10",
@@ -255,6 +207,18 @@
       ]
     },
     {
+      "title": "日スロベニアで水素技術開発、政府間で覚書 両国企業も連携",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTG1hb0ZRbTJYOWtEN1pBMXJLeHZmRFJrbkYtUWY4cDhJd1JBMkFpODd5VHJ2T2NEUEpLWWgzb0tuY2F5UnhfS19IQ2FHZ2M5andsanR2STJxekV5N1dWRVQtYm9CNWR1bTloMQ?oc=5",
+      "date": "2026-09-10",
+      "source": "日本経済新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
       "title": "三洋化成、規制PFAS不使用の消火薬剤 空港や倉庫などで使用",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwb0NQTGhwelBSMUpqMEktc1V0SWpVc213R1pQX19JNHB5MkhuRVJoZXlkRjUxcUp3V01NUmdoOXBfTWVzMkZoZXV6ODRfMHhaM3ltRnRNZFdBajlKZ2JhY3ctbzNqZ0hWNGluNA?oc=5",
       "date": "2026-09-09",
@@ -264,6 +228,18 @@
       ],
       "terms": [
         "pfas"
+      ]
+    },
+    {
+      "title": "ロシアのある企業が、衛星、無人航空機、水素の分野でベトナムとの協力を提案した。",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXNJREE4RHlfU2dYWW5ZS2pkam9jWnhvXzZUTVBGWWw4alNibXJhVVNmbmRyOXZSQ3NJOTNJU3FqMV9UdVUtbzFUcjh0bExwVnNoTFVmQmVNQ2Vyd2ZEY3FQMFdrU0doMTdNVnczMUhCdFhoWEF6OGVybkVRS0dzVFlWVFVCT2RBNVFhZnpYbXpkVGkyVnlfOXA2MGQ3ajg4QUREUU5KQnpqQQ?oc=5",
+      "date": "2026-09-09",
+      "source": "Vietnam.vn",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
       ]
     },
     {
@@ -305,16 +281,40 @@
       ]
     },
     {
-      "title": "ヒートポンプ用熱交換器の世界市場2026年、グローバル市場規模（プレートフレーム式、フィン式、シェルチューブ式、同軸式",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtYTVNSmlHTHNsUnhjMjJUWmUwTlJBckhsR3M0M21yWXZST2k5SDVPb2V1MUVwZDRqRXJrOV9jTXBfNDVzZ1FCXzJWbTVZYi1qYnR6NTJUMFNmVWtyMXJFS1dQZjd1blJZY1NfS0JDWWI3QlBCNGh1NEI2dw?oc=5",
+      "title": "液体水素の正確な計量に挑む 神戸の「山本電機製作所」、英企業とタッグ AIや自動車向け期待|経済ニュース",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hdjY0S0lyV1E1V3hZU04xRWFsYUZBS3U5LThZNmxtZmdvY3ExdVByaTBSS2NieWoxbWNPb3B5cWs5aTFjZU85THhPZjB2blFlNVVqaGU3ajdKYnJ4NGpEUDJhZlZaOFd4cjB2ZThR?oc=5",
       "date": "2026-09-08",
-      "source": "ニコニコニュース",
+      "source": "神戸新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "ヒートポンプ用熱交換器の世界市場2026年、グローバル市場規模（プレートフレーム式、フィン式、シェルチューブ式、同軸式、マイクロチャネル式）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qS1F6ZC1uVGljY3BEQzJaeGFhUG5MUW9qNEZyZTRMSE5YR25NVnRsVkZNRXk4ZUpweTZwZXBaZHVySTZtWm9uZXJnWktybHYtUDBv?oc=5",
+      "date": "2026-09-08",
+      "source": "ドリームニュース",
       "domains": [
         "thermal-utility",
         "construction-city"
       ],
       "terms": [
         "heatpump-cop"
+      ]
+    },
+    {
+      "title": "PFAS、PFOS、PFOAとは？ 違いが分からない人のための基礎知識",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZUmt5Q1p0cWtqdjRYcWFaYUw2ZXlMTzJ3Z3FhY0ZVQ19pckxQSTM4bThwYjZ6MjdwU0lWdVU4NUE3Qm1iS3k5cHpLMFdldGE4XzZkZlA3bF9YUjZNYmJFakVnNzg5QzZjNWpUaXVJQVgyZw?oc=5",
+      "date": "2026-09-07",
+      "source": "MONOist",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
       ]
     },
     {
