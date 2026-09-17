@@ -1,6 +1,418 @@
 {
-  "collectedAt": "2026-09-16T23:32:54.285Z",
+  "collectedAt": "2026-09-17T23:22:51.336Z",
   "freshDays": 10,
   "candidateMentions": {},
-  "items": []
+  "items": [
+    {
+      "title": "半導体株「バブルじゃない」 データセンターの新展開で需要大幅増",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUy03QlZXZVZwQzROQ1Q1Z3I2clpIQmUyd2x5MGtxNE5ic202YmpwVWV4TVBaSlZQSlJXWlU2WEdnMFZ0bHRuWWZtbTRZbnBaNmQ1V05CbGtOd3NkeVRTWkI5YV9rT2V3VVI4LQ?oc=5",
+      "date": "2026-09-17",
+      "source": "日本経済新聞",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "datacenter-ai"
+      ],
+      "terms": [
+        "semi-process",
+        "datacenter"
+      ]
+    },
+    {
+      "title": "中国企業に半導体製造に関する技術情報を渡したか 旭化成の元社員を逮捕 その後勤めた企業から相談あり余罪も捜査",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTemZ4Q1hxc1BUdTFqZ0FaY3JVVWZFcUZFOWVwOUktYnJnSFZ3NFg1aUliV2ljZjRlYm1HZWtkTDJSTGlYOExlSWlabDd3azBGQlpReEhRaWhySUJDRHN4cGUzd0xJOXZsYU1QNUVVSGJTcTROR0dJVTJBbTJUMGc?oc=5",
+      "date": "2026-09-17",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "インドで半導体産業の展示会 東京エレクトロン、研修施設整備へ",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jNWpmeG1raWhscGRtMEVjU2VFZVFwamFsVTVLUmtSaTl4MDlEc05ib2xQWF9oSExxZHY3ZFMtVjQ5Q2RHSjZpSzVQVi00ZmpGZDVWNFV4WE01ZTg2RlJ4Y2NqSQ?oc=5",
+      "date": "2026-09-17",
+      "source": "jiji.com",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "AI半導体の「反り」と「熱」を解決、日本特殊陶業の次世代セラミック基板：材料技術",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oTm5qUXd4YnM0VUxEY09oanR0RDltNHRDdDd5aEJoU09fYWpoeG90NkpSSGpTMHI1VHpZdVhsMzNEVTN2Y0JpdUotUzVYZEdsQUFGN2pNa3pIUW9kbHZRal9Na3pkem1sWkdDZEZLOA?oc=5",
+      "date": "2026-09-17",
+      "source": "MONOist",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "半導体関連情報を流出疑い、愛知 旭化成の元社員逮捕、中国企業へ",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0cWt5ZHNERVZ4SjJRT3MwbFFFN21HSURVSWRyUEFvYUZjcDRFRXNtbXpYcDFyR3NWWHY3SnpUTXBYcnFuNGljV0xvYw?oc=5",
+      "date": "2026-09-17",
+      "source": "47NEWS",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "「旭化成」の半導体製造技術を不正に持ち出した疑い、元社員を逮捕 中国の化学メーカーに技術流出",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52Qm81a3NUX01UaFdWeEdKWWk5anBvOXpHNk5iUEpuSGNFbmJram1qb3kwaTNrSjNPMGRSRjk1dmdSbTBxdERaWHN4VW9pRWpyd0tJTQ?oc=5",
+      "date": "2026-09-17",
+      "source": "chunichi.co.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "ウェビナーPFASと物質群規制への備え サプライチェーン全体で進める規制対応（9/30）",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15cllfLUZnRHY0cExkWVlPaGlqVXdlYVRxbWdVQVgzRlN2MTZJejBQV3R1UFBOblRNZEltOHBHclc4VUJVR0tYTmtzV19NUC16VXB3Rngwd3dwaHM0c2RPbFYtNDNWSHJ4aklYYWptd2c4a0Jwc3c3R0R3bVAyUQ?oc=5",
+      "date": "2026-09-17",
+      "source": "kankyo-news.co.jp",
+      "domains": [
+        "env-chem",
+        "supplychain"
+      ],
+      "terms": [
+        "pfas",
+        "supply-risk"
+      ]
+    },
+    {
+      "title": "大豆由来木材用接着剤市場2035年予測：VOC規制とバイオベース需要が成長を牽引 - ニュースと統計",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2poWW5FaHhjVkZaV3VFTW8ybEozMklnTjMwM2tVRndZcV83N1BkaUtGbU0xeWp6dVVucGFUc2JUV2dlbVhYaWlLeEtkdElhWUl6Q1U5d2Y2T05hVmM2M2g1QjdKV0V3QzZMXzQ4NmUwc0UzYWNZTkJNWEdjQ0dBalJ3eVI0cUEtR3JlQXFtMkFZelhIOHpHSjlWM0dIY1doTVRyMEJjRDVoLVZFdTdFQTU4ZXVPUENYVV9lRVNmR3prbU92UkU4OG9GakpUek0?oc=5",
+      "date": "2026-09-17",
+      "source": "IndexBox",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "voc"
+      ]
+    },
+    {
+      "title": "PFAS脂肪蓄積に注目を　国立環境研究所、研究拡大の提言",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Ui0yYmZxNnYtQ1hqbWZGQVV1VU1odFpKTnE5WVlOdktQVmFDc3JkQ3dMOUJEMm5XZXhMLTZnVzh5eUI5S3NLUHJRM2tZV1dQNUd2bzhCdXk4a3JjMkJubFI1V2xZMFo3Y3BfOV9sZHhUbmF60gF0QVVfeXFMUDVSLTJiZnE2di1DWGptZkZBVXVVTWh0WkpOcTlZWU52S1BWYUNzcmRDd0w5QkQybldleEwtNmdXOHl5QjlLc0tQclEza1lXV1A1R3ZvOEJ1eThrcmMyQm5sUjVXbFkwWjdjcF85X2xkeFRuYXo?oc=5",
+      "date": "2026-09-17",
+      "source": "Infoseek",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Q0xPWnByeHh2b0JNcWdyeUQ0bUZwa0I3WWpUTnpURFROVGVDX2hEWFJoRHVWbWllWURuYTJzUUp4SmVwVVdDU1hSUTZON2pVc1o1WXVhY0xVVHhSdVYzREt4bDJyTHUwS1E?oc=5",
+      "date": "2026-09-17",
+      "source": "ITmedia",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "レノボ・エンタープライズ・ソリューションズ張社長が語るAI推論時代とデータセンターの未来",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YZ3VUZjlLYUd3Q0djQXpjbE81Nk5wOW1BUTZaY05DclpXV2V2UERQREdGOU56M1hyczlqMURJVXVPeWlUdVNjSHFKUEFhYnM2cFg4?oc=5",
+      "date": "2026-09-17",
+      "source": "ZDNET Japan",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "ゴールドマン・サックスがAI電力需要予測を上方修正 7年間の増加量は日本の全消費電力に相当",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMOENBcm9GRlFfdllFODl4dGxjNmVFUGtmaDd1OERlVkZzRzc1T1Q2clZnVHlWUEdaREI4X2pKakhLSENyOHhMemJuUERpNTNWanRCNGptMXE2VFF3S0ZaaExFQXYzaEhaTmhqNnRwMVNBbXZo?oc=5",
+      "date": "2026-09-17",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "10月27日(火) AndTech「AIデータセンターの電力需要拡大とインフラ・系統連系の最新動向～電力確保・蓄電、国内外の系統接続からUPS・給電設備まで～」WEBセミナーを開講予定",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JU1gyVmx6VkZYR1c0VVQ0MjhvRVZmcGU1bHd2UUVTSmppU3U1cUNoeW9wTXJpTS1sQVl1WmxTUVY0aWc0aUZZaVYwZ2kzLWxvc09POQ?oc=5",
+      "date": "2026-09-17",
+      "source": "ASCII.jp",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "ARMサーバーチップ市場、AIデータセンターと省電力化需要で2032年に152.05億米ドルへ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSQ2tWNW50Mmk1M1ZwNXlObERxUE5YU1E0cy1tQzhoVXNZTkZMem9tdTB6bDM4MkoxT3FsLXh2UEZ2ODBnemdyS1RDZEJMVlIxaWFraW15bk5OXzU1X0VxWDFUaUxhNnZf?oc=5",
+      "date": "2026-09-17",
+      "source": "ニコニコニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "semicon"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "Emerald AIがGoogleやNvidiaと連合、データセンターの電力接続を最大100GW拡大へ | ウクライナニュース - #Mezha",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3RmxvNFhTY25qSDBvYUlJSHduY05aZUd5cjUwRzRPakM3dEZwazljeVJHR0ZHTGVtcWI5MVZjLXZ0QmREYk9uT1hBbVpJMHM3YVpFOWEzdFJKa0libXlVbF9R?oc=5",
+      "date": "2026-09-17",
+      "source": "Межа. Новини України.",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "食品包装や衣類など、身近な製品はどう変わる？世界で進むPFAS規制。“脱フッ素”を支える次世代素材が 「高機能素材Week」に集結",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5amd2TEJQV3lXU2hweEZxSl95V1htOXJ3Z3FrY1loWlhRM3daNlFwNmJ4YkVabzlMWTFkM1hJMlBUcVVjYUNWNmJHY0UyUXNhMTBoeHRieGxCWE9nM09rVDRXVTJIQWd3OXc?oc=5",
+      "date": "2026-09-16",
+      "source": "PR TIMES",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "水素燃料電池市場は2035年に350億米ドルへ、CAGR 20.24％で急成長する次世代エネルギー市場の成長要因と事業機会",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0Y01mclZLYTkwNE9QNzdXdkFJOVUtaTN0eU1rVFV1cWFTZUExU3ZFS1QzR2REakhNbElQYWhSUUxwYWhNVl9wYXhvLXM4TlE?oc=5",
+      "date": "2026-09-16",
+      "source": "アットプレス",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "日本のアンモニア混焼発電市場：火力発電の脱炭素化、燃料アンモニア供給、2030年までの導入が新たな成長機会を創出",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOVJkUzlESVFndUdwMkw5Vi1TN3d4bDl0OGhQVjEzclpaVGJ1LV8zN1ZlaVdXX1Brc1pSRER6eDRSQm1paWlKS3JIeDMza0E2WHdNXy05QUt1MTJxNFNyZWhlV1U4b2hB?oc=5",
+      "date": "2026-09-16",
+      "source": "ニコニコニュース",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "Samsung ElectronicsとLG Electronics、気候産業博で省エネ競演 ヒートポンプ軸に暖房電化訴求",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3dSei1fbVE4S3lpQzhNR3JhNGd3a3Q0STlROGZLQ1E2S0VNUEktY3dwVFhYTm54ckFSMmcxanRkdEt6dkpDQmRTUlIybXQ2dy1WWVBFV0ZjMlRTS3piZ3N0Qmh5cGFkT2V6NzZVdWVadWpqMVZ4Z3R6ODBuRUNGVDItSWRzaGRaWU4tektiMjlQUTRGTVl5emIxanMwdFNMdFEyeEJiTTZuanY3OTh1X2ltY21GOWxfQV9hM0FLWkVlazJUZi1tRDNFcXlXWmtpQVdWZ0tDbw?oc=5",
+      "date": "2026-09-16",
+      "source": "디지털투데이",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
+      "title": "世界のHVAC用電子膨張弁市場調査レポート 2026–2032｜QYResearch",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEQ0pjUXVZZHRORUJyOC11NU1MeU9GQnIyVWpMcHpvLUFwTGxJOVJWbEtjeWtZVlRENXZRcktXU3BHUzZxRlVtTjIxQmJfTWc5emFRWHF0bw?oc=5",
+      "date": "2026-09-16",
+      "source": "note",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop",
+        "zeb",
+        "heat-recovery",
+        "boiler-steam"
+      ]
+    },
+    {
+      "title": "PFAS規制対応、光学機器の長寿命化を実現する旭化成の新樹脂：材料技術",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XMmxoTEc0T0JiSldTbW1WVy1YT3NMS2d4QV95aE1VZjRKZDlVUDUwUnVNaDRDbjd0d19UcWNWZnFvQ0ktNWpfUGdTNlZoLXE5WklDbmdnOEdsREcybV9yelJ3VFdWN1FNTGpDSlotRQ?oc=5",
+      "date": "2026-09-15",
+      "source": "MONOist",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "PFAS除去市場、2035年に180億米ドルへ――規制強化と高度処理技術が環境浄化需要を加速",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EWXZfazVjcUZmcDN2TVo2d1JKS1lRT1AyUm54OGd5SkU2bFFjRXNuZUxHLWU3NEw2c3R3NFZsREFtdXJBbnVWWHkxaWhTMFhFWHl0UXdReXBMWnFYTFBYaHNXRFA0Nml0VEdtZERNQll5aVAzY08yNGE0NA?oc=5",
+      "date": "2026-09-15",
+      "source": "ニコニコニュース",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "業界の主要企業が連携し、欧州の水素モビリティ普及に向けたバリューチェーン強化を推進",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FZmFJeTh4NHNVcUp0Wnp3Z3QwOWlfQm1DOHRJY09TVXh4WmRJN0FNN0c4MS1qXy1nTThpVFRDU1ZiRVhTazFiVjBJNTJteVVzcHBDMFpFVTVfX2RNQVJrejhJeU1OV3Uy?oc=5",
+      "date": "2026-09-15",
+      "source": "トヨタ自動車株式会社 公式企業サイト",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "トヨタなど8社、欧州でトラックなど水素モビリティの導入加速へ連携",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZRzRsT2RPOE52amZ5cUJvSHR0dkdsSlNaeGxMdHBSY0NrUGc1SVNVbE9NRUZRM0RoV3pqNC1iZEM2SDE4M1RqLUEtbw?oc=5",
+      "date": "2026-09-15",
+      "source": "LOGI-BIZ online",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素発生装置市場は、2026年から2036年の予測期間において年平均成長率（CAGR）7.2%で成長し、2036年には18億970万米ドルに達すると予測されています。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWNVQzMzItNDQxdElDei1DNVB2eTdVRTBnU0o3STduVlQ5S0N5T0tPRmtoR3poTnFrTzcxTy11UzM1cDVvQXg1YkdrRHhJa05KRTZ3?oc=5",
+      "date": "2026-09-15",
+      "source": "dreamnews.jp",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "「再エネビジネスナビ」、情報収集からPPA比較・設備導入まで。現場を知るEPC企業が一貫して支援",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lZDlzYlVvSHJXTTNzZmUtNjRoSmszRkRzNG5SQ0lZM1Bjb2FGVE1fWC0wYVByWXVrZXdDVW12MmU4MVNGOS1DZkJ1b3VxU3hIYU1Pc0liSVZRd0lZTy1KcFFDTmpGTjNI?oc=5",
+      "date": "2026-09-15",
+      "source": "ニコニコニュース",
+      "domains": [
+        "power-market",
+        "energy-gx"
+      ],
+      "terms": [
+        "ppa"
+      ]
+    },
+    {
+      "title": "産業プロセス電化市場、2035年に740億米ドルへ――製造業の脱炭素化を支える電化技術が本格拡大",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82ZFZZT0xEM2xWejhHS2xmZHdmaFY4MF9zMm5pdWR6Q2tPRXk0ZnpzbWFVekl1SnNsMTFILTgtNm1YYWdhbGZobGljbnZnajlhS0hvOA?oc=5",
+      "date": "2026-09-15",
+      "source": "ニコニコニュース",
+      "domains": [
+        "thermal-utility",
+        "construction-city",
+        "energy-gx"
+      ],
+      "terms": [
+        "heatpump-cop",
+        "zeb",
+        "heat-recovery",
+        "boiler-steam"
+      ]
+    },
+    {
+      "title": "【10/29】大企業×中小企業で実現する、カーボンニュートラルに向けたイノベーション「グリーンテックマッチング2026」",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5teUhoSXhJWEk5UmdPb1J4eTU0ZllNQUtYR2VKS3VrZXpyNkVOUmlNLUFvQXgwZHhzbHd5SVlCTmpPSnZuZlZScUJCYjJlOW9mTTJKeWliZFNkX2JMTUp4cFBKUjNQcjl0X0E?oc=5",
+      "date": "2026-09-14",
+      "source": "PR TIMES",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "系統用蓄電池の心臓部、「リチウムイオン電池」の仕組みとコスト構造とは――部品はわずか3つ、性能とコストを左右する材料の本質を解説 ウェビナーを開催",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eHYxLWJYa0czWjhDRHRndUNwTldYX2xIdlh0cjlhRnEtcFFMY3paYW5oVXVQN19ycHR6UlFiRnJuaHRkTHdOU3YyczMxeGNYWTI0TGExaGNIOUZLMTdQNW5tNzFTVWVONWc?oc=5",
+      "date": "2026-09-14",
+      "source": "PR TIMES",
+      "domains": [
+        "battery-mobility",
+        "power-market"
+      ],
+      "terms": [
+        "lib"
+      ]
+    },
+    {
+      "title": "不安定化する国際情勢と拡大する輸出管理規制リスクに備えつつ、的確な経営判断と事業成長につなげる情報活用への道",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04WEtMTTNOVVJSY0h1N0s3VEs0U2lDVFV3dW5lR3NhQzVNWnVtb1p4aWs4aVh3N0ZzM2o2RWY4STh3RWZJT21PR19BX3NDcWhPMm03OHVPZU1IdmVCR1duM04tSTBkenBmZ182ZVhhazFPN0pDMnc?oc=5",
+      "date": "2026-09-09",
+      "source": "EY",
+      "domains": [
+        "supplychain"
+      ],
+      "terms": [
+        "econ-security",
+        "supply-risk",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "ヒートポンプ用熱交換器の世界市場2026年、グローバル市場規模（プレートフレーム式、フィン式、シェルチューブ式、同軸式",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sTEhNQ1NGTTdfWkdFU2lmb2cwWEZQeVlwQUd5eGFTTk53SWF3U3hleFVydTluNzJnSV84anlKUGx0Z3l0N2RtenZfeHFsdG1WWThRdk5kaU9HclVwSTJwRTU2d2VnbGhaZExCM3VwZmplTVNJUWpmdkROMA?oc=5",
+      "date": "2026-09-08",
+      "source": "ニコニコニュース",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    }
+  ]
 }
