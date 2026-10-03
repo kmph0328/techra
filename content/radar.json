@@ -1,13 +1,15 @@
 {
-  "collectedAt": "2026-10-02T00:32:17.871Z",
+  "collectedAt": "2026-10-03T00:10:21.746Z",
   "freshDays": 10,
-  "candidateMentions": {},
+  "candidateMentions": {
+    "核融合": 1
+  },
   "items": [
     {
-      "title": "日本の半導体製造装置部品市場：先端ファブ、AI半導体需要、高精度製造が新たな成長機会を創出",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cc2pvYVFUVEQ4SGJoUXlZX3lTNW56MHZ0akdBZXMyMzBuZUt1QUFkdFRYNGRtMmtWUkMyOXVBNWl3YkhnNF90WDlCZTlCQWFvalJj?oc=5",
-      "date": "2026-10-02",
-      "source": "ドリームニュース",
+      "title": "半導体主導のラリーでナスダック上昇、テスラは4.65%急騰",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXBDZzB2LXF6UFJMbFdLS05kZ0dFbG1GMGo1cXk5VmhaaHN0b1FUQkpIWWtkRzJabXlxc3RscTJwRlpvQk9xcUt1NlEwcS1BeEtlUmhQNW0yUU5PdUJZa0Nfb0pwMkZucG9kNGN6RnU0cm5NNlB5ZkVJSURqVVJxYm5yNll2ZV93WlRMX1plRzhnbWNjNy1OWkNMX3FOSGZXeWRJ?oc=5",
+      "date": "2026-10-03",
+      "source": "Moomoo",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,10 +19,10 @@
       ]
     },
     {
-      "title": "日本のAIネイティブ半導体製造市場：AI主導のチップ設計とインテリジェント・ファブリケーションが新たな半導体成長機会を創出",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSVRMQWJHSWJlZnVndEpBSE5PWEVxSnpReTNLeEJ5aXk1ZE5fUWE3SmFUMW96LUNrdVN0bzNIZ3l1SGl6eTQ2WHd3OUZ2bkVHR1Fv?oc=5",
+      "title": "半導体の増産で出番はテック株へ､銀行株は一旦回避したい！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zX1FKeDZWTlVvVkxyTEtWbEo4Q1RQUTlZakdoOThfRnhCZS1ZVFVuODN5V3JEVHFueUZOQjl0bWJlbVdGX05SVTJuRnVIdGRiXzVLYW13VQ?oc=5",
       "date": "2026-10-02",
-      "source": "ドリームニュース",
+      "source": "四季報オンライン",
       "domains": [
         "semicon",
         "supplychain"
@@ -30,10 +32,10 @@
       ]
     },
     {
-      "title": "ルネサス、半導体工場に点検ロボット「ugo mini」導入--日常点検を省力化",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVjdIbHNTTnVHZ01VSV96SmphQ2gyZ0lsT254b041OUxHR3pJN3VSY3Zqc0NKbzQtQXdSN01udlN3UDUycTdhRHJpNzdMeS1LZkU1U3FpYjZkbTVWSXh6X3ZqenJCenBRS1o3R2xRc1M4aUh0V2VrN1ZXSUlhRDA?oc=5",
+      "title": "「先読み2027、AI半導体」「核融合の業界地図」 注目5本",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0ZsNGhHeldiTnliZk1JNkJYZHI0RldfVXVMR0tZYnRxZWx2X25Nb1ptYVlkWF94QUctVWZ0OTRrRUJwcFNvN2xFZlNnOWlkVHR1eDVSVFlwS1hpVmxZcVZPdU00UGpaZ2M3T3Fmby1qZTVoOHJQVFB5WGYwSTlvc25FSENDV1k?oc=5",
       "date": "2026-10-02",
-      "source": "Yahoo!ニュース",
+      "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -43,10 +45,24 @@
       ]
     },
     {
-      "title": "日本のAI FPGA半導体市場：AIアクセラレーション、リコンフィギャラブル・コンピューティング、エッジインテリジェンスが新たな戦略的半導体機会を創出",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GQ3N5U2Q3c1RzSG5iQUZZaHFHZHlFR3phN0YtZ0I3dWhmZkdHbkl6aEVhVUVpOXkzUElUMHBYaXJVTzJpZG45TWdKRkpheGNXejNj?oc=5",
+      "title": "GX 半導体関連-日本株式【2644】：株価・株式情報（夜間PTS含む）",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QdDNtZ2U2X3c4VW9lMVBvRlg2UkljLWl6UER4cWVGYTU5S1piOWhTNEVwakp6bHlLZlZQQjhkZjEyUHNPQjVLX3dWNUtfdmhQTUE?oc=5",
       "date": "2026-10-02",
-      "source": "ドリームニュース",
+      "source": "Yahoo!ファイナンス",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "energy-gx"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "２ナノ世代以降の国内半導体開発束ねる。産総研「先端半導体研究センター」の全容",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xV1BjNERpRFVpQjh3eGQwbzk0WmFiclF3dkRFNTRQMDJWWE9uTWJsdjBkZzBvVE15SE4yQm1BZmxWZw?oc=5",
+      "date": "2026-10-02",
+      "source": "ニュースイッチ by 日刊工業新聞社",
       "domains": [
         "semicon",
         "supplychain"
@@ -56,16 +72,79 @@
       ]
     },
     {
-      "title": "Edge AIの常識を変えるDEEPX製次世代AI半導体 ローカルLLM対応「DX-M2」",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iZ2V1ZjJhTUg3SkNFQ2FGOXNtcUloM0NfZjM4dkFiVEJ2c1FhcnVTSVpuR2xhcFd4SjFHa0FBTHlBVXRrVVM1cHB5WXQ3WEFYYWhNNG1halF5cjlfU2NoZjhwNm0yWjc0aXc?oc=5",
+      "title": "AI・半導体株のリバウンドは予想外に続く可能性 在庫減少と業績予想の上方修正に注目 野村證券ストラテジストが解説",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VFZIX2tYaFkxZ2QtU2F4RmhCcXM4SlNCb0RzSFVBRFEwN2hFZF95NklNdllzZ0FZTzIzNGdySVNtQTVLNGtEQ3FncmlScWdOWDFTX3Y0MVhQTVpvRGd3?oc=5",
+      "date": "2026-10-02",
+      "source": "nomura.co.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "11月27日(金) AndTech「PFAS規制関連の最新動向と対応する代替材料の動向 ～フッ素フリー材料開発の現状および考え方と方向性～」WEBオンラインZoomセミナーを開催予定",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BZGZxWFNPX1R2SjNIS2NjZWhndFAyNE13MDdZand2WFRwUlNlU0RtZHpLZmdkN2VLUHBOX194UDdpdGdtNWplaGNSX3VVaHBIU3VvWndTeUpKV3NaZVZKaDFIdmpEaGsxbWc?oc=5",
       "date": "2026-10-02",
       "source": "prtimes.jp",
       "domains": [
-        "semicon",
-        "supplychain"
+        "env-chem"
       ],
       "terms": [
-        "semi-process"
+        "pfas"
+      ]
+    },
+    {
+      "title": "PFAS規制とフッ素フリー材料の最新動向、AndTechがセミナー開催",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhQ19BaklxM1JEV1huSFpfSklDNXRzWXF1NGpRbHRGcG1YV2lqQWF6cnZ4ZnVZVUpYM3NyREhxWllwanc3OHc?oc=5",
+      "date": "2026-10-02",
+      "source": "Koubo",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "充電式ニッケル水素ボタン電池の世界市場（2026年～2032年）、市場規模（＜50mAh、50-100mAh）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45Uzh5UGVyejhSMEZzdGp6LUFVbTlmak5oOUx6eHNhakxrZWVqbWY1a3VwU1ljaEQzS0pBQi0wOXpDcUo3RlZHWUVRSEI0b3c?oc=5",
+      "date": "2026-10-02",
+      "source": "アットプレス",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "AI時代の大問題「消費電力」を削る！NTTとNVIDIAが次に狙うデータセンターの新技術",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xTmpjQkoyN29zV0h0T2NDWE40elNuaGhYdXV2eHgyNUF3THF6UnU4VXpfYy1VUW56QkhNbm5NUlNaMVdEdUpPdnZOT2wxQ0tMeHJ4c29oVU9zNnBmNE9PWWtJdW5TUQ?oc=5",
+      "date": "2026-10-02",
+      "source": "DXマガジン",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "海外／日本のAIデータセンター重要ニュース：9月24日までの2週間：東証プライム経営者用エグゼクティブサマリー",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GNDhPYWJXbWp0SUl0NGZLeWp0aWRXYW1OeUVlbk9Nekp2dkstU2Z0eWltdkU1cXN3ZTdnemMwTjVpVWZxejMxUU56alpfWUNrWS1FTmNDODN0eENleF9lTFRLajc?oc=5",
+      "date": "2026-10-02",
+      "source": "sattu-ai-agent.com",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -82,17 +161,43 @@
       ]
     },
     {
-      "title": "半導体で原子1個分の薄さを実現、東京大学が新材料 TSMCと連携へ",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84VTFRVHVoSWM1Nkp0TFRrTF9Na0ZOS0pmSHhhUTQ2b2s5U19oSU9jbXc5Y1NSejBvUFdkTmw5WG1Tb0IwUXlkYUNOdjNHakg4eDhUVm5ZX2lPQjNmWnhwRm1tZnhXbWlKSGhZWg?oc=5",
-      "date": "2026-10-01",
-      "source": "日本経済新聞",
+      "title": "JERA・RHAELM・Dellによる千葉AIデータセンター2.3兆円プロジェクトの深層：エネルギーと計算資源の融合がもたらす次世代インフラ戦略",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNZ3ZxdGJ5aDZJRE5IY2ZITkNIbU44eE9mYWE0SW51YzA1MUphTVdnaGN3NkJGQzRzY1JscnRTU21DOVYzWnRKTW1hS082aS1oQU5Nb0F6ZDBoLUdMWXJXMkZnZW1GZw?oc=5",
+      "date": "2026-10-02",
+      "source": "sattu-ai-agent.com",
       "domains": [
-        "semicon",
-        "supplychain"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "semi-process",
-        "foundry-model"
+        "datacenter"
+      ]
+    },
+    {
+      "title": "データセンターUPSおよびインバーター市場、2035年に232億米ドルへ拡大｜CAGR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52bXdJRXE1eEJuQk1WQXowU0JWY2dZQ1BLekRPRnJ6dUlOd09ueTh0a0ZpRV92dEZjZmotR2FJQVhBTEpNd2dJb3dLOHd1dUhXcXlSUW1QaTdoejNCdTdNdTZEeWlyd056WERIX2hCdEJBV2pHWTlzbl81dw?oc=5",
+      "date": "2026-10-02",
+      "source": "news.nicovideo.jp",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "日本のAI FPGA半導体市場：AIアクセラレーション、リコンフィギャラブル・コンピューティング、エッジインテリジェンスが新たな戦略的半導体機会を創出",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GQ3N5U2Q3c1RzSG5iQUZZaHFHZHlFR3phN0YtZ0I3dWhmZkdHbkl6aEVhVUVpOXkzUElUMHBYaXJVTzJpZG45TWdKRkpheGNXejNj?oc=5",
+      "date": "2026-10-02",
+      "source": "dreamnews.jp",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "semicon"
+      ],
+      "terms": [
+        "semi-process"
       ]
     },
     {
@@ -109,23 +214,10 @@
       ]
     },
     {
-      "title": "Spectee、化学・素材産業のサプライチェーンリスク対策セミナーを10/9に開催。災害・地政学・規制リスクに企業はどう備えるか",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NeUZMc01JVU8xbjhjMV80eGtsTmp3QUowTUxKUG9DblNGUGdFQTNkVnI2U1k4LTc2bEtBTEhIanRIeVRBLV8yZHFPcWVtQXlqbklQLXN2bnFsM3lHVEN3cWtaRHkyOFQ5MmhmZ0o1cDk4QkhzdFpZVVluVQ?oc=5",
-      "date": "2026-10-01",
-      "source": "ニコニコニュース",
-      "domains": [
-        "env-chem",
-        "supplychain"
-      ],
-      "terms": [
-        "supply-risk"
-      ]
-    },
-    {
       "title": "【ライブ配信/ZOOM】「非フッ素系撥水・撥油コーティングの基礎と応用、開発動向」セミナー開催！11月10日（火）主催",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Dc2VWS3R6eFJHWUpIMkZLSzZTMDgxcVBYLWFOdGpoTkVmVDNxZGJSYks5bm9fdV84dWFnRlczbUxhZ1J4dEtOZGtMcXlrSks2VzJVeFhXLTFEMzlfQUpQNUprel9ySjZiR2hMZlBYZVRySndMdDExLWIzZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GdHRmMXVoNklfbFp2cjVPZ3JfNmo3SmN2RGo1UGRsZnZiSHVXOWI1MXAwUGUyQXEtTm1VTlpXWGtwX3RrSXJsUk5iV1dTR2tpMzdLSw?oc=5",
       "date": "2026-10-01",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "domains": [
         "env-chem"
       ],
@@ -134,6 +226,19 @@
         "voc",
         "sds-ghs",
         "prtr"
+      ]
+    },
+    {
+      "title": "Spectee、化学・素材産業のサプライチェーンリスク対策セミナーを10/9に開催。災害・地政学・規制リスクに企業はどう備えるか",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NeUZMc01JVU8xbjhjMV80eGtsTmp3QUowTUxKUG9DblNGUGdFQTNkVnI2U1k4LTc2bEtBTEhIanRIeVRBLV8yZHFPcWVtQXlqbklQLXN2bnFsM3lHVEN3cWtaRHkyOFQ5MmhmZ0o1cDk4QkhzdFpZVVluVQ?oc=5",
+      "date": "2026-10-01",
+      "source": "news.nicovideo.jp",
+      "domains": [
+        "env-chem",
+        "supplychain"
+      ],
+      "terms": [
+        "supply-risk"
       ]
     },
     {
@@ -173,18 +278,6 @@
       ]
     },
     {
-      "title": "绿色アンモニア市場規模は、2026年から2033年にかけて年平均成長率（CAGR）7%で",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mRXkzOXVwZHJKeVVLaWdmOEJXRkdmcWhtRjdWTXZvZlVybVQ5MlRnc1Q3Z2dseFU5NGgwOXdBZVJydTZrN0NXY0d3?oc=5",
-      "date": "2026-10-01",
-      "source": "pando.life",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "トヨタ系3社とFIP転陸上風力発電所を活用したバーチャルPPAを締結",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MNGdlUEV1M1RtZUZBQ3VqM1g0U0ZrN1pNcUdaV1UtUC1fYXlObWg3a2gtUDRtaGlrYkp6aTVRVlAwY19uZE5IazVDMlYzTXc2OWVudm1ZcWZ1cHZNQlpsMS1yN3MyeExUY0E?oc=5",
       "date": "2026-10-01",
@@ -196,36 +289,6 @@
       "terms": [
         "ppa",
         "fit-fip"
-      ]
-    },
-    {
-      "title": "AIを動かすための電力需要が、数十億ドル規模のプロジェクトを推進している。",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEhhc283cTV6NG9zWHJNSVplLVVaUTRLVl9jMjd2WFI3elZGbVJmRWJVYU9BcHl0eUNfamdxVlJPM1RzWjdvZmFQSVlGMksxY0N1Tm1KbHBtN2dUTmJWZkpaVjRHeDJyYjE2UHdKaGo3QkhNMVV4dkdzcE84YjRGRXVacUhiazNr?oc=5",
-      "date": "2026-10-01",
-      "source": "Vietnam.vn",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "日本の人工知能チップ市場：AIコンピューティング、エッジインテリジェンス、先進半導体製造を通じて新たな成長機会を創出",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zLWJXb2xCUm1GYm94b2lkTjR4OW02QlA2V1czcUg3YmdVVmJuaGU0RGJhZmtVYXQ3Q0NicDVEY3d0YWI0UUpWVWxlZm5JRTNQWmRCZkREQU5VQXRHZXFHOTBIZm9zTmtkeS05TXFfbjVTXzJFVGtMWkxHYw?oc=5",
-      "date": "2026-10-01",
-      "source": "ニコニコニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "semicon"
-      ],
-      "terms": [
-        "semi-process"
       ]
     },
     {
@@ -266,45 +329,6 @@
       ]
     },
     {
-      "title": "EU、データセンターに最低性能基準導入へ AI普及で増える電力消費・水使用に対応",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5INUFDQmdJWUt0eElTenhtOHBvYkF3ajNrSExxNENNS1NMcjk2YVZMaFV1LVp5dG44d00xSFpaRUNlQU9hNENwdWJkNDFnNlJwd0V1LTNOWQ?oc=5",
-      "date": "2026-09-30",
-      "source": "ESG Journal",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "高電圧直流は電力制約を救うか データセンター給電の死角：『ビジネス2.0』の視点",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5YXRNUU1EZGlreGdHUERQU18yb09zMElvWk5PMmdPMW1jMlVlRXVhXzNXQlBua3daNEN5WGtuVlFhVk5oSlVsU3p2MmFWNk82SHJDczZMTkgtOW85azFqbHVRMjdOX0k?oc=5",
-      "date": "2026-09-30",
-      "source": "オルタナティブ・ブログ",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "電池材料やPFAS対応など19アイテム、第一工業製薬が展示へ…サステナブルマテリアル展2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43T19yNE5ENE1UdENKVUNYZ3c2WU5RYno5RFhHbzJEbjNuV0dMTmZUNDJjd3RGZlExX3RWTEl5d1EwLXNuMUpLQVdsakkxUW0yUHVrclZtQ0wydWZqQjEw?oc=5",
-      "date": "2026-09-29",
-      "source": "レスポンス（Response.jp）",
-      "domains": [
-        "env-chem",
-        "battery-mobility"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
       "title": "水素航空機国内メーカーとシェア",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTSjY3akczZUdmdXIwSjNjcklPMm1NRkpweDJiMzdqZ0dJWl9jRHVWdGkyYjZHdTU2WXVobVdmM0NVNm5TUnlOQ3h3?oc=5",
       "date": "2026-09-29",
@@ -317,23 +341,10 @@
       ]
     },
     {
-      "title": "データセンター投資、2030年までに累計4兆ドルに ボトルネックは電力",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2OVdFaFRkU04wSnFqdDVvWEk0VWdzNG9LOVEyQ3NkQ1dDOTBxOHNCMG1JV0V6ZlJYbG00aF9HUDkxZXExRExLODM0S2VDUHlVODdBQmlybkVLenF6aXZpOEk4Y01fTTdKX2ppRg?oc=5",
-      "date": "2026-09-29",
-      "source": "日経クロステック（xTECH）",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
       "title": "経済安全保障OSINT活用セミナー： 取引先管理に求められる「リモートデューデリジェンス」とは？～中国によるサプライチェーン安全関連法（国務院令第834・835号）の解説と取り組み事例のご紹介～",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUbFNRWmY3c19kZmhiTFBWbDczMkpaWGxIcUNsdWxZTkYwbkQzbmhiLS1vY25Ta1VnRmdKaXJpeHRoV3J0bVFRel9HbmJnNy1uNnVkdC1jS09hRUtFcFUzSGFZNnEwSXRGQ2lTbGo4RjJLMDlSWHJRdlBpQzY?oc=5",
       "date": "2026-09-29",
-      "source": "ey.com",
+      "source": "EY",
       "domains": [
         "supplychain"
       ],
@@ -358,7 +369,7 @@
       "title": "サステナブル冷媒マーケットリサーチ：調査方法・市場動向・業界規模、年平均成長率（CAGR）3.2%の安定成長",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmLWpJNVdETWQzQUdCX0hfU1BOeVo1NHA5TU9id0lHMVJZRXB2aUh6V2ZvU1dXdDExYzE3N0ZKQVdGa0d6RkZNV1pObWRRNXZfR0ZNZA?oc=5",
       "date": "2026-09-28",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "domains": [
         "thermal-utility",
         "construction-city"
@@ -368,18 +379,6 @@
         "zeb",
         "heat-recovery",
         "boiler-steam"
-      ]
-    },
-    {
-      "title": "PFAS除去市場、2035年に180億米ドルへ――規制強化と高度処理技術が環境浄化需要を加速",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSaUhnUE1PcEdTUm96SXJPMXJ1YWdGLTdSODZocEJRQzMzVUo2MGNueHBiNUxJdkdCdG5SY1ZQSDJ0dzFCZXZ0Rjd5emVPaGM?oc=5",
-      "date": "2026-09-25",
-      "source": "Newscast.jp",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
       ]
     }
   ]
