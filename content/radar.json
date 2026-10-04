@@ -1,41 +1,29 @@
 {
-  "collectedAt": "2026-10-03T23:31:47.013Z",
+  "collectedAt": "2026-10-04T23:50:24.127Z",
   "freshDays": 10,
   "candidateMentions": {
     "核融合": 1
   },
   "items": [
     {
-      "title": "花王、半導体「洗う」に託す成長 海外でP&G追わず独自路線",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cURudmpFQ2dLNUx1dkdoQ041R2lCYlFNMmhqR2hHY0hfa2p3X3dlZ1VLdHlHTlZmY2ttWF9paHdMcTdIZmxsSjZPNEFwSjU2bzNGNTFtQ2RKczBVQTQ3UUxYMUtWek9sQ1BRMA?oc=5",
-      "date": "2026-10-03",
+      "title": "ラピダス、東芝など17社と先端半導体の設計支援 潜在顧客を開拓",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dTY3SF9XRTI4N25JdmZQNGVFQ0R5d3NZVzh0YmZIaldnQnU2X3FIUmlHZ0Nzcmk0ZGYwdUg4QmpMNC01Wm5udUczZUJ3anRjZDJSR0tONXhDdzNhdldVMjRManlpVzJtbG5WQw?oc=5",
+      "date": "2026-10-04",
       "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "マスク氏の「Terafab」にTSMC参画案 ロジック・メモリ・先端実装を集約する巨大計画",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xSEZxejFmSEljQTdrM3ZLRDdMUEhtQW1oQkpnNEJ4UDFkdXpNSHE2Vk5OYVl5by1QSFNzeWY3VGtSa3M0NGlEaThsMF9fX0dFNHY3UTNhQXZDMC1KRk1IM2RGQkNRS2V3WlE?oc=5",
-      "date": "2026-10-03",
-      "source": "XenoSpectrum",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
+        "semi-process",
         "foundry-model"
       ]
     },
     {
-      "title": "韓国Samsung Electronics、龍仁半導体国家産業団地を今月着工…最初のファブは2029年10月稼働へ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMzcxWnM4N05ZRzlFczltQktGOEZOS3ZRNWRzQkVGV2taZDZybG1YTDBOeEZFVm5ENGJyOURaNWxPbVNrLWhXbGNsd3FDajQ3ZWRFVHVGTFpybHZpamp3dW1Pc3ZUTllYTUR5cUNDNUJxdjlB?oc=5",
-      "date": "2026-10-03",
-      "source": "BigGo ファイナンス",
+      "title": "日韓台・経済大接近：半導体の高度化で進む国際分業 中核担う日韓台の企業 津田建二",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByandBeGNZY0ppemNYRy1YQlZaRkZrZ3M3Z2s3ZEVGbHFoNjkxeTNZbG1MQ3ZPVUo1Yk5PMHE5MWUtNzZWeHlTR1VEck4teGs5TDdoUGFiYnBxQllkM2VIMWU2YksyVUticlBrcE5kN1ZhTUdnbUcwZ2IwcEFTQkU?oc=5",
+      "date": "2026-10-04",
+      "source": "週刊エコノミスト Online",
       "domains": [
         "semicon",
         "supplychain"
@@ -45,10 +33,10 @@
       ]
     },
     {
-      "title": "半導体前工程用コーティング・現像装置の世界市場（2026年～2032年）、市場規模（コーター、現像機、コーティング・現像複合機）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UNURiRjh4Rm1YNHhoeGJuR0pfQkROcV82RkplX3JySkk4QlJtRWFSbnZlNXMzZFh1RWpZQUJPVGFWcEhqVmJYR1MzUUlHakk?oc=5",
-      "date": "2026-10-03",
-      "source": "Newscast.jp",
+      "title": "「薬」と「安全保障」… 医薬品は「第二の半導体」か【薬の地政学 #1】",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Eb3BZVTJDSTB4bHcza0R3S29zVWdPMnJ0WEJGbWx1Q1phSG91cE5nMUFtMW5DZ2Ntd1pQMDJuOXJKRlAyLVRPRS1MZnhIS0tlUmdpUTRGVQ?oc=5",
+      "date": "2026-10-04",
+      "source": "Answers（アンサーズ）",
       "domains": [
         "semicon",
         "supplychain"
@@ -58,10 +46,10 @@
       ]
     },
     {
-      "title": "栃木県内各地で内定式 業績好調な半導体の関連企業は",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNWJGcjAwcU1qN3pZUmhLUHJ6ZG1zRlBWOVVyTTBEaHU4RFlXM2RSUVNvM2RuMWlhcFM3dXFpc0pXT1ZkSlR0ZVFkUGFUWXJpU2hwSUhQc3hWOFVma2kw?oc=5",
-      "date": "2026-10-03",
-      "source": "NHKニュース",
+      "title": "半導体メモリー未曾有の高騰はいつ収まるのか。異例の増産投資ラッシュから見える現実",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVVVSGxDTVBxbkkzSEc0OFFqbWpsSlU1ZUVScHV1ZFlib1Nnb2locFRSZC01TkRIZmM0SUdKelJIcGFLWWJEQXV3QjBVb2RjSVZoU1ZMSWlHV3hpMzhQelhIMDFpWkl4TGRQVG1wMnhKTUYtMkdLNjFXRzF5NHNyQXZSNXd5UmhteGh4ZV9PajlEV3IyRDVn?oc=5",
+      "date": "2026-10-04",
+      "source": "Business Insider Japan",
       "domains": [
         "semicon",
         "supplychain"
@@ -71,16 +59,91 @@
       ]
     },
     {
-      "title": "半導体産業に必要な人材を確保する。",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NMHk1N1RzN00zTzZyRHlPdWZZcC1JR3ZodTNrTFI0MjZpdHJJbzd3R1FVMXhIOTliZDJJcE1IemhUQi1XV3JYUDNHR29BZXlJdDhrdEJMaW5valN4ZzgxQnNYSGc5c0lBdHcxNWpnQmhvTmhF?oc=5",
-      "date": "2026-10-03",
-      "source": "Vietnam.vn",
+      "title": "｢石油化学事業は独立した形が最適｣､半導体材料への集中急ぐレゾナックCFOが語るクラサス｢Pスピンオフ｣の狙い",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91emZFdFV0NzNTR0UzVkNwWGhka2tkMmtUQVFqelJlOFFTU3VBS01lOVZJbGtuVWFDcnpSVFNtaGY5U1dwWkhweEVGZGdaM2pUOWtfbGVZWFhmUXdQdnFF?oc=5",
+      "date": "2026-10-04",
+      "source": "toyokeizai.net",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
         "semi-process"
+      ]
+    },
+    {
+      "title": "半導体やAI関連株に資金が集中しやすい需給状況／オープニングコメント",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpckxaRUZBY184eXlTY05JMTlWbkVweXNaemxseVAxUjVCQUVkdnVjMmE5VlM3dUZSVlFOQW8xZFJDTW5tMlZuVlJLQTNsY3pjLUREejNyd01MVjZMZFdHLQ?oc=5",
+      "date": "2026-10-04",
+      "source": "株探",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "燃料電池システム用水素バルブ市場の概要：2026年から2033年までの特定地域における予",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92bTJEYWswR0F6aXA5VGlNT3ByOWNWbno0R1VvT05fdjNhN2o3MmtKaTdsUjZITGpWT2xjM2tVT0VYZ0Q3MWtmbUZ3?oc=5",
+      "date": "2026-10-04",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "グリーンアンモニア日本企業と海外勢の比較",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UQ3RJdF9yclNmYWI3a3Vqcm02Q0pCbThpNWx2ME11QjZ4ZHdGVUZkU0pNZlBydHJQX21CRVlsZ2p2UUJJZ25CSnln?oc=5",
+      "date": "2026-10-04",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素航空機市場トップ10企業",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZX1VmZHhNMW44dXU0eHJhalA1OFdLaTBYVHhpd29kNzg5dlZCNDhuaXNPNVdubU13RU83WnowdmZiMGN5c2MtcHh3?oc=5",
+      "date": "2026-10-04",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "高純度電子グレードフッ化水素酸メーカーランキング",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GVTVqQjNFMVJmdEkxbFFRX09MaEpBMHFzN3lfMjkwMkVNZEhzOU42T3hqcFRJYmpBVnpkZFhBM01pYXFuREZuVHp3?oc=5",
+      "date": "2026-10-04",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "AWSの革命的ネットワークはぐちゃぐちゃ、データセンターの電力不足に一手",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXJuVlg2MFNKVzdSVTc2Q2NMUk9IdndjUjZrenZVbmdHRkJoNmhCZmRpRVJJVGZVVlR1WnV1NnJDUkFiNjBmWkNMSkdkMGZDaEZ0NUpEeTN6a3BlY2NFNy1MYnNNcHVISEtqRUIxUEltakUyZkNsVnZVYk10MjlwRUdPNlJERTZ0VHk4V3ZGdmk?oc=5",
+      "date": "2026-10-04",
+      "source": "日経クロステック（xTECH）",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -100,18 +163,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmF4Q2lsM3FTenp1dlQ0WmYzOS11ZU1yeXRxSEFjaHVjRHdESi1uRnprWUQwYXZNY05GXzVUWkhXM2Jsb1JaSEg2Tzh0LUVybXIxWXBMRHdjem5SeVRXTzlwNzhhV0VXa1pGeHktcEZUWFMxNE9IUDBiNGlZRWgydkRSMHZUa1VCcm40LWFRSkRXMkdoZ2VF?oc=5",
       "date": "2026-10-03",
       "source": "Vietnam.vn",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "鉄系アンモニア合成触媒の世界市場（2026年～2032年）、市場規模（酸化状態、還元状態）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42bFBJUTZYdS1OTWN5cWphbm14OXdFeWZhdk5wd3I5NWxsVDNwajJjeTM5WUE5Y1VSTnRveGo4MlRHNnhwSldMdFlmUjBJQQ?oc=5",
-      "date": "2026-10-03",
-      "source": "アットプレス",
       "domains": [
         "energy-gx"
       ],
@@ -157,35 +208,10 @@
       ]
     },
     {
-      "title": "苫小牧に水素ステーション 東京の企業 28年度稼働 自動車に燃料供給／高圧縮し需要開拓",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJaWNaNzBjelU2dVNFc3JQZE9oUG90d2k5QkdWNHluYnNpc1NVQmNlWHl0bDMyaDFMQVM1YmJZYW1KaGtMM29oaDI3c2Z1SGZrLTNUOTdlYmxpQQ?oc=5",
+      "title": "海外／日本のAIデータセンター重要ニュース：9月24日までの2週間：東証プライム経営者用エグゼクティブサマリー",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GNDhPYWJXbWp0SUl0NGZLeWp0aWRXYW1OeUVlbk9Nekp2dkstU2Z0eWltdkU1cXN3ZTdnemMwTjVpVWZxejMxUU56alpfWUNrWS1FTmNDODN0eENleF9lTFRLajc?oc=5",
       "date": "2026-10-02",
-      "source": "北海道新聞デジタル",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "充電式ニッケル水素ボタン電池の世界市場（2026年～2032年）、市場規模（＜50mAh、50-100mAh）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45Uzh5UGVyejhSMEZzdGp6LUFVbTlmak5oOUx6eHNhakxrZWVqbWY1a3VwU1ljaEQzS0pBQi0wOXpDcUo3RlZHWUVRSEI0b3c?oc=5",
-      "date": "2026-10-02",
-      "source": "アットプレス",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "AI時代の大問題「消費電力」を削る！NTTとNVIDIAが次に狙うデータセンターの新技術",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xTmpjQkoyN29zV0h0T2NDWE40elNuaGhYdXV2eHgyNUF3THF6UnU4VXpfYy1VUW56QkhNbm5NUlNaMVdEdUpPdnZOT2wxQ0tMeHJ4c29oVU9zNnBmNE9PWWtJdW5TUQ?oc=5",
-      "date": "2026-10-02",
-      "source": "DXマガジン",
+      "source": "さっつーのAIエージェント",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -199,19 +225,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbnhZTmFOdGtJSjgyVWpDM0hlam5ldGItS3I2UDBpT1k5VVpPQTQ1NFBfaUlrN3RBeGhNel9oVS12ZEstc0sxeGFoa1VCN0EzYlhYdldLdVNLUQ?oc=5",
       "date": "2026-10-02",
       "source": "Forbes JAPAN",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "海外／日本のAIデータセンター重要ニュース：9月24日までの2週間：東証プライム経営者用エグゼクティブサマリー",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GNDhPYWJXbWp0SUl0NGZLeWp0aWRXYW1OeUVlbk9Nekp2dkstU2Z0eWltdkU1cXN3ZTdnemMwTjVpVWZxejMxUU56alpfWUNrWS1FTmNDODN0eENleF9lTFRLajc?oc=5",
-      "date": "2026-10-02",
-      "source": "さっつーのAIエージェント",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -247,10 +260,23 @@
       ]
     },
     {
+      "title": "モータ駆動回路を30％超小型化、STがエアコン・ヒートポンプ向け600Vパワーモジュールを量産 | TECH+（テックプラス）",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybWtOQXJDYU5ic0dCQjVqWHRlMGhMUktrOTZDR2xZc1dNQk1IcUpwV2xUMFd6WGdFenFHdHVSVWx3UVlxNVprR3dBN0tmTzAxaUdyZG5md09adlY3NEV4VHdvclFDeldP?oc=5",
+      "date": "2026-10-02",
+      "source": "マイナビニュース",
+      "domains": [
+        "thermal-utility",
+        "construction-city"
+      ],
+      "terms": [
+        "heatpump-cop"
+      ]
+    },
+    {
       "title": "NTTデータら、化学物質規制対応の負担を軽減する新サービス提供開始：サプライチェーン改革",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTFJWX1I2UC1FWDBYUGJNQkp3TEl6V2RzTUhSekpFSmxhSDA2b082WkxzeURGN3pHYnpMdWh5VHR6dU13TXVscTBTeEdaMXFNemxfM1cxclk2TjdsV3FzZWtPYS1XSTJtNVprNVNnbw?oc=5",
       "date": "2026-10-01",
-      "source": "MONOist",
+      "source": "monoist.itmedia.co.jp",
       "domains": [
         "env-chem",
         "supplychain"
@@ -285,18 +311,6 @@
       ],
       "terms": [
         "supply-risk"
-      ]
-    },
-    {
-      "title": "理念から現実重視路線へ、米国の水素政策と企業動向 | 地域・分析レポート - 海外ビジネス情報",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhOTFfTERfYm5JX2RZSUtzNG12VmQxeGRZVXhVSk9OVkNKemd1ejdUWExuTlNiT0hmbDNnWGhMNlo2dlk4MGo4Q2lZQVFoR0hQYlR2eFV1OHBMQ19lZ2x5STE1dFp2SmpkbHFsbTUzeVZmUnY2?oc=5",
-      "date": "2026-10-01",
-      "source": "jetro.go.jp",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
       ]
     },
     {
@@ -355,7 +369,7 @@
       "title": "経済安全保障OSINT活用セミナー： 取引先管理に求められる「リモートデューデリジェンス」とは？～中国によるサプライチェーン安全関連法（国務院令第834・835号）の解説と取り組み事例のご紹介～",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUbFNRWmY3c19kZmhiTFBWbDczMkpaWGxIcUNsdWxZTkYwbkQzbmhiLS1vY25Ta1VnRmdKaXJpeHRoV3J0bVFRel9HbmJnNy1uNnVkdC1jS09hRUtFcFUzSGFZNnEwSXRGQ2lTbGo4RjJLMDlSWHJRdlBpQzY?oc=5",
       "date": "2026-09-29",
-      "source": "ey.com",
+      "source": "EY",
       "domains": [
         "supplychain"
       ],
