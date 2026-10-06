@@ -1,15 +1,15 @@
 {
-  "collectedAt": "2026-10-04T23:50:24.127Z",
+  "collectedAt": "2026-10-06T01:40:03.809Z",
   "freshDays": 10,
   "candidateMentions": {
-    "核融合": 1
+    "ガラス基板（半導体パッケージ）": 1
   },
   "items": [
     {
-      "title": "ラピダス、東芝など17社と先端半導体の設計支援 潜在顧客を開拓",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dTY3SF9XRTI4N25JdmZQNGVFQ0R5d3NZVzh0YmZIaldnQnU2X3FIUmlHZ0Nzcmk0ZGYwdUg4QmpMNC01Wm5udUczZUJ3anRjZDJSR0tONXhDdzNhdldVMjRManlpVzJtbG5WQw?oc=5",
-      "date": "2026-10-04",
-      "source": "日本経済新聞",
+      "title": "最先端半導体の開発・量産を支えるグローバルなエコシステムの枠組み「Rapidus CORE」を発表",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9samxSU25lcnhYbHFUMldLOC1xN1lkVGpXc0JScEJDeFYyc0dvZWNWM2R4a2w2MGpJVWJvOUQxQWRJSHQ2N1c4NDRvcTdWWGllZjVWTG9XVW82ci1fXzV2NmZIYUdyc2JJ?oc=5",
+      "date": "2026-10-05",
+      "source": "rapidus.inc",
       "domains": [
         "semicon",
         "supplychain"
@@ -20,10 +20,41 @@
       ]
     },
     {
-      "title": "日韓台・経済大接近：半導体の高度化で進む国際分業 中核担う日韓台の企業 津田建二",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByandBeGNZY0ppemNYRy1YQlZaRkZrZ3M3Z2s3ZEVGbHFoNjkxeTNZbG1MQ3ZPVUo1Yk5PMHE5MWUtNzZWeHlTR1VEck4teGs5TDdoUGFiYnBxQllkM2VIMWU2YksyVUticlBrcE5kN1ZhTUdnbUcwZ2IwcEFTQkU?oc=5",
-      "date": "2026-10-04",
-      "source": "週刊エコノミスト Online",
+      "title": "国策半導体ラピダス、2ナノ量産準備が最終段階｜27年開始へ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VUkx4ekxzX3I2cWJmUzhVamY0dzkxT0lNbERaMXktZzJBWGlVenJvTnJJODVuOUE1NXlYdkVrOVhaRmFyTVd1OWpkbTVVcjBnaWlfTFI0MW04YURPdWJxN1oxbFVacnJE?oc=5",
+      "date": "2026-10-05",
+      "source": "crypto-times.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "【台湾】ＴＳＭＣ、シンガポール工場検討か＝報道（NNA）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNXd4NVRIN0FBeU1ra1E0V1g4TTNUTzVzWmd4N2JIVEZHY2FMY1habGpBdEhXblJTc254eWJvaDhSMDNSaktaMWFiVzZPUGJYQjhLNlRrVFc5dmlDanBYQkozcjZOa2R1T3RTbjZzcVdmaEhyQXBad2RnMmFrSEk?oc=5",
+      "date": "2026-10-05",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "euv",
+        "foundry-model",
+        "hbm",
+        "cleanroom"
+      ]
+    },
+    {
+      "title": "パワー半導体「酸化ガリウム系」に日本の強み",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UkNWbmpReXItdHdnS0lMM0ttcGJmNlJMWXpSUnNMUWZlc2tpVzc1Q21sV0t6V2EwNEVYajZBVFlGMEZ6al9lTkk1M25aZ0JGX0MzSnRVVmtHNFhaYThDdzNzRk9uVnl6eDFZNTlEQUtvLU4wUUtJNDI5SkVEemc?oc=5",
+      "date": "2026-10-05",
+      "source": "毎日新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -35,7 +66,7 @@
     {
       "title": "「薬」と「安全保障」… 医薬品は「第二の半導体」か【薬の地政学 #1】",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Eb3BZVTJDSTB4bHcza0R3S29zVWdPMnJ0WEJGbWx1Q1phSG91cE5nMUFtMW5DZ2Ntd1pQMDJuOXJKRlAyLVRPRS1MZnhIS0tlUmdpUTRGVQ?oc=5",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "source": "Answers（アンサーズ）",
       "domains": [
         "semicon",
@@ -46,10 +77,10 @@
       ]
     },
     {
-      "title": "半導体メモリー未曾有の高騰はいつ収まるのか。異例の増産投資ラッシュから見える現実",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVVVSGxDTVBxbkkzSEc0OFFqbWpsSlU1ZUVScHV1ZFlib1Nnb2locFRSZC01TkRIZmM0SUdKelJIcGFLWWJEQXV3QjBVb2RjSVZoU1ZMSWlHV3hpMzhQelhIMDFpWkl4TGRQVG1wMnhKTUYtMkdLNjFXRzF5NHNyQXZSNXd5UmhteGh4ZV9PajlEV3IyRDVn?oc=5",
-      "date": "2026-10-04",
-      "source": "Business Insider Japan",
+      "title": "米国の半導体製造“国内回帰”と国策投資の成否、総工費20兆円の巨大工場「テラファブ」イーロン・マスクの野望と死角",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4waGhPQnVxUUptaVFnREY0bXFXeEpMSmF0MVpSekFuM3BvUnI4RUJYN0swWDFkQV9CclZ6eDBYdjhaRU5rQ29JR0FEWmrSAU9BVV95cUxPRGlQYmE1elVkZFVhcHM3bjY0ampOU0pQLU95aUZrZGJyQkZ2NEpJZHBGbkxnQnhXeEM1bmhMbWFVaDFEMGZoTk9qcU0tWlk0?oc=5",
+      "date": "2026-10-05",
+      "source": "ダイヤモンド・オンライン",
       "domains": [
         "semicon",
         "supplychain"
@@ -59,49 +90,10 @@
       ]
     },
     {
-      "title": "｢石油化学事業は独立した形が最適｣､半導体材料への集中急ぐレゾナックCFOが語るクラサス｢Pスピンオフ｣の狙い",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91emZFdFV0NzNTR0UzVkNwWGhka2tkMmtUQVFqelJlOFFTU3VBS01lOVZJbGtuVWFDcnpSVFNtaGY5U1dwWkhweEVGZGdaM2pUOWtfbGVZWFhmUXdQdnFF?oc=5",
-      "date": "2026-10-04",
-      "source": "toyokeizai.net",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "半導体やAI関連株に資金が集中しやすい需給状況／オープニングコメント",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpckxaRUZBY184eXlTY05JMTlWbkVweXNaemxseVAxUjVCQUVkdnVjMmE5VlM3dUZSVlFOQW8xZFJDTW5tMlZuVlJLQTNsY3pjLUREejNyd01MVjZMZFdHLQ?oc=5",
-      "date": "2026-10-04",
-      "source": "株探",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "燃料電池システム用水素バルブ市場の概要：2026年から2033年までの特定地域における予",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92bTJEYWswR0F6aXA5VGlNT3ByOWNWbno0R1VvT05fdjNhN2o3MmtKaTdsUjZITGpWT2xjM2tVT0VYZ0Q3MWtmbUZ3?oc=5",
-      "date": "2026-10-04",
-      "source": "pando.life",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "グリーンアンモニア日本企業と海外勢の比較",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UQ3RJdF9yclNmYWI3a3Vqcm02Q0pCbThpNWx2ME11QjZ4ZHdGVUZkU0pNZlBydHJQX21CRVlsZ2p2UUJJZ25CSnln?oc=5",
-      "date": "2026-10-04",
-      "source": "pando.life",
+      "title": "リン酸水素塩の世界市場（2026年～2032年）、市場規模（無水形態、水和形態）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HaEs4bG1hTUpOSE0zV1NrZVFZSlNNdHgyU1FpYjR1WHhvYzBYNkZ4Mm9sRTFmTDE4TU5XWnlJTGE5SVFrWHM3UlRNaUIwR1U?oc=5",
+      "date": "2026-10-05",
+      "source": "Newscast.jp",
       "domains": [
         "energy-gx"
       ],
@@ -110,46 +102,9 @@
       ]
     },
     {
-      "title": "水素航空機市場トップ10企業",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZX1VmZHhNMW44dXU0eHJhalA1OFdLaTBYVHhpd29kNzg5dlZCNDhuaXNPNVdubU13RU83WnowdmZiMGN5c2MtcHh3?oc=5",
-      "date": "2026-10-04",
-      "source": "pando.life",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "高純度電子グレードフッ化水素酸メーカーランキング",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5GVTVqQjNFMVJmdEkxbFFRX09MaEpBMHFzN3lfMjkwMkVNZEhzOU42T3hqcFRJYmpBVnpkZFhBM01pYXFuREZuVHp3?oc=5",
-      "date": "2026-10-04",
-      "source": "pando.life",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "AWSの革命的ネットワークはぐちゃぐちゃ、データセンターの電力不足に一手",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXJuVlg2MFNKVzdSVTc2Q2NMUk9IdndjUjZrenZVbmdHRkJoNmhCZmRpRVJJVGZVVlR1WnV1NnJDUkFiNjBmWkNMSkdkMGZDaEZ0NUpEeTN6a3BlY2NFNy1MYnNNcHVISEtqRUIxUEltakUyZkNsVnZVYk10MjlwRUdPNlJERTZ0VHk4V3ZGdmk?oc=5",
-      "date": "2026-10-04",
-      "source": "日経クロステック（xTECH）",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "化粧品用水素化レシチンの世界市場（2026年～2032年）、市場規模（純度98%、純度99%）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HTE5ieHN0bEs1QVUyNXl1aS1lbm4tVWdRSEc4bkRRRVZLcnJiQVNOTnhacVl3a0l5d2Q0LXhtRjZENVVTUUpYVlNEaFl0dnc?oc=5",
-      "date": "2026-10-03",
+      "title": "工業用ホウ水素化ナトリウムの世界市場（2026年～2032年）、市場規模（粉末タイプ、顆粒タイプ、ペレットタイプ、その他）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjdDRxaGlPOUhoaWNPclQwRmh2X3MtQ24xUHFPMElrT2JzVXNYT0s0OEhrYnhkSHhXTU9mQmNGa0lMaTZRVVd5b29JcC1oNms?oc=5",
+      "date": "2026-10-05",
       "source": "アットプレス",
       "domains": [
         "energy-gx"
@@ -159,15 +114,94 @@
       ]
     },
     {
-      "title": "グリーン水素：潜在的な可能性をプロジェクトへと転換するために、「ボトルネック」を迅速に解消します。",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmF4Q2lsM3FTenp1dlQ0WmYzOS11ZU1yeXRxSEFjaHVjRHdESi1uRnprWUQwYXZNY05GXzVUWkhXM2Jsb1JaSEg2Tzh0LUVybXIxWXBMRHdjem5SeVRXTzlwNzhhV0VXa1pGeHktcEZUWFMxNE9IUDBiNGlZRWgydkRSMHZUa1VCcm40LWFRSkRXMkdoZ2VF?oc=5",
-      "date": "2026-10-03",
-      "source": "Vietnam.vn",
+      "title": "高純度電子グレードフッ化水素酸メーカーランキング",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55WkQ3a0Ruc3g1WTVZb3RLN2pPQmExM2tRRTdKSGZaQVh5RmVhWUxaUUVwWE93YXU5OEU3VzVycVZqdi0waEJlTU5n?oc=5",
+      "date": "2026-10-05",
+      "source": "pando.life",
       "domains": [
         "energy-gx"
       ],
       "terms": [
         "hydrogen"
+      ]
+    },
+    {
+      "title": "水素航空機市場の主要10社まとめ",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByX0xpbE5sdFQ1MEdNenNrVEhGVDQwcWFaXzAtMlozVjcxZUdvZlVJRlBJNkx0Mk1WUmc3MktJSmp0OS1uM2d2MUl3?oc=5",
+      "date": "2026-10-05",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "高圧液体水素ポンプ市場の動向分析、2026年から2033年にかけて年平均成長率（CAGR",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqUlFOTXprZjU3SHJFeXA0ZTJ3dkt5cU9fWnBLSXdkcEwzWkZWLWkwTFZMR2tKTkFuc0pkX1ZCcThlY0JSMHBXSWl3?oc=5",
+      "date": "2026-10-05",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素コンプレッサーメーカー上位企業2026",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1nNmlPV0tFU09jWkQ0X0diOGxVZm9TLUVxc0dCUVhiTzFOWEM3MFZMaC1TSXhNeHlYZlFnUVRqNFZfb2Frc0ZKZzNR?oc=5",
+      "date": "2026-10-05",
+      "source": "pando.life",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "FIP移行風力でバーチャルPPA、年60GWhの環境価値をトヨタ系3社へ",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhTm1zUW5GMkwwSnVBSTNUSDRFWVlvNDBjU09fd21KQmM0X1NzdG0tRS1QWFhqMThHUUNSOHlKOEdrY015T0xJd0RRRzdGT3pBZVYydVBMQUFnLWtVdkNKdFZldW4wUWd1MXdCWkFkMnRYV0xnY1k5NzBIQVQ?oc=5",
+      "date": "2026-10-05",
+      "source": "kankyo-business.jp",
+      "domains": [
+        "power-market",
+        "energy-gx"
+      ],
+      "terms": [
+        "ppa",
+        "fit-fip"
+      ]
+    },
+    {
+      "title": "ＦＵＪＩ、次世代CPOスイッチの実装に業界で初めて成功",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BRkNaNTE2S2I4S1ZiSU9LZ0lzem5YRHNYQnlwallIeENXRkZ1ZjVfeUF5X3lzX3JYU05tYUpodXlPbkNJRVl4V2FRdnpIVEFNUFc0?oc=5",
+      "date": "2026-10-05",
+      "source": "ニュースメディアVOIX",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
+      ]
+    },
+    {
+      "title": "AWSの革命的ネットワークはぐちゃぐちゃ、データセンターの電力不足に一手",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRjkwSEhsOXl0WndnR2tCYjVSVVlfdzZtMmFVeWtSZkN2NDBEakE1TDJEOTZ3cWVNM2hIS3c0TVJJT2lPM2Z0clp6MkdvWVFRa0NiRU03cGRrZ1p3Yi1ibS1xOUxaTHlYNlQxbA?oc=5",
+      "date": "2026-10-04",
+      "source": "日経クロステック（xTECH）",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -247,19 +281,6 @@
       ]
     },
     {
-      "title": "データセンターUPSおよびインバーター市場、2035年に232億米ドルへ拡大｜CAGR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52bXdJRXE1eEJuQk1WQXowU0JWY2dZQ1BLekRPRnJ6dUlOd09ueTh0a0ZpRV92dEZjZmotR2FJQVhBTEpNd2dJb3dLOHd1dUhXcXlSUW1QaTdoejNCdTdNdTZEeWlyd056WERIX2hCdEJBV2pHWTlzbl81dw?oc=5",
-      "date": "2026-10-02",
-      "source": "ニコニコニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
       "title": "モータ駆動回路を30％超小型化、STがエアコン・ヒートポンプ向け600Vパワーモジュールを量産 | TECH+（テックプラス）",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybWtOQXJDYU5ic0dCQjVqWHRlMGhMUktrOTZDR2xZc1dNQk1IcUpwV2xUMFd6WGdFenFHdHVSVWx3UVlxNVprR3dBN0tmTzAxaUdyZG5md09adlY3NEV4VHdvclFDeldP?oc=5",
       "date": "2026-10-02",
@@ -276,7 +297,7 @@
       "title": "NTTデータら、化学物質規制対応の負担を軽減する新サービス提供開始：サプライチェーン改革",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTFJWX1I2UC1FWDBYUGJNQkp3TEl6V2RzTUhSekpFSmxhSDA2b082WkxzeURGN3pHYnpMdWh5VHR6dU13TXVscTBTeEdaMXFNemxfM1cxclk2TjdsV3FzZWtPYS1XSTJtNVprNVNnbw?oc=5",
       "date": "2026-10-01",
-      "source": "monoist.itmedia.co.jp",
+      "source": "MONOist",
       "domains": [
         "env-chem",
         "supplychain"
@@ -298,19 +319,6 @@
         "voc",
         "sds-ghs",
         "prtr"
-      ]
-    },
-    {
-      "title": "Spectee、化学・素材産業のサプライチェーンリスク対策セミナーを10/9に開催。災害・地政学・規制リスクに企業はどう備えるか",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NeUZMc01JVU8xbjhjMV80eGtsTmp3QUowTUxKUG9DblNGUGdFQTNkVnI2U1k4LTc2bEtBTEhIanRIeVRBLV8yZHFPcWVtQXlqbklQLXN2bnFsM3lHVEN3cWtaRHkyOFQ5MmhmZ0o1cDk4QkhzdFpZVVluVQ?oc=5",
-      "date": "2026-10-01",
-      "source": "ニコニコニュース",
-      "domains": [
-        "env-chem",
-        "supplychain"
-      ],
-      "terms": [
-        "supply-risk"
       ]
     },
     {
@@ -357,9 +365,22 @@
       "title": "欧州委、食品接触包装のPFAS規則の適合性確認に関する作業文書を公開（EU）",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1bEFrRzdial95YXZ1Y0d3LWhmTnc1QVlZYUVZTnJIZUxiVUVDOEtXdU81NFduMzJuOXdOYTFZZ1UxcGcxQnNPMXFQbHdUUTB0d05QOW5HU0F0bDcyaGRYaWw4c1R1VzBNdW5v?oc=5",
       "date": "2026-09-30",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "domains": [
         "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "電池材料やPFAS対応など19アイテム、第一工業製薬が展示へ…サステナブルマテリアル展2026",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43T19yNE5ENE1UdENKVUNYZ3c2WU5RYno5RFhHbzJEbjNuV0dMTmZUNDJjd3RGZlExX3RWTEl5d1EwLXNuMUpLQVdsakkxUW0yUHVrclZtQ0wydWZqQjEw?oc=5",
+      "date": "2026-09-29",
+      "source": "レスポンス（Response.jp）",
+      "domains": [
+        "env-chem",
+        "battery-mobility"
       ],
       "terms": [
         "pfas"
@@ -376,6 +397,23 @@
       "terms": [
         "econ-security",
         "supply-risk"
+      ]
+    },
+    {
+      "title": "産業プロセス電化市場、2035年に740億米ドルへ――製造業の脱炭素化を支える電化技術が本格拡大",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mOGFrNC1vaVZhMkdrZXFGY0YzS1pmRkhqVURvbXFOZjZKUDEyNjhocWNPa0ozcUpzSGtKYTlUbmJPWDdhQ0JvT2dLSGdnRmc?oc=5",
+      "date": "2026-09-29",
+      "source": "Newscast.jp",
+      "domains": [
+        "thermal-utility",
+        "construction-city",
+        "energy-gx"
+      ],
+      "terms": [
+        "heatpump-cop",
+        "zeb",
+        "heat-recovery",
+        "boiler-steam"
       ]
     },
     {
