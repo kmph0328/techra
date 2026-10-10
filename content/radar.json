@@ -1,15 +1,15 @@
 {
-  "collectedAt": "2026-10-09T01:00:12.089Z",
+  "collectedAt": "2026-10-10T00:29:26.895Z",
   "freshDays": 10,
   "candidateMentions": {
     "ガラス基板（半導体パッケージ）": 1
   },
   "items": [
     {
-      "title": "中国・蘇州およびシンガポールでの先端半導体向け封止材の生産能力増強について",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83N0F0eVFLOU9wVXJpU1AtZUdTdGRpOWliOVcySHc4amZlQzVYeXA3Z3hWTW5JdmYxYkgtN2NVUS00Q0c3TkdNeG9vX09oRENrUDBobE10bkx4WXZWRnpnbk41azVvX2xhRFE?oc=5",
-      "date": "2026-10-09",
-      "source": "PR TIMES",
+      "title": "AIがけん引、半導体市場が1兆ドル突破 先端実装／通信にも波：5分で分かる！ 今週のエレクトロニクス業界（1/2 ページ）",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHSEY1cW1FcnFTd1ItOGJGQllxdkNPT2w1cnpwTDV6Q3hiUnAteXNGSm9uMGpMNE1XT05HZVMyNEh0UWlFVk1vaThBUU5HaTRvTlpackFXa29QVHI3TmxJUF9ySHNoeG9YRjZkLWwtVQ?oc=5",
+      "date": "2026-10-10",
+      "source": "EE Times Japan",
       "domains": [
         "semicon",
         "supplychain"
@@ -19,10 +19,10 @@
       ]
     },
     {
-      "title": "半導体ウェットケミカル市場規模は2035年までに83億8,000万米ドルに達する見込み",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tY21KeldFUldpbWIwQjNoMlRjZEIzdHZJUkZFTEZtZ3FkT1NSVzR5ZExlY3AwbHFvVEtXMlctazNsbFBHenlpSlc1LWU5b28zYVdn?oc=5",
+      "title": "「テラファブ」32年の量産化計画 マスク氏の半導体製造構想（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdjBmLUhtT3JaWlNmclFvbnR5MGdMRWVFQ1RsRk9neFNYdFZHeVZCTE5IOXR2bzdFY0xhRXpiejRFdjVucE5RR3FBejlkSUxhdHA5ZkVwYk5UVHdQOEM3Y1BFUEJCUFFkNm5PMXVNdnc0WDFNYTZaYWxMeGlsUHM?oc=5",
       "date": "2026-10-09",
-      "source": "ドリームニュース",
+      "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -32,10 +32,10 @@
       ]
     },
     {
-      "title": "住友ベークライト、中国とシンガポールで半導体封止材を増産",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEdS0tQkR1UjZGZ05QU1J1ZHNDamZlZmxjSlhfN3VoSGFJNnRiUDZpaWdzUjNIcEY2TC1JaHZkc0l5U2tubGF4QnNDZUp5bzB6bExV?oc=5",
+      "title": "サムスン半導体部門、年俸940万円の社員で賞与8400万円",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzV3I0M0hsa3g1b2pSRGZHS1ctcS14bVhfcDJXLUtBS1Q0UmREbzZqdmIwTm1TdThNc1ZJczIxNUNGRzlRWWRNbnQ3NHlWa0VyZ0xjYWJSY0F5WVhUR1hFYUdnTTIzQ2lkTHgwVQ?oc=5",
       "date": "2026-10-09",
-      "source": "ニュースメディアVOIX",
+      "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -45,10 +45,10 @@
       ]
     },
     {
-      "title": "日本半導体シリコンウェハ市場：AIチップ需要と300mmウェハの成長が新たな半導体供給機会を創出",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZ2lETktpZ3pGMnpfR1lHcGI2U1FEOWdVVS1HallmUFJ4akxaZjBmTmtyLVlhQml5RWY5Zk9vTGc3RmdmYlRpTnVzMkh0VmVsbEdN?oc=5",
+      "title": "AI半導体向け先端実装技術をテーマに「IMAPS 2026」が開催(日本、米国) | ビジネス短信",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pSFRyV0kzSjFmWjJEZEpiTGlqRmNYdEhPQWR2cGJoWFFSR0JNSzJyVGltN1dqTC1UeEJOZE9ob3dzZFNrRGJHRURERlk4UnJYT04zdDdWTlZ1TnpVaTQ4RVVaSVNpV3YtOVdJenJn?oc=5",
       "date": "2026-10-09",
-      "source": "ドリームニュース",
+      "source": "ジェトロ（日本貿易振興機構）",
       "domains": [
         "semicon",
         "supplychain"
@@ -58,29 +58,55 @@
       ]
     },
     {
-      "title": "【日本市況】日経平均下落、OpenAI懸念で半導体に売り－長期金利低下",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HN3RtckZ5WGRoYzhBUVdNUU5GTzVzYTNSOHhTUlFadjNmWWxBVXRla2tvbHdIZnM2aXhvTjMzSHJsdzhkeEFyNHFlbVVObG1IZldvdjhOelQxalVFOFZMTE1YelpiWTdwUEd3eXJlcnNvOVRWUWJF?oc=5",
+      "title": "半導体供給網の分散加速、35％がアジアで拠点拡大",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aZlFNSGxmclRqX1U0OGJVUHB6RUV2V1ZZODROSFd5ZjhaTG10U3paT2hDam9GbzBabWhiNGlrWXdXcG5QT1MyU0tR?oc=5",
       "date": "2026-10-09",
-      "source": "Bloomberg.com",
+      "source": "LOGISTICS TODAY",
       "domains": [
         "semicon",
         "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "supply-risk"
+      ]
+    },
+    {
+      "title": "GX 半導体関連-日本株式【2644】：株価・株式情報（夜間PTS含む）",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QdDNtZ2U2X3c4VW9lMVBvRlg2UkljLWl6UER4cWVGYTU5S1piOWhTNEVwakp6bHlLZlZQQjhkZjEyUHNPQjVLX3dWNUtfdmhQTUE?oc=5",
+      "date": "2026-10-09",
+      "source": "Yahoo!ファイナンス",
+      "domains": [
+        "semicon",
+        "supplychain",
+        "energy-gx"
       ],
       "terms": [
         "semi-process"
       ]
     },
     {
-      "title": "半導体株主導のナスダック下落後、先物は堅調",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnJxZi10VzlieGlSOGxGOFdMTUxsTGszVE90cVBBLW1GVE9JcU5yTG8wa0txSWc4bFNCQnhYTlc3V3FIOVZORTZWUTZkOFFOWkl6WjQ2S2pLNVNaMWdaS2UzMUF6UUVlcVVoZEFoNjFDUGdqX0FBZTRveFZHTlpZNzdvcUZrazBXX0RFSmk4YmNTdTUwb2c5VHZHQWdwd0Fp?oc=5",
+      "title": "PFAS測定の最新技術紹介セミナー（10/13）",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zSUotSHhYVm42S3VwNlBwdzBzWjREeDZjTDJDWVFtSTFsck5FdE9qT0Rla2c5LWlETGg5SlFmajdOQlJzZUMyd19LcGxoSUNMVFFaMjlwNjNXOEdHall6WmRfVGs0RkFlUE8tV1dqZmZ6NFRuX1VkakVGbDdYUQ?oc=5",
       "date": "2026-10-09",
-      "source": "Moomoo",
+      "source": "環境新聞オンライン",
       "domains": [
-        "semicon",
-        "supplychain"
+        "env-chem"
       ],
       "terms": [
-        "semi-process"
+        "pfas"
+      ]
+    },
+    {
+      "title": "中小企業水素関連産業参入支援事業「NAGOYA H2 Biz」第2回水素技術ワークショップの参加者を募集します！",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92VlFtU1JFZ3VUQnM3QWVjanZSZnZhSkxRdkdIalZqRUhwXzBNdzNBQk9JdVJnMHNvVlpnU2F3WVhoXzRMMXFkVmd6WlVPYXNZUnJtLTkzS2IxQVp4VE8wbm9nLWdmMlpfSGM5RDZpSQ?oc=5",
+      "date": "2026-10-09",
+      "source": "名古屋市公式ウェブサイト",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
       ]
     },
     {
@@ -99,6 +125,18 @@
       ]
     },
     {
+      "title": "トヨタ、「部品会社」として水素エネルギー普及に本腰…欧州トラックメーカーとの協業加速",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yQzREaE4yUXI2UHJJbnNfOUhJN0IwZ3BueWY5Mkh4VzVSeThqMXBQRDBTeGJISi1iVklHOWpTek4yM0x5ZHU1NkFWOGxlblpXU3BpY05HeTh4LWgxTHhTV014NFc?oc=5",
+      "date": "2026-10-08",
+      "source": "読売新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
       "title": "極低温水素バルブの世界市場（2026年～2032年）、市場規模（0～30MPa、30～60MPa、60MPa以上）・分析レポートを発表",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Lc19qN1EtV0V6X0hZUmNZbENEMVlFUU9JenJsZzBPdmZxaVV4TkhCdXVYaldjRDlXU0hSYUpmcjZMS0t5N0pjeFFYcDdQbVE?oc=5",
       "date": "2026-10-08",
@@ -111,14 +149,16 @@
       ]
     },
     {
-      "title": "中国華電が吉林に投資、80万kW風力・水素・アンモニア事業",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TdE4xSW9fMngxVHRmSGVMbDdaajFVbVk3THVjV1VsZmZWRlpteS1aQjRQRGZYbTBJSUEzcmZCU1NzRVBxUklzMzlWeG5sbVBQNmctc3g1LXo3VlJLVUFlQmVhVHFtellW?oc=5",
+      "title": "「半導体用高純度アンモニアの世界市場」調査資料（国内市場規模も記載）を発行、年平均7.8%で成長する見込み",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15cVpDUDdEcl8wLXk3bTl6V0NyNHY4QlpkeGFIMGZKeEZRVHo0aXlEcF9jYjF1bjZGTU1wb0plN2kxbjNiX21WZHNWeUZ5UldlWmNR?oc=5",
       "date": "2026-10-08",
-      "source": "亜州ビジネス中国",
+      "source": "ドリームニュース",
       "domains": [
-        "energy-gx"
+        "energy-gx",
+        "semicon"
       ],
       "terms": [
+        "semi-process",
         "hydrogen"
       ]
     },
@@ -174,27 +214,19 @@
       ]
     },
     {
-      "title": "群馬県の水素等利活用の取組",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqZk42RHk5UE4zcktmNmZiRTB5UDRiX2Izbi1kMUc0ODFuWUJ3N2FRWnFtMVRRRzdQbWd0NmtodXl4ZmU0bnZiNkFrcWdqYl9NdGZqdA?oc=5",
-      "date": "2026-10-07",
-      "source": "群馬県",
+      "title": "CPOを大量に作り、冷却し、検査し、故障時に直し、顧客システムへ組み込める企業が勝つ：光電融合/CPO重要ニュース：海外/日本 10月3日までの2週間",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EZU9CV0JfVXZMcEkyaVIta01xNVVhNTZ6WGFENWFRLWNkTWZvaDNkYVpPY0ZJdTdMMmhJTHdBY2pQd1FuMWRIekZWXzlvTEpoZkJaN1o4d1g3VWtIQWZxejlOWQ?oc=5",
+      "date": "2026-10-08",
+      "source": "さっつーのAIエージェント",
       "domains": [
-        "energy-gx"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "自動車用水素センサーの世界市場（2026年～2032年）、市場規模（電気化学式、触媒燃焼式、その他）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kRXBxd3NDSTlzWWgxc1laY1F0U095LVJkaXRLVFhFZ2t0TjJqMTYwSDVXRkFsSk4xcVpRejQyeXRKZnZyelBNeGlfZWlYQW8?oc=5",
-      "date": "2026-10-07",
-      "source": "アットプレス",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
       ]
     },
     {
@@ -233,20 +265,6 @@
       ],
       "terms": [
         "datacenter"
-      ]
-    },
-    {
-      "title": "みずほ証券、「直接液冷」サーバー導入--液冷データセンターも構築",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnLWc1LVlMd24yeVNSelBwSlFxbm8ySEFBamZNWEdSXzdpem9aS2Q4aEdnZWNuNVQwZGR4NWU4cWp1cmlib3lTOUhMUEpZN09uVE5z?oc=5",
-      "date": "2026-10-07",
-      "source": "ZDNET Japan",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "liquid-cooling"
       ]
     },
     {
@@ -396,18 +414,6 @@
       ],
       "terms": [
         "heatpump-cop"
-      ]
-    },
-    {
-      "title": "欧州委、食品接触包装のPFAS規則の適合性確認に関する作業文書を公開（EU）",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1bEFrRzdial95YXZ1Y0d3LWhmTnc1QVlZYUVZTnJIZUxiVUVDOEtXdU81NFduMzJuOXdOYTFZZ1UxcGcxQnNPMXFQbHdUUTB0d05QOW5HU0F0bDcyaGRYaWw4c1R1VzBNdW5v?oc=5",
-      "date": "2026-09-30",
-      "source": "Infoseek",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
       ]
     }
   ]
