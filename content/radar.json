@@ -1,15 +1,15 @@
 {
-  "collectedAt": "2026-10-11T00:05:46.714Z",
+  "collectedAt": "2026-10-12T00:14:17.182Z",
   "freshDays": 10,
   "candidateMentions": {
     "ガラス基板（半導体パッケージ）": 1
   },
   "items": [
     {
-      "title": "熊本：ＴＳＭＣ 地域に明暗 進出表明５年 人口や財政プラス 家賃上昇で廃業も ：地域ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ET1VTcWZOejVEWlJpOWx5dDRzdVhXbWQ5X1FsMnEyN09hSDBQUm9HM29GNm44SXMyT3RKY200VUptNXRQUU95OVRERVNjOFBUU1RBQ0xWRGZ3cXA1S0V1TDFXd0xSSGRYTHZFUFVsT29UN1Nx?oc=5",
-      "date": "2026-10-10",
-      "source": "読売新聞",
+      "title": "ＴＳＭＣ進出で地域に明暗、周辺自治体は人口増えて財政力アップしたが…渋滞深刻化や家賃上昇で廃業も",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QelBQeGhsMFo0YkVFZGZOYW1LeUhzdk5pX05KWFlXRFV5MVh2dWMyS2x6LWpCcUxwd2lyamgwUkMyOGhJbHBVMERXN3NpMzBzRHRPd1p2U1FEbUN5M2dmamh2Y0ZRM1djRWljQXdaa0RJSUVQWVhob040NkYtT0U?oc=5",
+      "date": "2026-10-11",
+      "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "title": "[FT]半導体産業に賭けるシンガポール",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcDF4VlFQVnRfS0FTV295a254UHUxdnE1bWFXQkc5QmpuSWt5SHVidGJiR0Fua29xTk1VU0JfbVJ6RkdyMjJjZXRiOHA3OGpXTU81MkQxRzhiQzJYd0NoNnVoa05EU1J1MmYxUA?oc=5",
-      "date": "2026-10-10",
+      "title": "堀場製作所の小石専務執行役員、インド半導体「インフラ整備を注視」",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hckJralk1TUZielhQX08zZEw3MkIwNXpyT1RTU1ZQXzR1X2Z4RWRMenRVOUtDLVVhT1RMd1dtVFY4LUsySjRVRUZuSE5hYTdRbm9WSWJTZWNsU1RWSzlrNkl1alNfTVlndjBfUA?oc=5",
+      "date": "2026-10-11",
       "source": "日本経済新聞",
       "domains": [
         "semicon",
@@ -36,23 +36,24 @@
       ]
     },
     {
-      "title": "〈総額5兆円規模〉台湾の半導体後工程に巨額設備投資額｢パッケージングとテストは補助的役割ではない｣",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tRl9wbUc0aXQxQ3NHVUdaRW9TVEZTQ0pHZ0VUdUtUeTkweTJIb0hmWWx0b3FmMlhlWHBEdTRzeDFqM2s2R0t3YTFqOGw5Qmgwa3ViUndxSEtJRk13Tktj?oc=5",
-      "date": "2026-10-10",
+      "title": "半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷…",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfWWhQQTBxY0tTVWx4YjhnSXVpOUZPRy1USUotT3JSV2Z6bHBTTUxfS2hrbzBzSEoxS3o0YWhnS2pMOEVZZ2FYanZxdWJra2U1Tm1oMXRsWDVGZkJtSFFj?oc=5",
+      "date": "2026-10-11",
       "source": "東洋経済オンライン",
       "domains": [
         "semicon",
-        "supplychain"
+        "supplychain",
+        "datacenter-ai"
       ],
       "terms": [
         "semi-process"
       ]
     },
     {
-      "title": "半導体低膨張材料の熱特性を高精度測定、日立ハイテクが新分析装置",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OcDlFaGZ4QWl1cjY3RU9GZlFIdFdJeC1CeWc3dlAtVjlVTVFsajM3Y0JnQjNpUmRDdWktTWNjdFVrZw?oc=5",
-      "date": "2026-10-10",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "title": "クラウド大手が買い占める半導体 値上げ負担を押し付けられる端末メーカー：『ビジネス2.0』の視点",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SeTZYRThnSDZzUFNkWk9hclJtXzBwd1BWcVJLelBFR3JZNWczZVkwSkNLNUZhZVZ1a0N0ak9pQVY2SzNTQm9LZHdUVVNHc1k3M1lwWTdVUmNhWWxDNURYbEd3MDNKWm5NM1U4?oc=5",
+      "date": "2026-10-11",
+      "source": "オルタナティブ・ブログ",
       "domains": [
         "semicon",
         "supplychain"
@@ -62,30 +63,41 @@
       ]
     },
     {
-      "title": "【日本株週間見通し】今週はTSMCなどの半導体決算 米CPIなどにも関心向かう",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XenBzT0gybGJ6Z0VKUV96akxyRXV4VlVoSG4xVDNrQS1HdThLS3lhdExzYlRPZ1ZjbERwRHlhblFnUWxrMF9J?oc=5",
-      "date": "2026-10-10",
-      "source": "マネーポストWEB",
+      "title": "【半導体人材の未来】〈50〉スーツで半導体を作る 「動く工場」が学びを変える",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVm1aUlE3MDVvLWo3ZnRuOW9BdnN0NUZRTVJlUGNfNEJEc0lHa3J4cEtvSTJMczFqODBOVENVNnFCTHplTDd5Mm9iZ3N5SlpGNWc?oc=5",
+      "date": "2026-10-11",
+      "source": "電波新聞デジタル",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
+        "semi-process"
+      ]
+    },
+    {
+      "title": "TSMC進出 高給目当て人材流出も",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LWJTUXZkWlB4NzRONjMzT1A1U2toMTdBQjljLTVOTVJKU0pGZWZLc2NNZnhqYW5jU3dTaDd5a1pvVFB6RjZGM1NaVkJYZU4x?oc=5",
+      "date": "2026-10-11",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
         "foundry-model"
       ]
     },
     {
-      "title": "《追い風をつかめ 半導体と東毛企業》（下）供給 多様な部品、製造へ連携 高い技術力に可能性",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkRk1GcFdMY0k1cDlXZUw3TjA3YW9EUmFpM0YwVXBralZxLWtteDIzR054NzdrMVVvM2t1elJ2TXZkVHlpVDZmTUs5Q2FvelBKWUNHeTZ5ZTVSZw?oc=5",
-      "date": "2026-10-10",
-      "source": "上毛新聞電子版",
+      "title": "工業用無水フッ化水素の世界市場（2026年～2032年）、市場規模（フッ化水素含有量：>99.92%、フッ化水素含有量：",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ERFB3YnVqUkdWZWkwU2dEM1NFMTllX1VIbmJ2NnVJTVRQY2RFNGVRV3VjT0NCMlJ0eGJhVVlhTVVHU0tCcllJbHY1Vmx2MUE?oc=5",
+      "date": "2026-10-11",
+      "source": "アットプレス",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
@@ -125,6 +137,48 @@
       ],
       "terms": [
         "hydrogen"
+      ]
+    },
+    {
+      "title": "バーンスタイン：AIデータセンターのGW当たり投資額は最大395億ドル、最大の負担は減価償却費",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vR0ZXWWdrVi1nanc5Q3pYOWVnWENKX1dRMDhtX2dwQ2VSMnNzaDZKUGZoS25JNXVrWkpqTTc4LTVqbjVDeEt3eVA1NXZVZ29aY09PZU9wam1fX3lEend4bC10dXlhZ0tRaTE3ZHAzQnA0RE9H?oc=5",
+      "date": "2026-10-10",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "パット・ゲルシンガー氏：HBMは「極めて劣悪なメモリ」、AIハードウェアはルネサンス期に 電力不足でデータセンターのデフォルト急増の恐れ",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83NGdFVzF4SUJjSnlYbmZEUlFOekc3TkU0MzBtcktTSTNJZzA5WHYwSTBVOFI1Y3Y1eG1aZFBmdmVGS1JBRDI1TGJRV3JnRVI0Zm1qOWdScmRKaUk2eXBILWZtcVQ1YmJFZ1ZyOWl0Mzk5V0hD?oc=5",
+      "date": "2026-10-10",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "hbm",
+        "datacenter"
+      ]
+    },
+    {
+      "title": "化学物質規制は企業に何を求めるか｜化審法・化管法・安衛法の見分け方 – SDGs特化メディア-持続可能な未来のために",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RWjZrRkV0MlY5amJKWHlFMFJ2RG42cjI4cWZsRjdySHJNZnQxaHpDOHdPWlAyVVZ3a2hCWWhtalFOZ2tta1NueVlkb04?oc=5",
+      "date": "2026-10-09",
+      "source": "MIRASUS（ミラサス）",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
@@ -191,20 +245,6 @@
       ]
     },
     {
-      "title": "「半導体用高純度アンモニアの世界市場」調査資料（国内市場規模も記載）を発行、年平均7.8%で成長する見込み",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15cVpDUDdEcl8wLXk3bTl6V0NyNHY4QlpkeGFIMGZKeEZRVHo0aXlEcF9jYjF1bjZGTU1wb0plN2kxbjNiX21WZHNWeUZ5UldlWmNR?oc=5",
-      "date": "2026-10-08",
-      "source": "ドリームニュース",
-      "domains": [
-        "energy-gx",
-        "semicon"
-      ],
-      "terms": [
-        "semi-process",
-        "hydrogen"
-      ]
-    },
-    {
       "title": "｢光電融合｣関連銘柄を解説！ 電気信号を光信号に置き換えることで、データセンターなどの消費電力を大幅削減できる｢光電融合｣は政府も注力する国策テーマ！",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01dUhhMnkybWQzcUJuSUFTRlBCQ250VnlHejJaZFlXc04tSjVOakx3dlU2QktTYTRuUWd3WTNUN2VqLVh0U1JJTmdwNENhWGV4dWpz?oc=5",
       "date": "2026-10-08",
@@ -248,32 +288,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Nak5wQW5pdHRGLTFkU243TzlVWlcxalR0UHRGTG9COGtmdHF4VmEydFduMGtsMXJET1ZKMnZFT3gtc005S2dybEgzRkJPbzVMZF9J?oc=5",
       "date": "2026-10-07",
       "source": "クーリエ・ジャポン",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "反発から追い風へ：データセンターをよりスマートでクリーンに",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWxXOGNWS1VyN0VPYXpadkxhWm1aVFdvNXRrMDZVZ2dWd0d1QVljU2t6aFowWmJDdDVMVzhYSEZKaEU1d0NJMkJVMHZBRjhJWmRqN2R5dnVGVHBVN2RtV2puTlBhdldOTVViYS1uQ2JRdjF4UV85NmZmbEM5Rk9UTV9mWUM5VDlEX2cwLWE5eHJlTXR6X2E5TkN2UFF4MU93S3hoM2JQYTBOU2pCd1VDUG1oYUxSc3hkSDZGVHB3?oc=5",
-      "date": "2026-10-07",
-      "source": "ピクテ・ジャパン",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "費用負担のルール必要 電力中央研究所・丸山真弘理事待遇 データセンター専門家の視点（４）",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9acEJGWEgtSWZKQTJ0aVNYc3VoQXZzbkZJUG1wV0NRUlhwSXNRU1dxeFNYRUdtQ3ZMQzFrTndxekVRbElLNnJhbHA1ZzJaTVNwakItRFpoZkxUM05MM19GNHFR?oc=5",
-      "date": "2026-10-07",
-      "source": "秋田魁新報電子版",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -333,31 +347,6 @@
         "thermal-utility",
         "construction-city",
         "battery-mobility"
-      ],
-      "terms": [
-        "heatpump-cop"
-      ]
-    },
-    {
-      "title": "11月27日(金) AndTech「PFAS規制関連の最新動向と対応する代替材料の動向 ～フッ素フリー材料開発の現状および考え方と方向性～」WEBオンラインZoomセミナーを開催予定",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BZGZxWFNPX1R2SjNIS2NjZWhndFAyNE13MDdZand2WFRwUlNlU0RtZHpLZmdkN2VLUHBOX194UDdpdGdtNWplaGNSX3VVaHBIU3VvWndTeUpKV3NaZVZKaDFIdmpEaGsxbWc?oc=5",
-      "date": "2026-10-02",
-      "source": "PR TIMES",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
-      "title": "モータ駆動回路を30％超小型化、STがエアコン・ヒートポンプ向け600Vパワーモジュールを量産 | TECH+（テックプラス）",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybWtOQXJDYU5ic0dCQjVqWHRlMGhMUktrOTZDR2xZc1dNQk1IcUpwV2xUMFd6WGdFenFHdHVSVWx3UVlxNVprR3dBN0tmTzAxaUdyZG5md09adlY3NEV4VHdvclFDeldP?oc=5",
-      "date": "2026-10-02",
-      "source": "マイナビニュース",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
       ],
       "terms": [
         "heatpump-cop"
