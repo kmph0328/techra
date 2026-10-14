@@ -1,13 +1,13 @@
 {
-  "collectedAt": "2026-10-14T00:09:17.713Z",
+  "collectedAt": "2026-10-14T23:42:52.073Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "ＦＩＧ－買い気配 半導体工場向けモバイルマニピュレータ開発(トレーダーズ・ウェブ)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFFRZFZjQWtETUhSaWxXM1h6YmdWYUFjZUpjSlhKWmpkRUVhY0JFNkpjWXNJaFE4YlV2ZW9UclVCTlQwTWlubTJ3TUwwVXI4NC1oSlo4U0JtcFZIX2ZiV096dm5IenhucEF6ZEs3M0YzUlItbE91VjhLclRiZG1SYlJMTldER0U?oc=5",
+      "title": "米上場の半導体株 下落止まらず",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oT3BJNXQ2V2JmTkl6SlpFcVRIQkRfNVFYN2M1VnVzc1V6RTA2ZmhDZ2F6RU1qRi1TQVp4WUZzZGVfWTh6RDBpN3h3RzRRRG1D?oc=5",
       "date": "2026-10-14",
-      "source": "Yahoo!ファイナンス",
+      "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,37 +17,9 @@
       ]
     },
     {
-      "title": "ラピダスが半導体設計のエコシステム主導、27年量産へピース埋める",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13UlhDRXVTOE1BU1ZkNER2Qy02ZzZUWEtCWFhRSy0xMUNBYnlNSktibk9BNV9PM3dIc2FVMnZXT2ZTVWg1OTdPcm1GRmQyanZnaGVCMm5sSV9kUWFIblNlNGt4QW1wYzQ?oc=5",
-      "date": "2026-10-13",
-      "source": "日経クロステック",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process",
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "GX 韓国半導体・トップ10【633A】：株価・株式情報（夜間PTS含む）",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SWDhWeFZTSnJ6OGtuMDZkcHphazFuSkV2X2hOWDRYV1VVNDl6RzlwNThtSVF0Wm9Zc2FOcGRTN1Z3UEJLVXRXSEdtclhCZk42Vmc?oc=5",
-      "date": "2026-10-13",
-      "source": "Yahoo!ファイナンス",
-      "domains": [
-        "semicon",
-        "supplychain",
-        "energy-gx"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "米国株式市場＝ナスダック続落、半導体株安続く 銀行決算まちまち",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjJxYXRNNGdDdXk4TjZfdTc2ZGpab3Zidm1lVi01VXJhVGctcnNhQU5LVk9HUTVSaExWUEE1NkRkZmw5aVl2V01YR0o0Q0JpbEVreEUwSG9CUEtHem9zeEVZMGM2QW5jQ2lVUjdnMFFrbXUtc2Yya0hIMHFMNDA0UndnTG1qUQ?oc=5",
-      "date": "2026-10-13",
+      "title": "日本、ＮＹ州半導体2工場建設に210億ドル投資 ＧＦ運営",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82eHdWY25Tb2VHOTJfUTZhX2gxYzNXZXRmN05COGhGSUthaUpZblRjR3U1YTB5NGhjaWNGQzZiN29TWHROeGJ1aTN5TW1UQ1JCUEFDYjlqQ1BHVkpWMTllajF3a3pKYXMxUHhQM21IdGhxYkFzTm1TTTgxX180QQ?oc=5",
+      "date": "2026-10-14",
       "source": "Reuters",
       "domains": [
         "semicon",
@@ -58,10 +30,24 @@
       ]
     },
     {
-      "title": "四日市に半導体研修施設 技術系人材派遣のブレクサテクノロジー 年間最大４８０人を育成",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNYndSMUlSZ0RqeFlUQWkzbzlac0VQTk93cDdVOTVNT2gxcDRTakxEanpReWhGMHNiZzdKR25KMENDWmJKb183U2lsQWI4UFZLeUt4TzFkRE5XTmR2M0hqdkVjY0h0TmNYNFNfblE5S2xMOTg?oc=5",
-      "date": "2026-10-13",
-      "source": "中部経済新聞",
+      "title": "日経平均株価、米半導体株安が重荷 TSMCが決算発表（先読み株式相場）",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wa2FrN0p4bmUyOVNPTEU3S1EtS3FBWHdkWmQ0T2xzT0tmcVV6M1NySjNzZWdFcEZSTWJ0YjBxUlkwWHhyTU10N0VXNzBaa3BWTThtY1IzRC13NGdjQTZnUUpnaEljei1kb0kydA?oc=5",
+      "date": "2026-10-14",
+      "source": "日本経済新聞",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "対米投資第３弾で半導体工場建設 東京エレ装置供給、ルネサスは調達",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05N2plWjhOYnJhd2ZQSkw5RG9oMVlqZVh0a25PM1o4WU5mS3ZCX0VmUGZJUXNhRHBzMHpUVVRFV01hWTNFZ05rUU9TNnRveGFLemdrSUY2dlI4U2E1RmdreEUtOA?oc=5",
+      "date": "2026-10-14",
+      "source": "時事ドットコム",
       "domains": [
         "semicon",
         "supplychain"
@@ -71,16 +57,120 @@
       ]
     },
     {
-      "title": "熊本にTSMC、北海道にラピダス――日本で「工場」が続々と復活している理由｜ブルーカラービリオネア｜坂口孝則",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xQW1aS1FsdW5FUUtWMF92alIxanFQWUItaF8waEpoTGtmV0xWUHRBeEExZk9RUERIOF9HNUV6UjF1TjhwYl90ZE5XMGNHems?oc=5",
-      "date": "2026-10-13",
-      "source": "幻冬舎plus",
+      "title": "株価指数先物【引け後】 明日はTSMC決算に振り回される展開か",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3VmplZ3NjeFBydDB2dEJWWlZHWXJDWG5Yb29JcTJpV1dxbGNkcS01ODVYMXNuM0owRGJaWTM5UVN3dDRqaFJEQVJwSVpKbnJ4MW94d2d3VmdXZkRCOVRoTQ?oc=5",
+      "date": "2026-10-14",
+      "source": "株探",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
         "foundry-model"
+      ]
+    },
+    {
+      "title": "米半導体大手 NYに新工場建設へ 日本が最大3.3兆円投資 東京エレクトロンなど協力",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSk14dXRYX3JqeldLaEZGSXhDakxKcGYyY0xUNnVRUVFibkV6ZHl6MHRqSEdYMnpxS05aRU4zbDc4c0xQVE5yMWJvZU9MdXF1OHZIZk51WURRcjNVQ083MVFiSWw1TmZEWW5UbkY1UnRoMWJzTDltU0ln?oc=5",
+      "date": "2026-10-14",
+      "source": "テレ朝NEWS",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "12月3日(木) AndTech「PFASフリー泡消火薬剤 最新技術 ～ゼロフッ素合成界面活性剤泡消火薬剤「OF1フォーム310」の開発過程とその性能設計～」WEBオンラインZoomセミナーを開催予定",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pN0M5ZnlMZWg4Y1FSZTlpVk1VazNwb0xETFZZQnRPOEdnYm9aS0xjeTlleTlGT3dRMjNBdG95SHJKY2xyUDdvbkJrd3YyWW9pb0JzRXJaT09rMXlJWlE0SGNCaE11ZnQ5Y0dfMjVRc0RlNS1WWnY3ODBB?oc=5",
+      "date": "2026-10-14",
+      "source": "イザ！",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
+      "title": "水素発電機の世界市場（2026年～2032年）、市場規模（水素燃料電池発電機、水素ガスタービン発電機、その他）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLaFNvRHJIUEJuZWwtbUI0YmxOMjV0RHpZMElyZEJ6endGbmpNRWNqOUs4Rm4yMWJFMTFITGVDb0JvUzJyZTIxSVZ4U29RV1E?oc=5",
+      "date": "2026-10-14",
+      "source": "Newscast.jp",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "水素燃料電池テストベンチ業界予測レポート2026：2032年784百万米ドル規模に到達へ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hMFBLR1FheVJ3MFV4dEE5QjJJcnZqYkNpbld6U1JBa3FRakkwV2p4SGp2NDBWSE1FdnhtUGNyMEI3M3FsclZkQ3BWdEJTQ1lQMTljN3dkcnhlbF9rQ01vTVdvZTNRMG1wdEFxTWZuWDh4aU9pYlRPSnZxYw?oc=5",
+      "date": "2026-10-14",
+      "source": "ニコニコニュース",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "データセンターと電力供給インフラをセットで確保し連携する、「ワット・ビット連携」 | サイエンス リポート | TELESCOPE magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NX0syUnk0NC1DN3VYSlV1UHZGN2llUDFONmxnRVhuazZzTl9tQ0lVNDA4OG0tOGZVQzBUSnY2bjNRZmhWUWNKQXF5eGw5bHVhQ0ItSlBVME9BLXlZREVJU211aHFSZw?oc=5",
+      "date": "2026-10-14",
+      "source": "東京エレクトロン株式会社",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "小林鷹之氏、海外AI企業のデータセンター誘致に警鐘 「電力が大量消費され、国富が海外に流出」（J-CASTニュース）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xM2RubVJ1NWRlMnAzOWtSOFpwMUlRaThDUGkwTndSUC1jOFZocFlsckp2Ny14TTRoYzU2eDhxZmU3OHRsallaa2ZTcHk4RnR4RUhTUEd4ME82ODRvQUpPVEt2ZUpRUmdTNG9rUWVORUJvQ2JxSW9ncTRyTjRxVms?oc=5",
+      "date": "2026-10-14",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "日月光、3Dパッケージで新境地 供電損失半減でAIデータセンター攻略",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PNjNnSnQyb0h5Xzl1RzBpS0JPVDlOMkw4eHgxbUExQWV6TkxfX2FEX0Y0WFlCdktMUGtTSlFQaHYwRUNmQnpuWi03N1hJVmtkc0ZJNmVGNkRzalJZMWwzTTg0S3hPYmpldWdDU1cta09uVUNY?oc=5",
+      "date": "2026-10-14",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "日本グリーンデータセンター市場：GMOの石狩GPUクラウド拡張、KDDIの再生可能エネルギー戦略、日本のGX推進イニシ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90Q21kZmlrQ2NrQl9rcXYwRW9WSnlxOUw0YWN3UjloMWkzcnBfdGdrRUxtY1RpOGlyVjE4X1E5eXAwQV9uOWN4dGdhVlM0eDFtcURUVlZuZW5IWkJQU2QwcldCcnB1T2xQYTBTT1ZSNkNZSUR3LS1xYlpsTQ?oc=5",
+      "date": "2026-10-14",
+      "source": "ニコニコニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "energy-gx"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -133,80 +223,10 @@
       ]
     },
     {
-      "title": "日本水素インフラ市場：岩谷産業・コスモによる千葉プロジェクトと液化水素の拡大が新たなインフラ機会を創出",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GZlo3djVIcVptNVk2azdKU0hKUEJlbG5wdGZvdnljbV81a0ticEFIck14YlJOU2tETDZDUWFJZ21iQm5rRTVYbHVjX01UWmtmZ1kxR0JOQzRzRFRGaVdQWEd5VGtnSmwwbGtwaEF0bjdSMFhnVEpOZXBMdw?oc=5",
-      "date": "2026-10-13",
-      "source": "ニコニコニュース",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "［2031年の技術］期待度5位「光電融合」 AIによる“消費電力爆増”対策で脚光",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ybEFFY2dYRzZBaTJQSmlwWVlwNlRyOTlKWTc1VnNybnNSWkhBY2VLOFNIb0hKeVFCdVpNbjNPMkhEZ29mVUlVdl9TUWpFdzRveUNhZy13SFNMSUZrVkRFWWRTWWFLZHBScWMyVQ?oc=5",
-      "date": "2026-10-13",
-      "source": "日経BOOKプラス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "AI革命と電力インフラの急進が映す「環境と経済のトレードオフ」の現実",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVWlSVEp5MU4zNVFHSC0zVFU3YXdlS0pkQ0pFYWg5V0xoaVlHNHhOT2FoZ0h1Y2ZETXpzYjFJU3ZONTBJaEstblJOeE9UNWdkZE0wRUcwdU14NHAyQzdRcXotZmZtdnFVUVh1cHA0aUZubUtxMjNnV3dYQXlfeUU?oc=5",
-      "date": "2026-10-13",
-      "source": "環境ビジネスオンライン",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "NTTデータ、米アンソロピックの日本初データセンターを大阪に建設へ最終協議",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RTnN2aVhaVTV4ZTA2T0NNdWsyMldvTjRreDRJTlZGSmtRZjdSejE2UGtmbnY2blc0ejNHRjN0UnRUQXlSOVZCSmMwNENQREY5OFhmQUJBQWtDcDA0WWY3eU5yYzlDNUtSN1dZTmEyVmxtdGdC?oc=5",
-      "date": "2026-10-13",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "AIインフラの拡大に伴い、800Vデータセンター電力インフラ市場の将来展望はどうでしょうか?",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13clZ4RFlVbnZ2TWJmTGhrMjlpTGdUbkNCeWNfMnVGR1A0aE14alQwU2dJRk9QdlJqOVJqZEd1TEdPamNMdkNhczNTdDdya3NxNUZF?oc=5",
-      "date": "2026-10-13",
-      "source": "ドリームニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
       "title": "超高速180 Gbit/s・低消費電力光送信器を開発",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSjluWnVqMFJ5cHE3M3l6ZmxfbXp4VF9LMms5eFZHYXI5WGJ0b05neUdiamMtRlA4bUZGZFdLZE9jdExNdERLa09NYjJta1dCVVJ0WlBna2U0V3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sTG9NS0FFc1o3ZHQtLUNGcnR1Q2hoVU1LYWdJVFBqcUtxaGN3dzFfV09BRC1iWXUwSlhhZElXNkpqNXVMOUxpaUlzVjd4MmJtb2kyS1lGeEExZw?oc=5",
       "date": "2026-10-13",
-      "source": "共同通信PRワイヤー",
+      "source": "早稲田大学",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -219,31 +239,18 @@
       ]
     },
     {
-      "title": "ヘッドスプリング、Silicon & System社と資本業務提携 DTI社とAIデータセンター向け次世代電源を共同開発",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YcDJWOTJUOVJXTTdnS0NxaG9DeVlRaW9NZWItVGxxWXNiUTZWNnRvNG5hV0lNd2t0bUNsVjRzODdyd0hPT3JhamwxYTBOQQ?oc=5",
+      "title": "AI巡る「椅子取りゲーム」、データセンターに電力不足の壁－半導体が余るリスク",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FOUducFI0SmdCaS1qOF9FXzFDLVcxUUd0LVI2eS1WTm45R1VIdXMwRXF6Ym9qTlkyMUQ3LTRGQ2FqdWtyMUZaZWNBU1M5UzZkNjJ5RFgxbTZiYnVRYkZ3d2x0Mm9hdmk5cEZmSlB1Q1ZPSzExVnNz?oc=5",
       "date": "2026-10-13",
-      "source": "アットプレス",
+      "source": "Bloomberg.com",
       "domains": [
         "datacenter-ai",
-        "power-market"
+        "power-market",
+        "semicon"
       ],
       "terms": [
+        "semi-process",
         "datacenter"
-      ]
-    },
-    {
-      "title": "【受付終了】第2回カーボンニュートラル推進セミナー",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tUnRpNjhVQXM4VWpLSHlrQUNjZV8zS2FLRFdacHdQejhGN1cwTGtldndXYUFZaGJydkh4enBLaTZzbnprVlJFZzBnNXVyekMweXVEaXJVU3UzN0NHNkRSMFZyMA?oc=5",
-      "date": "2026-10-12",
-      "source": "埼玉県",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
       ]
     },
     {
@@ -311,20 +318,6 @@
       ],
       "terms": [
         "ppa"
-      ]
-    },
-    {
-      "title": "FIP移行風力でバーチャルPPA、年60GWhの環境価値をトヨタ系3社へ",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhTm1zUW5GMkwwSnVBSTNUSDRFWVlvNDBjU09fd21KQmM0X1NzdG0tRS1QWFhqMThHUUNSOHlKOEdrY015T0xJd0RRRzdGT3pBZVYydVBMQUFnLWtVdkNKdFZldW4wUWd1MXdCWkFkMnRYV0xnY1k5NzBIQVQ?oc=5",
-      "date": "2026-10-05",
-      "source": "環境ビジネスオンライン",
-      "domains": [
-        "power-market",
-        "energy-gx"
-      ],
-      "terms": [
-        "ppa",
-        "fit-fip"
       ]
     },
     {
