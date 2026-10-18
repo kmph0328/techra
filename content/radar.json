@@ -1,42 +1,31 @@
 {
-  "collectedAt": "2026-10-17T22:54:30.114Z",
+  "collectedAt": "2026-10-18T22:47:30.570Z",
   "freshDays": 10,
   "candidateMentions": {
+    "SMR（小型モジュール炉）": 1,
     "データセンターの排熱利用": 1
   },
   "items": [
     {
-      "title": "GX 韓国半導体・トップ10【633A】：株価・株式情報（夜間PTS含む）",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SWDhWeFZTSnJ6OGtuMDZkcHphazFuSkV2X2hOWDRYV1VVNDl6RzlwNThtSVF0Wm9Zc2FOcGRTN1Z3UEJLVXRXSEdtclhCZk42Vmc?oc=5",
-      "date": "2026-10-17",
-      "source": "Yahoo!ファイナンス",
-      "domains": [
-        "semicon",
-        "supplychain",
-        "energy-gx"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "半導体製造の現場は汗だく、想定より重労働 装置大手の研修に志願",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1djZZbHJSMENCRWR6R2xOQ01meTFQNERFOG9pTkxHTU9fazEwMVhOcVhXbkxrU1Yxa2xDZFJBUkY4aS1lMTNLX0N1alh3WE1FR3ZBSFVQTTd1ZVVtZUh0dXdSZkxMdmpQVmE3dA?oc=5",
-      "date": "2026-10-17",
+      "title": "ラピダスも頼る半導体クリーンルーム テクノ菱和、収益性は大手超え",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XV25QLUwwak0tVlotLXRKRzFiWmZVaDhpejhSdl9LX3Nwanp3aG0xc0RWdU1rUmdNV0owTnF5Q3I3ZXRZMjlZdjJXUkdfUHR2MW44UXdBZFB5R3NWUUJPTF84LW92cUp0VXNjZQ?oc=5",
+      "date": "2026-10-18",
       "source": "日本経済新聞",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "semi-process",
+        "foundry-model",
+        "cleanroom"
       ]
     },
     {
-      "title": "（Ｑｕｅｓｔｉｏｎ）高まる半導体需要、韓国国民に恩恵は？ 高安雄一さん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rXy1hY0tJeVhCc2NsdnhzamdvOXpMcmItZy1GN3hGUmNoUV8xMTV5R2tQaDBoa3l0ZlF4MTNieVFwNHlHRzUtSXFVVG52VFhicHFjN0g1YnZubTJ6?oc=5",
-      "date": "2026-10-17",
-      "source": "朝日新聞",
+      "title": "「AIバブル崩壊の予行演習」…米半導体株、8日連続下落のショック（中央日報日本語版）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSUtJdm9VNTdNbWlVQ2o0QllWdWhsQi1KS0JWcHg5TFl5b1JWeU9HeUN1ZW9RMy1NUHlIME9aWExFc0Jlanpxd25TUXFZdFdyOWlEVVhFcTZsZ0N3Z29wbEwzN2Y4NlVLVl9fcDZoWXlaQjExNW1vWVhzUWxWX28?oc=5",
+      "date": "2026-10-18",
+      "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -46,10 +35,10 @@
       ]
     },
     {
-      "title": "対米投資で半導体に3.3兆円…NY州に新工場、経済安保を強化",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwNVJvcm53anB6bjdLNko1MTYwZTI0NEt6S2lTNXY2UmJxM0EzaXFaR2RIbTB3QkRJQWJXQk9uZ1kzUQ?oc=5",
-      "date": "2026-10-17",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "title": "高値更新して\"表\"に躍り出る｢隠れ半導体関連｣銘柄の実力",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ET2hXb0ZqTEQzUHZPS3lHVndrbUFORDZvbFNyT1JsQ2EtRWd0bXhYNlFQTE1kNHdnd0kwbnJ3YjlNY1ptRURyczQwWEQxSm9HLThOckxCMA?oc=5",
+      "date": "2026-10-18",
+      "source": "四季報オンライン",
       "domains": [
         "semicon",
         "supplychain"
@@ -59,30 +48,55 @@
       ]
     },
     {
-      "title": "TSMCの熊本第2工場の新生産計画認定、国内初の先端3ナノ半導体を量産へ",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SSC1OdkdXV0NDSFJVSUZVd0V2UUhNdUlUT0tWTFVVdWFaX3hqREN3c2hJRVRiSjFSQWdFMHk5eG1icS1pU25CanRWeVB2eVU?oc=5",
-      "date": "2026-10-17",
-      "source": "ビジネス+IT",
+      "title": "酸化ガリウムパワー半導体の6インチ基板上で成膜に成功、面内ばらつき約±3％（MONOist）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZR3AwVU8ycDdMcEk5WUthV0tBcVlObno2eFVNYWs5bDVsbkVOVHNtQ1hoTnNIT2dKcXBFS3dmUXBXeG1IVmdXRm43enA0dy1vOEEzaGswT3ItYWFyVlpZV1hjY3RncmxHSDFlMHFNMUVDTHhxN2xybHdpY3dBajQ?oc=5",
+      "date": "2026-10-18",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "ペン先から半導体へ、尖った技術を水平展開 日本流イノベーションの芽",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sb25FQklCM29IM3hoWWlOaERDamJzWjRqVUZCWm1GTzdHZmhEekJOcTV5VmhFTkUzNjE3MnFUNGNWb1N5WjBsQmNCTHc2TDBzMFlGOFQ5UC05RUp1NjF1TU42OFJzSHBpQTc0bQ?oc=5",
+      "date": "2026-10-18",
+      "source": "日経クロステック",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "NVIDIAがHBM接続を独自仕様に、クラウド大手のAI半導体囲い込み",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxbi1rTDlRb195WEliX3hUQmdYalhaQXpBV0VlY2lYN1RNeUhWUEd3U25LTExHbEYwazdPRTJWTDExRFVDQ0I3Tk5XUkpIRmFSRVZ5b0lKODQxS0Y2SW9aXzNsZXF5OW8?oc=5",
+      "date": "2026-10-18",
+      "source": "日経クロステック",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
         "semi-process",
-        "foundry-model"
+        "hbm"
       ]
     },
     {
-      "title": "TSMCと台湾 熊本地震からの復旧 アミュプラザと商業施設【熊本の経済1週間】（10/10～16）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkem9CNVZsSG1seDBPSFd1UkYtX0RxUHU1dDg3cTI1Z1o1QkRfNzk1dXZZVlBMdnFvZmM3NjVOS0NUQ24zT2VwUjFDbnZpOWM?oc=5",
-      "date": "2026-10-17",
-      "source": "熊本日日新聞社",
+      "title": "水素供給設備の世界市場（2026年～2032年）、市場規模（アルカリ電解槽、PEM電解槽、SMR水素製造炉、その他）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CTFpIN2c2eTFNMGhHbzRHNVdfdzdXVjJGRmIwWThkSWE0eFl2VjViR2hjVmh5U0RNSTRuSU1QSWlhaHltNkp6SjF2M0k0NmM?oc=5",
+      "date": "2026-10-18",
+      "source": "アットプレス",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "foundry-model"
+        "hydrogen"
       ]
     },
     {
@@ -154,6 +168,18 @@
       ]
     },
     {
+      "title": "【PFAS（ピーファス）関連株・銘柄まとめ】PFASフリー製品の製造メーカーや対策・除去に取り組む企業、今後の見通しも解説",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pXzY0UFJsek5QTUlDRkNaMDlGcGJLT1FsbFJnVnNaWWZheHZHYTByMlczWE1QU1dzRGVRbFhiQ1RmdTNQcEJZQzdjMlpKTTBYcDE0LXFhUQ?oc=5",
+      "date": "2026-10-16",
+      "source": "やさしい株のはじめ方",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas"
+      ]
+    },
+    {
       "title": "飯田で太陽光と水から水素生成 信州大が実証実験開始、県内企業も協力（みんなの経済新聞ネットワーク）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54UURkUkthOXAwYkZlOElEbXJEMmRXenVQZzhpc1ZnejJ3Y2dab1c1TU9fdHJqQTByOVJHNWp2MV9naFdGSm91Wi03WG1nTzBfVjVtUG9qMzYtUTdwYmQxR1NKMmlvbFJJMkJROU9fX3NtQmNEblZaYS0xcTN4N1E?oc=5",
       "date": "2026-10-16",
@@ -170,6 +196,18 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlZVMU01VHM0UFlMd3RSWkxJc3NzOVdydlM4YmZRVkZkbGZZS0xidnNkNF9XTUVVMTB4TTczNFJkSzZxQnU2RzBWUm1MeExGUGlsQlhldjNyemFFTjB2ZzZEbW9NbDIyUTd5UHg3eHNQdFFlaVA2RjFzcFlHR3RqMlNqb290MTh1dUsteHk0YVVvTHg4cEE?oc=5",
       "date": "2026-10-16",
       "source": "Mezha.net",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "東京都「グリーン水素率先利用事業者認証制度」の認証を取得～液体にエネルギーを貯める新技術－グリーン水素の製造・貯蔵・輸送・利用に関する実証実験が評価～ | 株式会社アイシンのプレスリリース",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQ1BIY0t5TnIzcGZPeTd5dEVfZFZqVFlXdGF6cGJCQ05lNHgtcVdqZVZXd1NBSjRGbkp4ZXpUNmNIbG1zeHBYWldteTJwbW43dmQxMGVIeklqUGY1YlpVMzBfcW0yYmpGemc?oc=5",
+      "date": "2026-10-16",
+      "source": "PR TIMES",
       "domains": [
         "energy-gx"
       ],
@@ -219,16 +257,16 @@
       ]
     },
     {
-      "title": "三菱重工とIngeteam、AIデータセンター向け配電ソリューションで提携",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTE9PT3BUX3dfaHJKQzJBcmRwMGdJejNGeGdxem1JNnBULXlldEhSUlBIS2w5MGJ3TmV2dmhkcGFxSnFETVlic1E4RDZ3MXNKdW5adlozalBoejhZakw3Y3N4T0hoQWRK?oc=5",
+      "title": "Celestica、AIファブリック向け液冷CPOスイッチを発表",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGVaUUZGQjdDRTdhRXcwYWtpTVJtd1AtN0pzVUlURE02RG5HNEF2bHlPcnRVSFVXNHF5ZF96V3RhOE1yN0hSSTdBSHBMWGIzcWR3NGllX3FscXVQbEZST0J0aTVrT3laTGlmUlVuNlg0OHYxV2E4V1pfQldiaDV6NHBIa2ZZaEQxcGZBcXRn?oc=5",
       "date": "2026-10-16",
-      "source": "マイナビニュース",
+      "source": "データセンターカフェ",
       "domains": [
         "datacenter-ai",
         "power-market"
       ],
       "terms": [
-        "datacenter"
+        "liquid-cooling"
       ]
     },
     {
@@ -246,55 +284,15 @@
     },
     {
       "title": "太陽熱ヒートポンプの世界市場（2026年～2032年）、市場規模（空気源ヒートポンプ、地中熱ヒートポンプ、水熱ヒートポンプ）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JZmJoTzRUa2x3bkFRQ1JlTkt5Z05CeEVHbE1oUjJEazNQTW9jNEFBb3gyVGRjT3dpTWM0U2R3VGl6UldKc1dOV0hYc3dWZjg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04ejdmQ2ZBTnV2MkJoOFo0TWFRY3FaeUZyejlwUzluc1ZBRDFqWk5nckxoS3h4MFQtRWZEMnM3Vkw0TC1YOHhkaURIdnRGR28?oc=5",
       "date": "2026-10-16",
-      "source": "Newscast.jp",
+      "source": "アットプレス",
       "domains": [
         "thermal-utility",
         "construction-city"
       ],
       "terms": [
         "heatpump-cop"
-      ]
-    },
-    {
-      "title": "高温ヒートポンプユニットの世界市場（2026年～2032年）、市場規模（水源ヒートポンプ、空気源ヒートポンプ）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80bHRWTXJPZUNiRjRJVWNqdTlYNENERVFYV3hKMUREbmZOS1ltWk5NRklxb2wxM1NoTUZJTVRIUFBLSDItaG1Eb1M3RjdBSGc?oc=5",
-      "date": "2026-10-16",
-      "source": "Newscast.jp",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop"
-      ]
-    },
-    {
-      "title": "ヤマ発が米国の“日常の足”を脱炭素化、水素エンジンをゴルフカーに搭載：Japan Mobility Show Bizweek 2026",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wM24yRFlwYmdHdXU2RWJFaE1MLU9aNjg5M2ZfbTFxcDFwRkxLVkNpWl80a19yNmpEcVpXVUczRnZmMFo1a24xeE5FQTU0bUJJTk5iS3BKZUotM0ctZHYwcnJsTWhYWWdWSG1wbHlHZw?oc=5",
-      "date": "2026-10-15",
-      "source": "MONOist",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "カーボンニュートラル食品が注目される理由｜日本の取り組みと選び方のポイント – SDGs特化メディア-持続可能な未来のために",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hMDUzRmxVRGpkMURnQTVOejU2Rl9WWl9kWF9ldGtTdHU0ZHpmRU8waC1FbTNRU1NFX3k1RkcwYkFNbGYzdDhiZ05jb0E?oc=5",
-      "date": "2026-10-15",
-      "source": "MIRASUS（ミラサス）",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen",
-        "ccus",
-        "scope123",
-        "lca"
       ]
     },
     {
@@ -430,21 +428,6 @@
       ],
       "terms": [
         "pfas"
-      ]
-    },
-    {
-      "title": "次世代冷媒、ＨＦＯ系にＰＦＡＳ規制影響か",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FQmtqeXJReExQczU0TDZMdzdxRjdwSk42TElNTVhqeDJEY04wWjkxYnR0Z2kzUVNhd3FUdHNDd1pPaEVkWjBwUmZsNnRUNXRVNnVF?oc=5",
-      "date": "2026-10-08",
-      "source": "化学工業日報 電子版",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
       ]
     }
   ]
