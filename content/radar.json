@@ -1,15 +1,15 @@
 {
-  "collectedAt": "2026-10-22T23:53:07.224Z",
+  "collectedAt": "2026-10-23T23:44:58.859Z",
   "freshDays": 10,
   "candidateMentions": {
     "データセンターの排熱利用": 1
   },
   "items": [
     {
-      "title": "垂直統合の再来：AI時代に半導体の主導権はどこへ向かうのか",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmh6V3RtS09YVkZMOHJOaHJVUFdwVHY3MHUtQ0xfVjUzbVloeThiMDZjWjhYOUdsWi1UTzNlTlppNVVYaGdFS1F0Z0wxOHRTUGFUZ3RVNk1icjhyNWc3elJwTlpUT28zaFZwdTI0R29qYlltdE4ySjIyRkhPMXdNMnlIZURyOWdqNEJWWF9OYk5IR2gzeUd2NnRsMnNPSVU?oc=5",
-      "date": "2026-10-22",
-      "source": "PwC",
+      "title": "千歳市と三菱地所、先端半導体R&D拠点形成を起点とする 地域産業の躍進に向けたまちづくりに関する包括連携協定を締結",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jV08yckVVQ3k3WkZ6VUFSMmxFanFCTXZ5MjZCYk9mbHRWZ2xPVi00RU9vbnFzS09XZjFGOXZUbnVNc0ZKTi0zWTRtTUdyTHZJSS1jU3BTb3VTQ3p3MTBCRS1xQ2hMeGR3QU8wcUNKTW9qNkk?oc=5",
+      "date": "2026-10-23",
+      "source": "三菱地所",
       "domains": [
         "semicon",
         "supplychain"
@@ -19,22 +19,9 @@
       ]
     },
     {
-      "title": "今日の株式見通し＝軟調を継続、ＡＩ・半導体株が全体を押し下げ",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUZ3TDIwZy1KUnE1UEtXVGRoSE95aTdtai1VSC13cDQwNHhwTnZhanNQM1ZOZEplM0dGVGhOTE9wbXZGZV9QRzd4QjdkY2lUQUVPS193TW9GNzgxdnlCZnBOUC1iYXJMR3h2eS1hRlBQVEJIRnUwbnFVSWdyZ1pzdTZ1ejZiZw?oc=5",
-      "date": "2026-10-22",
-      "source": "Reuters",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "【↓】日経平均 大引け｜ 大幅反落、半導体関連が売られ6万3000円割れ (10月22日)(株探ニュース)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3lmdnl5a0ZGdWpxVUxIVXJ1MEFuY2taR0tHRkloSUI2WFRlalp2R0hPc3JhOXI5QkpwdzIwQjhPTzY4TlJzMmJMT01odVFFZ0dmbi01VklvY3BuWGJjd0dRbjY5LU1RYXpqWFRDUWM1M1hOVzFpSEdNOHh4SDFFc2s4M1M4S0k?oc=5",
-      "date": "2026-10-22",
+      "title": "今週の【早わかり株式市況】続落、半導体関連に売り継続で大きく水準下げる(株探ニュース)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUh3emlNRkdWMjNJV3NKOXpzQ3N2c1VQUnluMmdmaGtJS1ZtdHYwMm1iYk41WV8yM1ZQU2Z3UGN5bzRJd1J1ekJRdlBCdWVLQ0ZhRmY4TVJiQ1Q2MWgxREVqTjNvRWpVWkdvQlJoNnpzang1bkxYUXRtR01HQVRXbkZXZ2J6REE?oc=5",
+      "date": "2026-10-23",
       "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
@@ -45,10 +32,10 @@
       ]
     },
     {
-      "title": "【ライブ速報】ナスダック急落、半導体銘柄も暴落：売りを誘発した要因は？",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcURuV09ybzkwTFdyTXE4ZkxtWVJjOVFWdS1JcXdsZS1ST2NXR1R6MFhNZWVXeVFoM1UtdzhPT2psRTRsTS03WXZTQWNEeGtEbTBuallUQjM4NUF2Sk0xZmZaYUdZY0xMSzZSNmcwYTJCSnVKcDBRV2luZnR3V1BSbFBSekJmS1dpcGtkaTBYWV9tdFJLUHEwTXpjZ2ZvQks2S1dSRTlPZDdvUC1CaEd6Q0JFOA?oc=5",
-      "date": "2026-10-22",
-      "source": "Moomoo",
+      "title": "半導体製造に欠かせない“薬品に強い樹脂” 需要拡大で「材料の取り合い」に 新潟市の加工現場を支える女性たち",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xTngyS0JJUGk3SFZvVWptZzhFZlVoMnFwZTNxTHo0eHJFWHFVRWtJeWNuU1VsTWpfM204QXZna1g2X1ctTDZJbFNvMFpSZE1URG94MGY1X01lM2JTUDV6bXpsd0Y?oc=5",
+      "date": "2026-10-23",
+      "source": "TBS NEWS DIG",
       "domains": [
         "semicon",
         "supplychain"
@@ -58,10 +45,10 @@
       ]
     },
     {
-      "title": "ラピダス、2ナノ半導体「設計」に必須の一手 TSMCとの差",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeDVMeENYLW14UFp1QWxnREpJSThWNXhRNUpodDYzSVh5NXlxZUgxSVNlS1JYeDYzZVlmdzl6RG9SZ1ZHc2VXbGx2SkxwNC16ajdDQUlubEJXYmdBSWtVNjJsbjlORWVZb0RRMmt3N1g4d2QyOUphQlpFYkZEMllaMG5fLWxPblU?oc=5",
-      "date": "2026-10-22",
-      "source": "日本経済新聞",
+      "title": "新千歳空港そばに半導体の開発拠点を整備 ラピダスとの協力にも期待 [北海道]",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fb09CblZTazFnRXp2NEd2SmEwdkphV2pPSmtJbXRVNjFPeTJJMF9NV3BjZjZYSHFXUXBRdnA5aUZhWHIzMmpBM0FtTDVxbDVHaFlZbnU0NmEtbUxVWG9MdDdseWdMTlk?oc=5",
+      "date": "2026-10-23",
+      "source": "朝日新聞",
       "domains": [
         "semicon",
         "supplychain"
@@ -72,10 +59,10 @@
       ]
     },
     {
-      "title": "リョーサン菱洋、東京エレクトロンの半導体製造装置向け製品セキュリティ向上を支援",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RNVBMT2lFcWo2R3Z0aVBPcEhzcE5UbmstZHltaXVDM24tbVpSZDdtUWV2eE1IOHVnRW84TEdXNlJGaEx0UE9sNHUxOVZnNW9vYmJIUTZB?oc=5",
-      "date": "2026-10-22",
-      "source": "EnterpriseZine",
+      "title": "次世代半導体の研究拠点整備 三菱地所などと連携協定―北海道千歳市",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhT2RYVkU4dkZ3WDhKd1JLdUdLNzkxaTltTHBzTnN2Zi1xQ3U4eFZoNVpoZ0UyMWZibWR4RUtJYUM4VmprWHRwWGd5bV84RHlxdTd4NHBPTENMV1ZRTERqSUM1TQ?oc=5",
+      "date": "2026-10-23",
+      "source": "時事ドットコム",
       "domains": [
         "semicon",
         "supplychain"
@@ -85,8 +72,141 @@
       ]
     },
     {
+      "title": "Anderon、IBMの半導体レガシーを量子ファウンドリーサービスへ拡張",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LMlhRaE16LVVQeGFWQWZwX29obmNrc1ViQWtYQUp4Ujd5SXlucTZJLUttR3hlR000c0RBUkZGS3hJMGkwR0FzeVRUUWgwQXlEalZhRVJTRFBmQQ?oc=5",
+      "date": "2026-10-23",
+      "source": "Forbes JAPAN",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "水素のビジネス導入拡大へ…都の官民連携プロジェクトが江東区で企業交流会を開催",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wTTNfLUhKR3JZcURxcHA0eVVoV3gzWm5UalZnc0NvRl9RbjY3cy02UUNtTjNBUkpTdTdhamI0SUtkM25CdXlTUFlsN1JJZUI5d0dj?oc=5",
+      "date": "2026-10-23",
+      "source": "東京新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "リコージャパン、「カーボンニュートラル倶楽部」の会員社数が2,000社を突破",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiYnJfNFVOZ1NGQ3JsSG5KYUoxZ09XRWQ2VnZBc1lpVEVkZ0VJTU95d1NIOFB3R2tHeDJSMENPclBmUmxfYjd4WGxPSWhLd2hmWEE?oc=5",
+      "date": "2026-10-23",
+      "source": "Ricoh Global",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "企業評価制度に業界意見 ＣＣＵＳ「公的な位置付けを」",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0g1Ukp1SUhfdHFRX0Y1QnJoZ0pqSm5GX21YX0tLdTFrYWFoNnFDVzAwNmM5OVlUbjFrV2lENTdxdFk3TzVJZ0ZjLU93empIN0RpekphcHpybDYxUHgwcEpzQWMzMmtLZWw4U2sxMGt4SjIyZnlXQTFuUmQyUXBYOQ?oc=5",
+      "date": "2026-10-23",
+      "source": "建通新聞",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "リップバームの製造にも水素!? 山梨に世界9カ国が集結、水素社会の実現に向けた課題を議論",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XakxuUWtfTnkwa3VyRnpzaGNtLThra1UyOFk4RFNrZXdvZ00zVXdkRG90c0VMV2JKQVFwUWpVS0hUekZJTXppZXNscw?oc=5",
+      "date": "2026-10-23",
+      "source": "ガジェット通信",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "AIデータセンターの省電力化でKDDIとBroadcomが提携",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mVkhyUmJHb3AxNWE4R3BZVGdmQjFIdUFzTTQxQ01qeDBIdTI5VFFuRnhjM0FlLWVoZjVxNVJoUUg2WlBNQjNhM01vYVZ2LWtKb01IamdVVE1SSWZMdThUbE5ZWQ?oc=5",
+      "date": "2026-10-23",
+      "source": "株式会社インプレス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "人間の脳細胞で動くデータセンター、消費電力はGPUの100分の1以下――メルボルンで稼働開始",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MX29NWm51MGtxZVJoUmtTNTM1UTZXT2ZrMEctMXUzVGRmVUJpazlwdEUwN0ZYc3RzQlhpUnJjd0tZQQ?oc=5",
+      "date": "2026-10-23",
+      "source": "shiritomo",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "KDDIとBroadcom、AIデータセンターの省電力化に向け技術提携 - CPO技術を共同検証",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdXNKMzdQZ21jRGlfSWF4ZVFIV3kwMjJlQU94WlpqODQtVG1pWF85amZDOFdBa3dlMFNNYXhyaWJReDlMOXlzWjRfVFNmNGxvY0g2bWYxQURQaTFBQl9YUmFneWFuQWtnaWlwdXBLcWhlNjBjZU53Z3FjVkZJQlhIbEx3amFWLTVHSVdwWVpSX1BHTk1heU56Tm9EWncwa05fVFlUbEFHUHZ6dWZjaXA3emJlZkNsNTNYM1VvdTVFdGp3dHBUZ3hpZ3dQcUbSAXxBVV95cUxObUw2Q0NSd2ZKUjhMNHdIcWU5czhmMFRvRkR6V3FJRzJEMzByeU9VR0Y5YUk5dTI2LXM1M1VqMWRHWjdRSXNLQTJKVUlNRlFvclBiUGFDUFdoR2hLSS1iVi1wN0haNzdrbVMtWWY3QjMyR0pqVXZLMXVqRU94?oc=5",
+      "date": "2026-10-23",
+      "source": "ｄメニューニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "ＫＤＤＩ、米ブロードコムとＡＩ通信基盤で技術提携、光電融合でデータセンターの省電力化へ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80SXIzNHZRUGk4VzdFNFR3UzdNTEdTaVdzYTdCblc1MkJOY3MyLU83TGFwd2RKZnVZWkc2eDRtZWozM0luUjE3REItZHc2RUlkYVd6ZQ?oc=5",
+      "date": "2026-10-23",
+      "source": "https://kabu-ir.com/",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "「AIデータセンター向け高電圧直流配電ユニットの世界市場」調査資料（国内市場規模も記載）を発行、年平均10.6%で成長する見込み",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRUhWdDlkdmh2cGRwbzNnVG13ZHRNR1BXc0ItSnZObHl5RmQ5X04wU1ZYRHVOa1ZNNjFNcmxEWkFtdGhheE5uN19oVGg0bEw4QnlF?oc=5",
+      "date": "2026-10-23",
+      "source": "ドリームニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
       "title": "府中プラ、ZYPEEK（中研股份）と連携し、PFAS代替を見据えたPEEK樹脂射出成形部品の用途開発を開始",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fQ21YRGNsSFpYZEoyV09tbmZHblZ5eElCb3NMSU1pWDgxcWV0OVA0Wjg3ZE42cUM5cVBFci01SFFzS2p5ekw3TUFRaE1uZEZjTDg0c3hWNFZiaG5wcnl2MTZaZ24yXzNZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MeTQwNHdBb09hV2IxaF9xUnNrOEhTam5lSlVfNF9MeEpZVkZxWGx2TmpsWUMyMTdFTmdVeXl4NkFBNDFZdXJfaHhMSEN1SGF6cUZTZg?oc=5",
       "date": "2026-10-22",
       "source": "ニコニコニュース",
       "domains": [
@@ -97,34 +217,10 @@
       ]
     },
     {
-      "title": "水素発生触媒市場2035年予測：電解装置の急拡大が年率28〜38%成長を支える - ニュースと統計",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM05BT0YyS05lWUx0Vm5OWjhWdE5KMHZLb2xyUmNqVW5ZSGRid3NvMDRNTnZMUS1KY05xRlcyX2h0bnh0UmNrQ2F2WExtQ3RfNXB6OS13YzJRMHNtbzU2cG4xSmkyX3doS2dPbmw2emwwMl9BbFRpd0d4OVNrTGZSaTRHQ05lQ21XOGd2Y3hrZHV3aEhpR3dqMnktNG9pVmRaMjZvQm01OVZyUXVycXp1RFBDUVJaNU52bnpDSDZLaDJEQ0JuZTQ3Z19YOTA4RU43X3c?oc=5",
-      "date": "2026-10-22",
-      "source": "IndexBox",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "飯田で「南信州環境メッセ」 ウッドチェンジとグリーン水素テーマに",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DRTFlQ2xGNzdacDRGZi1Jci15QzBNZVhZZlpEbDh4VFM4TTZhekJFcVBJOWlib3QyZ1ZTZVVDUExwaDJCazl1QnhUaWVWdnc?oc=5",
       "date": "2026-10-22",
       "source": "飯田経済新聞",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "水素遠心ターボ圧縮機市場2035年予測：パイプライン網の拡大が成長を後押し - ニュースと統計",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1hDdktQZlZmSnF1Ykd3NWlnTVVPeW9uVlk1VDFNdXB2bkl2TnZZcWZUR19naVJjUkdWU3lmRjQ5RUl6UTYxZHZ3TnNJS3NaYzFyYk13NmpPQ1R0WDlwd05aU25aaEp1NDJPTDBSTkcyN1MwME12YlNkYktHVmR1VVlCZlNBSFdrZUlVNEIwZU5jdDBSYmdZSGMzZGZPRDF0SFdlS3dFcUVPZ0g4ZzZCR0MtYXJVQ2FNb3pWMnp0VEQtbkVNOUt2bW44Sk4yREZFM2Nfd1p3?oc=5",
-      "date": "2026-10-22",
-      "source": "IndexBox",
       "domains": [
         "energy-gx"
       ],
@@ -145,33 +241,8 @@
       ]
     },
     {
-      "title": "水素チューブバンドル貯蔵タンク市場2035年予測：充填インフラ整備が成長を牽引 - ニュースと統計",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbmdPWldXMWNMYUI3dXdncEVkMDZJeF9abGY2QTF3ZEdocmw3UG4zN1lPek1FSkJMNGpPSHNqeXFjb3lxUHV6cXlFQ2VsczJ3bFhkX050TXk1NWN5U0pka2l0VzBZbkNCR2RjVnpzQnNzMzZqbkk3c1A0cTJFT01HaVJwSW1iU0Y0Z3JvYXE0UlZncVlTN193M0RJZzUwN1l4VjM0b0VpYWlhbXcxOF9oSnJNVHQ0Tk10ZEJxdkRudXAxMjZjVzBmajJUUkhoZjRuV1ZLSTlnY1BEdnNIbVVTM1BB?oc=5",
-      "date": "2026-10-22",
-      "source": "IndexBox",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "水素燃料ディスペンサー市場2035年予測：FCEV大型トラック登録3倍化が高圧ディスペンサー需要を牽引",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1hKLWZWZWVEY013cTdjWjFuTHloY1loOUxHRFN0Skw1RlM3VVlCbktoay1kVFl5WGVJNGQ1U3B2QXRRNkd2WkZPRDFBQ2tUZmlsdURHcnUwMzVSd3NUVzZ4LUh2VUI0RjYzQ3BOSWR1SW9HT2pxR0l4a1NjSS0yczc1MGJDd0ZPbmEtZWlBNHF3dDd5RlI3YVF2eHFMdm5JaTlGYWN5NnUySTB3dDh0Q0NUcl9EclozbzZhMm9Jb25XZm9BQlJKbGNZem9oZkFWUjRqbFV0SjF1QTlDMHRzSl8zUmo0d0FzXzU0LWptWU9yRjlYU0E?oc=5",
-      "date": "2026-10-22",
-      "source": "IndexBox",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "KDDI、BroadcomとAIデータセンター省電力化に向け技術提携",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wOHNURko1WlIwNGdYc0tDaDg5eEF1b2FOdGZ4emJ4Ulo4VlNqRFB0WFlWbEwyM2NkcUR4enpYNnRHbEd6RWw4dVNkN1R1dEZvMXlpNHNubVBUdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OODBKYnFsYXZMWmxXU1FlUHFsTE0xUG9GdzBCZVc5WUtFV1ZuZE03Z0pPSVBHNENXUUJLZ2xsUjR0UXdOT0hURVFFd2J4OEp1cFFRaEpn?oc=5",
       "date": "2026-10-22",
       "source": "EnterpriseZine",
       "domains": [
@@ -183,84 +254,24 @@
       ]
     },
     {
-      "title": "KDDI、ブロードコムと提携 AIデータセンターに光電融合、CPOスイッチを共同検証",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZOEdXNFczS2JEZUxsdnlZTTVHV2x5RXRSNjhZVEpnNUZFbVp4WldPYjhaY3pYVDB4Mi1NZGlveGxETG9GMEx3V0ZIOXBreWJVMUdv?oc=5",
+      "title": "産業用ヒートポンプユニット市場、2035年までの予測：脱炭素化の追い風で成長加速 - ニュースと統計",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGNyZWVjamhjSzd4VGd1eXJQZ3RJSzB6REE1Vm5hOE9xOWRkZ1ZfZG5HNXBzb3V4SXQyTzB1Q0Y3SlNIdmxya2ViSHdFdm1aaWZvYWNKeFVHdmJuSjJXYUtHTlZpa0pESmg2WTRjejlqMkl5Q3Z4WUx0cGZrTGFXWS10Y3J1bEI2VjZKNngxSl96Y3ZrMzlzejZWZlFWeEtpaE5RcmF2RDduUlJjci05WUZhTTd4RVppMXNCS1BCYUY2TExGV00yUWExeG9TMlFuRVBySjln?oc=5",
       "date": "2026-10-22",
-      "source": "ビジネス+IT",
+      "source": "IndexBox",
       "domains": [
-        "datacenter-ai",
-        "power-market"
+        "thermal-utility",
+        "construction-city",
+        "energy-gx"
       ],
       "terms": [
-        "datacenter"
+        "heatpump-cop"
       ]
     },
     {
-      "title": "KDDIがブロードコムとネットワークインフラ技術で提携、CPOの共同検証を開始",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YYnFFbm5ScDlScmthWWIyT2psOUQxaGR1aVQwM19KV3RLMG45UFZrTVRpWWozMmpES2M5ZlVPdWR0VWh5Y2RCSVdWMks5cHBCN2Vz?oc=5",
+      "title": "前川製作所とHonda、グリーン冷媒を用いた蒸気生成ヒートポンプの実証試験を実施",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01Z1NDNmd1M01URTgtUFlhZTRwcWtWVjRlVjZBczhWZVhSektLUDZidTRIaG1EeFNlXzdVN0paRzdBSm5oa2c?oc=5",
       "date": "2026-10-22",
-      "source": "ビジネスネットワーク",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "日立製作所－5日続伸 次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0lQbWc5TDB1NjliaWU2NjB1S3VESjdRRjNQakYyRm91VG9YQmtTMjR6aFBlQkRkOVQ4ZTNnOHVCRTBpMjVNdi1kdml3OWh5SWpOdHpiNG1HS0hLYmJ2SDF3WWVzNVg2TWFWanJlS2FiU3dwTENMdU1mcDNvRWdUU1ROR3J6SWlpRzZn?oc=5",
-      "date": "2026-10-22",
-      "source": "Moomoo",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "AIの社会実装に向け、Broadcomとネットワークインフラ技術で提携",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83VXE0bXdkdV9INWl6d2VUZUNibUFmYzFyOWFwaXdzMl9iNHl1TzhpYVZHd2dQTmFXVFlzaG91NUFRVzZCX0pidlYtcUx5SXBOR1FvRE95dlc3QWNwSi1rSWRiMXRjNTBlYWFJRw?oc=5",
-      "date": "2026-10-22",
-      "source": "KDDI ニュースルーム",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "AIの電力問題に光で挑む、NTTら5社が光電融合の量産技術開発へ",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LSU9rbmd3cEVZaDJMYW9KT2pkcmJSYXdDcWh0MlVyQUIya0N0RFlWOHJaUHNzcDFJVEg5dmVYRVR5THQ4cTJMMDg5UGQ2MUxNSms2V3l5R2VSRTBRSE1zbEhlQkJWZC1ZTGdj?oc=5",
-      "date": "2026-10-22",
-      "source": "CRYPTO TIMES",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "ホンダ、石油ボイラを蒸気生成ヒートポンプに 省エネ・CO2削減量など実証",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84VDFXNkxQSGR4c0lEbFpBSFVBQl9MQ2JWSUtwczdaOU01bWs5RlJvMmkxQndPeklJVVVmbDVkekhNY2IweTZ3Q2RHRWNhdm15Y28yWTA1LTcxWUp4azJfc1pMXzFkODhYX2RLLXZiTlJXUlI1OUJrSVVETkQ?oc=5",
-      "date": "2026-10-20",
-      "source": "環境ビジネスオンライン",
+      "source": "Dellows News",
       "domains": [
         "thermal-utility",
         "construction-city"
@@ -271,10 +282,10 @@
       ]
     },
     {
-      "title": "前川製作所とHonda、グリーン冷媒を用いた蒸気生成ヒートポンプの実証試験を実施",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01Z1NDNmd1M01URTgtUFlhZTRwcWtWVjRlVjZBczhWZVhSektLUDZidTRIaG1EeFNlXzdVN0paRzdBSm5oa2c?oc=5",
+      "title": "ホンダ、石油ボイラを蒸気生成ヒートポンプに 省エネ・CO2削減量など実証",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84VDFXNkxQSGR4c0lEbFpBSFVBQl9MQ2JWSUtwczdaOU01bWs5RlJvMmkxQndPeklJVVVmbDVkekhNY2IweTZ3Q2RHRWNhdm15Y28yWTA1LTcxWUp4azJfc1pMXzFkODhYX2RLLXZiTlJXUlI1OUJrSVVETkQ?oc=5",
       "date": "2026-10-20",
-      "source": "Dellows News",
+      "source": "環境ビジネスオンライン",
       "domains": [
         "thermal-utility",
         "construction-city"
@@ -298,20 +309,21 @@
       ]
     },
     {
-      "title": "【PFAS（ピーファス）関連株・銘柄まとめ】PFASフリー製品の製造メーカーや対策・除去に取り組む企業、今後の見通しも解説",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pXzY0UFJsek5QTUlDRkNaMDlGcGJLT1FsbFJnVnNaWWZheHZHYTByMlczWE1QU1dzRGVRbFhiQ1RmdTNQcEJZQzdjMlpKTTBYcDE0LXFhUQ?oc=5",
+      "title": "太陽熱ヒートポンプの世界市場（2026年～2032年）、市場規模（空気源ヒートポンプ、地中熱ヒートポンプ、水熱ヒートポンプ）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JZmJoTzRUa2x3bkFRQ1JlTkt5Z05CeEVHbE1oUjJEazNQTW9jNEFBb3gyVGRjT3dpTWM0U2R3VGl6UldKc1dOV0hYc3dWZjg?oc=5",
       "date": "2026-10-16",
-      "source": "やさしい株のはじめ方",
+      "source": "Newscast.jp",
       "domains": [
-        "env-chem"
+        "thermal-utility",
+        "construction-city"
       ],
       "terms": [
-        "pfas"
+        "heatpump-cop"
       ]
     },
     {
-      "title": "太陽熱ヒートポンプの世界市場（2026年～2032年）、市場規模（空気源ヒートポンプ、地中熱ヒートポンプ、水熱ヒートポンプ）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JZmJoTzRUa2x3bkFRQ1JlTkt5Z05CeEVHbE1oUjJEazNQTW9jNEFBb3gyVGRjT3dpTWM0U2R3VGl6UldKc1dOV0hYc3dWZjg?oc=5",
+      "title": "高温ヒートポンプユニットの世界市場（2026年～2032年）、市場規模（水源ヒートポンプ、空気源ヒートポンプ）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80bHRWTXJPZUNiRjRJVWNqdTlYNENERVFYV3hKMUREbmZOS1ltWk5NRklxb2wxM1NoTUZJTVRIUFBLSDItaG1Eb1M3RjdBSGc?oc=5",
       "date": "2026-10-16",
       "source": "Newscast.jp",
       "domains": [
@@ -377,38 +389,10 @@
       ]
     },
     {
-      "title": "前川製作所、NEDO助成事業* で開発した産業用蒸気生成ヒートポンプの技術実証を実施",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OTFsQXViZmJpYklZNmVxSVAtR3lRNmtEUkJGd3ZuaU5fZ1pkbmpBeHprWGFtMkktS1NxTWRDSm1PaVl2eUtEamRJVmMtZWFDYTFZRVpSVi0xdlE?oc=5",
-      "date": "2026-10-15",
-      "source": "朝日新聞",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop",
-        "boiler-steam"
-      ]
-    },
-    {
-      "title": "三菱重工サーマル、工場などの低温排熱利用温水ヒートポンプを海外販売開始",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92d1E0VVBuVzBsZU9aM1FWeTlENnJoaGkwX2ZUQnJiVmR4UHhaNEliOEN4YkFIM0RfVWJUZmFOYlhGU21GUXNORkFLRVRqdkVDS3lPSkMzOW54R3U2VlpBSmlnd2tsQnNXal9KdnhDS0JLak5TUTJreUNlUE0?oc=5",
-      "date": "2026-10-15",
-      "source": "環境ビジネスオンライン",
-      "domains": [
-        "thermal-utility",
-        "construction-city"
-      ],
-      "terms": [
-        "heatpump-cop",
-        "heat-recovery"
-      ]
-    },
-    {
       "title": "12月3日(木) AndTech「PFASフリー泡消火薬剤 最新技術 ～ゼロフッ素合成界面活性剤泡消火薬剤「OF1フォーム310」の開発過程とその性能設計～」WEBオンラインZoomセミナーを開催予定",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pN0M5ZnlMZWg4Y1FSZTlpVk1VazNwb0xETFZZQnRPOEdnYm9aS0xjeTlleTlGT3dRMjNBdG95SHJKY2xyUDdvbkJrd3YyWW9pb0JzRXJaT09rMXlJWlE0SGNCaE11ZnQ5Y0dfMjVRc0RlNS1WWnY3ODBB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OZUJiZ1FLTUowSlZ3MkRPaVJON2FaVDFvUWtqNm1YUHkyckpBSG9CSDJ3S0pUMUhOSWhkd2NjT3ZtV3I4cThSeG5NeTVpdW0zclY1QW52QWVUZ1ZqWHd0VWxPM040SUNhSHc?oc=5",
       "date": "2026-10-14",
-      "source": "イザ！",
+      "source": "PR TIMES",
       "domains": [
         "env-chem"
       ],
