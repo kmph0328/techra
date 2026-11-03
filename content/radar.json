@@ -1,12 +1,40 @@
 {
-  "collectedAt": "2026-11-02T00:17:05.576Z",
+  "collectedAt": "2026-11-03T02:46:16.572Z",
   "freshDays": 10,
-  "candidateMentions": {},
+  "candidateMentions": {
+    "核融合": 1
+  },
   "items": [
     {
-      "title": "〔東京株式〕続落＝半導体の一角に売り（2日前場寄り付き）(時事通信)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGMyQ19XbE8xTUV6YTUzVTJYS0VGR3REOEFlZ1Rnczg3bUFfSTBMTFRCTTlGYmF2ank4a3JGNXFXbE9Fd19QZnBZUWRMN1BhZ1k2Zm9ycXNwa1c5SlVGY3J4cmRjVWVMRGxyOGxmQ2ZaTFdOREZhUjhmWmpzV2VEY0daZlNIV2M?oc=5",
-      "date": "2026-11-02",
+      "title": "半導体エッチング薬品の世界市場（2026年～2032年）、市場規模（ウェットエッチング剤、ドライエッチング剤）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQSFB5LUJjVnlQZ0hWdW9ZYWk5OUFVOFhjc3JOOU9Zc1NLMERXcUttc3p2V29EeDg1RG1ZamJUbTV3YWxoc3NDeG5EYmFLdms?oc=5",
+      "date": "2026-11-03",
+      "source": "Newscast.jp",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "半導体株の反発で、混調安の引け後ナスダック先物が上昇",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQck1RYzVhdUZBYjR2Q1VSMEhoc05RTnFUS2xzTEFseVNzZnRWS2kzVDd5UXY0dWRHdW9EaUlqcVFoMVVOQTIwNjYxU2owRk8yVW1tZ05aQUQ5WFFXUlJrdzFENEkyalJia29hSHJhSnJiMUpoSGRBTmhjTmhiNVJERWRwM0hNR1UwU2U2bDAtUmhMdms0eUZyTTFodEI4VHVCTWg1MUNfVXpDdw?oc=5",
+      "date": "2026-11-03",
+      "source": "Moomoo",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "(NEXT FUNDS) 日経半導体株指数連動型上場投信【200A】：株価・株式情報（夜間PTS含む）",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VS2pDdHZPSTQtaE56MUxrRUxzVENvU2QwdTlpclBITmt5aGhlWnRKaGNNNk9YT0dsRUtTT0ZHUmxLNEY0elMwTmJIN2NNY0ltOGc?oc=5",
+      "date": "2026-11-03",
       "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
@@ -17,22 +45,37 @@
       ]
     },
     {
-      "title": "東京株式（寄り付き）＝続落、米半導体株安受けリスクオフ加速",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QblhoVjVpTjF4X3Z6UVZmUGpaSVQ4MlFkYVJoZVBTMFNvbnVoV1lpUlVncWswZFhpSW1wbjEzZlBHZ2NLVVZvZ2NyUThESy0xblE?oc=5",
-      "date": "2026-11-02",
-      "source": "株探",
+      "title": "半導体売り圧力再燃、TSMCのADRが400ドル割れ 台湾株は寄り付き後に700ポイント超下落",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiZWVhT3Q1NkRpTG81MEQxNnFMd1lMWWNGV0N4aDVteWJHU1h6c0xzTDRtc190dnhCTDMwYXNJMS1hVnlVMTY4WWZqNWt2VkpuNGFWcGFINlNVUjkzUmhYNTNiY2xiZnpJVldpN1BUUHFNYjZl?oc=5",
+      "date": "2026-11-03",
+      "source": "BigGo ファイナンス",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "semi-process",
+        "foundry-model"
       ]
     },
     {
-      "title": "香港株、今週は決算発表が集中：Yum China、香港取引所、華虹半導体が相次ぎ発表、米国AI大手も同時展開",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81b3RFTVB0ZEdKNXZIT1VoOU5wemFOZmMxd0Yxb2E1eDNBTHFuZExDalRhN2hZclNEbmVFX0E5bUNZOEZDNGpHN2JxRzN3WTVHTmttbVJCb3BEQ0RfMjllU0hnVVZtU3hsQ3JjTnJ6OE5Nbmps?oc=5",
-      "date": "2026-11-02",
+      "title": "AIブームに陰り、中間選挙前の様子見でフィラデルフィア半導体指数が3.37%急落 TSMCのADRは400ドル割れ",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04b3dKQlRTa2wzWU1jLVd6SWFEWVdlaFJzLUphMGpweUhGZ0xsQzlRaUJUVGFCN2lZaVBYUlhkM0hzYThXdTFJZlJ3NXhnTnJ5RGQtODlXdVlxVHlMOTI0OEFfNjlZNVl4cmVDRzRIdGIwTW5L?oc=5",
+      "date": "2026-11-03",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "AI収益化への懸念再燃、ナスダック1.07%安 フィラデルフィア半導体指数は3.37%急落し半年超ぶり安値",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FYzFSRzdXS3lfWTdXRFBPbWJfbFpiWGhrX05SOHpBUUhzT2o4Y0hRVTVHbmlPTlNDRXE2MkwxamhCZDV0a0MzVEFKWmVYdlZhSnFIeGVvZ0I0UHlsTDY0enJmTWpxakthWnV3RU9yNEZQNXcz?oc=5",
+      "date": "2026-11-03",
       "source": "BigGo ファイナンス",
       "domains": [
         "semicon",
@@ -43,42 +86,122 @@
       ]
     },
     {
-      "title": "半導体やAI関連株の売り一巡後の底堅さを見極め／オープニングコメント",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaTA0UlpxSlZZNmdXMm5PVGUxWVN6NGwxekZJQ3FTb09SZS0tam16NG5OU1V5VE1XUXdvVEphOGFQMzBtdWFUeGozaG8zd3p5X19JRFNJV19mX194aER4TA?oc=5",
-      "date": "2026-11-01",
-      "source": "株探",
+      "title": "【受講者募集】化学物質管理業務の第一歩を支援するNITE講座2026（無料）をオンデマンド配信にて開催",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9QNWJxTkt6Y0xVZDF1M3lObHFwOWViUkNKbWE5SThHenN4VkRhQk1mTXJLUVNvaS12RFhPQ25aTmp4UFk?oc=5",
+      "date": "2026-11-02",
+      "source": "Digital PR Platform",
       "domains": [
-        "semicon",
-        "supplychain"
+        "env-chem"
       ],
       "terms": [
-        "semi-process"
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     },
     {
-      "title": "マイクロンvs米半導体製造装置大手2社が対中規制で「ロビー合戦」、中間選挙の結果で勝者も変わる!?",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0NTlJSW9HOENkMjk5ZmFyaXdWWHdKZlZvaWZxb3lUMlFuY0FXbm11dmp1UWJyZlQ4R2Qwa1o0V3hGaDNJa2tyLTZzRmHSAU9BVV95cUxNcXh0ODdJWFFfSUhlY1RDVERwaHQ4ZktVMzlhaTh6ZUtnLThCcU5FZDhWN2JxSVVTOXJBNEdTMVRyZU5BWU5nb0VfRzJrV044?oc=5",
-      "date": "2026-11-01",
-      "source": "ダイヤモンド・オンライン",
+      "title": "JERA、インド企業とグリーンアンモニア売買に関する基本合意書を締結🔒",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04U2lUWGt0V20xblZIRy1QcU9ZQ05YSGJ2b3pjWG5Mc1NjOUtEMjVEc2hmUUVKcTgtVVdsVzJKeWlScXZhbUlJaFdQWGNvN3c0WEFrUUZR?oc=5",
+      "date": "2026-11-02",
+      "source": "シンガポール新聞社",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
-      "title": "半導体の超好況の逆説…ＧＤＰに占める「労働への分配」が過去最低（ハンギョレ新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45dUwwaDRsTk9SRF9QLXJPT2NQaVNfdlotTGFxam5oZGxyTUhfR3JPcWJYQlpVWUN0SU1LZ0dRdmVMNXk3RHNpQS1aN3luZDdSbm5xd2Q4ckRxcWQxb29fN3BNeDdGQllXXzU0UjU2Q1hkZkpNWmxISC1UQzNDVUU?oc=5",
-      "date": "2026-11-01",
-      "source": "Yahoo!ニュース",
+      "title": "水素貯蔵タンク用ポリアミド繊維の世界市場（2026年～2032年）、市場規模（PA6、PA612、PA11、その他）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sd2twTktENklING5SZDFOdkhzR2w2VWdDU3owLVJLdExicEktZThid25KTXJmQzFYVVpUV2E4Z0p2cWJzN1pDaDZZUlU0VmM?oc=5",
+      "date": "2026-11-02",
+      "source": "アットプレス",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "株式会社BIOTECHWORKS-H2、神戸市の共創促進プロジェクト「OPEN NEXUS KOBE」に採択されました",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hYkx5dEJMVENUNloxbS0tSnVJMHpaNm5ocUFUdmxLWDdtQ0hYVDRuaWZyeGtYbUNRWEEzb2otWndUeTZ3d2NqWW8zbWR4NndQWGFnZl9POUZIU0tTZmtxZkU3RkpuOTlzUWc?oc=5",
+      "date": "2026-11-02",
+      "source": "PR TIMES",
+      "domains": [
+        "energy-gx"
+      ],
+      "terms": [
+        "hydrogen",
+        "ccus",
+        "scope123",
+        "lca"
+      ]
+    },
+    {
+      "title": "韓国のAIデータセンター業界、電力供給の不確実性を受け「専任窓口」設置を要請",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oTXRWSW9aY0hwbjZkVUQ0Vm9iRjBELXhlZGNtQlE2dUFuX0I2S0lPQl9Va0dqM3BqUVBPcUhEdjdqNXZkOWZZRWUzYkdyY1owMUhfZXptYlVfdlgzaXVCRHpEa0FXcjZsWXdYREJvOXVDZXd5?oc=5",
+      "date": "2026-11-02",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdW1TY2VDWWxlU0NzWDBxMGpiNkg0UjRRTm0xWHNMV3dHVU94VlIwUWd3OEYyQ3pxVXlVSE1uVDlGaktNY0lRc0dvMFZad1k1Sk5IbGRuSENVOUxUT29WWmNlZkpvX1M0NEE?oc=5",
+      "date": "2026-11-02",
+      "source": "PR TIMES",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GOW9PckdDRXh1LXRqN1M4WFlUTUJiUHl3eEo3VnZZeTNudklaYzlJMXNIZzRYam53RjJjZTFQYm04QXZnNTBjeE9UbW53bFpkdG1UbEdaS0tXSXlSTzVoeFhEbU5DOGdDOEE?oc=5",
+      "date": "2026-11-02",
+      "source": "ITmedia",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "エコ革、茨城県小美玉市のコンテナ型データセンター整備計画が環境省の令和8年度補助事業に採択。コンテナ型DCへの再エネ電力の自家消費規模は日本最大級",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52RlAyaFV4X2o3Wkg0cDZWZ095WFJWaFdCX1dtU1R5cm8taEJZakhjWXNpTHEyRWdXNzJHTFlHSDBReWh6MUpzOU83MWtRcVptRnM1dy0tbVNHZkt2SE9YR2lwcFFIVURXWmc?oc=5",
+      "date": "2026-11-02",
+      "source": "PR TIMES",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "AIデータセンター電力インフラ市場、2034年に307億米ドルへ拡大予測",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfdmJySHpYU2o3aUQ0Z3djRUk3b29TZG5fUk9TUENYN0lDYWVieUJxeEZpczN1dFVwMXJEOW1RVVQyckFXaDZ3NnFQSUhLYXRqeVptSnI4eUVsdkppYUlxbmVJMTh4QQ?oc=5",
+      "date": "2026-11-02",
+      "source": "Dellows News",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
       ]
     },
     {
@@ -131,167 +254,16 @@
       ]
     },
     {
-      "title": "【PFAS（ピーファス）関連株・銘柄まとめ】PFASフリー製品の製造メーカーや対策・除去に取り組む企業、今後の見通しも解説",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pXzY0UFJsek5QTUlDRkNaMDlGcGJLT1FsbFJnVnNaWWZheHZHYTByMlczWE1QU1dzRGVRbFhiQ1RmdTNQcEJZQzdjMlpKTTBYcDE0LXFhUQ?oc=5",
-      "date": "2026-10-30",
-      "source": "やさしい株のはじめ方",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas"
-      ]
-    },
-    {
-      "title": "欧州水素週間2026：ベトナムの第一歩",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmxkS3ZMNXZ4bUQ5WDV3SWE3LTl5VzZVdW5pSHl5aGNiSE1kQnlDajRRREhENEU4UENSTUE5Q1RvVDViTzJ6UnFoOUR2NGxpS05LRFh1WVZnazBTTHljdkhnc0NKb19BOUc1S2NfMEJjcElwY1owNHg2OU9BODNzTVJLQ1NBUHdHOUpxV2pXM1BVcE5BYTBJ?oc=5",
-      "date": "2026-10-30",
-      "source": "Vietnam.vn",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "株式会社アスソラとコスモエコパワー株式会社がコーポレートPPAを締結～青森県八戸市で開発する太陽光発電所の再エネ電源を調達し発電所の運用を支援～",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zT1BLa3ZIREp1dmNyd0hkTzhRSGV5TkRHZnlHSU5xQ1BTeVdhejFVbGw4amVuVDd1c3Y2WVFpcDVRdk54ZnV1alp2SXlQNEdCdml3VA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRkk5VDYxU2J3MWtaWUFFMW9FVXNpLXRxc0praTBqUF9VM1ozR1oxRUxpSTl2ejQ0U0FWeFNQVDNRT2F5NzJxVHY1NHYxQUVSWjJDZk1XWjVNM2ZBUzZkVjVhNFpyTkkwalE?oc=5",
       "date": "2026-10-30",
-      "source": "ニコニコニュース",
+      "source": "PR TIMES",
       "domains": [
         "power-market",
         "energy-gx"
       ],
       "terms": [
         "ppa"
-      ]
-    },
-    {
-      "title": "欧州で挑む、次世代データセンター冷却――液冷システム事業化の舞台裏",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55R0ZEMzhGc3diRHNhb0lpYjR3bnFKVEJXbVJxVl9LVVpoQ2V1Mk1lZ2V6Y0RueTVuMUhXVjJUX18zdWZ1VlhoWTNvYnZRVmgyN0ZHeWdB?oc=5",
-      "date": "2026-10-30",
-      "source": "Panasonic Newsroom Global",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "liquid-cooling"
-      ]
-    },
-    {
-      "title": "｢データセンター向け蓄電池｣関連銘柄を紹介！ 消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力する“国策テーマ”！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxM0Y2TjBuNGtqdlJrYTNHeERNdEd5X2RJUEZSZnBxal92b0FXZVhBY1d2a2ZQOENMUG1ibWNGelA5ZHlmZFJ0LUJJa0s0ZHpwZ09j?oc=5",
-      "date": "2026-10-30",
-      "source": "ダイヤモンド・オンライン",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib",
-        "datacenter"
-      ]
-    },
-    {
-      "title": "EV減速の裏で急増する「電力用蓄電池」 AIデータセンターが引き起こす新たな電力危機（みんかぶマガジン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUnVxS0JDel9TYzdiLUpCZk9VUWx3dTBQUlFJb042ajhGWlk1VURSR1lPRDVjZXBMZmw3cEZtNUQtd3ZaZ3liQXFib0VzWG1NLUh6NzdER0dBUW1EOVZqdHljb3VJZzlyeDRXcVRodGxwQm5Ic1J6bmdLQkpiV3M?oc=5",
-      "date": "2026-10-30",
-      "source": "Yahoo!ニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market",
-        "battery-mobility"
-      ],
-      "terms": [
-        "lib",
-        "datacenter"
-      ]
-    },
-    {
-      "title": "フォトニックパッケージング市場、AIデータセンター向け光接続需要を背景に2035年に217億米ドルへ拡大する見通し",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ES1h5c0M4UmhqQ0xQOV9jeEpUMzNGUERKd2JNMFhjeDlOdXV6a1ZnMG90T25HUUM4azc2NDEwZUJoYUVMOXg5UGx5LUF3cHBkRlg0?oc=5",
-      "date": "2026-10-30",
-      "source": "ドリームニュース",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "NTT、光電融合と光量子で次世代計算基盤構築へ AI電力急増に対応、2026年度末に商用化 | 黃信維（コウ・シンイ） | ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00dC1tV0xTUzZLV1VlN2V5dm5rVDl1VDR5d2stVVBUaW43LXJWUTg2NldoWWt4NEppalFOdzlEdi1OemJodWFfUElzdFpCY3I1?oc=5",
-      "date": "2026-10-30",
-      "source": "風傳媒",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "【ＰＦＡＳ泡消火剤】規制開始も処分負担重く 空港保有分、自治体任せ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40T0JvM3NqQWE3UlNseFRNeFhqNlhmSzk2OUJ1djZFU3Qxd1NhZ3N6Zmg5LVhRYmRFX05NbXhlSzkwQWpDZWdKTXpFS2JsdVhIVHc?oc=5",
-      "date": "2026-10-29",
-      "source": "山陽新聞",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
-      "title": "日本企業がブリティッシュ・コロンビア州の水素関連プロジェクトを視察(日本、カナダ) | ビジネス短信",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qeFpnSnc3SEYtOHlkejVfR2ZYcVl5RFoxSWVuSW5pNlVSZ0JQems4SENDcGJSblZNbVRlbDNNVThaYkR4eV9BUGtrUTNhTEFXZVFmU3dxN0ROQ3RMS3drMXBfQWJzMXJWZjlpSWxR?oc=5",
-      "date": "2026-10-29",
-      "source": "ジェトロ（日本貿易振興機構）",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "欧州委員会、新たな水素戦略の策定に向け意見募集開始 水素バリューチェーンの競争力強化へ",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KSzkxWTlaQnpkR18yX1drSk01N3RrWTFYY1lQMDNwTG5OWFhjalpzc2xhX01kUHJLWVF2MllzdjItLUwtbm9OdVotTU5TMjY4ZGJhaHN2WQ?oc=5",
-      "date": "2026-10-29",
-      "source": "ESG Journal",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "ＦＣＪ、ＰＦＡＳ規制動向のウェビナー開催",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTHhrQmFRTXI3MHFSOGRJMVAzOUpkZ3lWeVByT0dxdHRKbktzaXFkZTdzcjhiMGg3TWdzT2ZVT2tvTllQRThyTHl6eExHVUhmR3E4?oc=5",
-      "date": "2026-10-27",
-      "source": "化学工業日報 電子版",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
       ]
     }
   ]
