@@ -1,90 +1,112 @@
 {
-  "collectedAt": "2026-11-07T00:37:43.485Z",
+  "collectedAt": "2026-11-08T00:12:58.511Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
+      "title": "GX 半導体【2243】：株価・株式情報（夜間PTS含む）",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00eDY0c2tGWFU0djhzOERNbTZWa2VnMGhiWUhKeFhnbWNmYUJLS0p5UjE5OThsQkVIQWpZb0RMWGpXUDhZdHBxSkdvWXl6cXJLTkE?oc=5",
       "date": "2026-11-07",
-      "source": "ダイヤモンド・オンライン",
+      "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
         "supplychain",
-        "datacenter-ai"
+        "energy-gx"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "ドル円見通し｜AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着【相場の現在地】2026/11/7",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CUVN3TTJ2c0ZiODlHY2pGdzlfb193NjFteHVwcUhaZFJkTVVManBHWkM1RGctMHllUXJNalZzcU8xUkxjTU92djdHellDblJKS0liaFZ2bDNITXF0T1NTTzYydw?oc=5",
+      "date": "2026-11-07",
+      "source": "外為どっとコム",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "半導体製造装置の大手「ＳＣＲＥＥＮホールディングス」 半導体製造装置の生産能力強化に向けて、長岡京市に新拠点を開設！",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QTTZUelJyTmxlSmhPMG9pNDhIelFMMFJsUUljekVIQWNUVVFXV0dpR2l2LVl6UFFYYV9RNE5Sekd0Z1daRTI5MkN5WnRtV2lsSy1sRmVnenFFNjFUNWZ0MlBIZkNBRDlSVHVZa20tWHRGWmNt?oc=5",
+      "date": "2026-11-07",
+      "source": "東京・大阪 都心上空ヘリコプター遊覧飛行",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "東広島でビジネスホテル新設ラッシュ 半導体特需に沸き3社進出、計400室超",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iX3llYnZJbnpQSEpuU1lLczBsZjNGREFPQjUyOWgya3d2M2tObWt4UXRXaGVSZzhMWGtvWkFOTjFpUDlOWkYzdTRZak5IRHdxLXVQSGxrOXlsZw?oc=5",
+      "date": "2026-11-07",
+      "source": "中国新聞デジタル",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "韓国市場も売り注文広がる サムスン9％など半導体株が急落",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82MXVkYmpQQzNjZlZWU1BVcDRhZGpFY012QmtJWWJVWEtPMllsMGp1dE9IU1R2T0lyQTY5cFNTZW5xNl9sZG9CQUhkQkR5LU0?oc=5",
+      "date": "2026-11-07",
+      "source": "khb東日本放送",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "安定を重視する半導体メーカー、混沌とした世界の不確実性に直面",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tTUNIRF9PSk9NMlBPd3Z1TWtPdHA2Ql9wY2xmRVE3d3loazNtcEZXVWhxTHhzcDJ2OGFvVDROSFY3SGdMbW1yZWNkRncyQ3FVWUw0UXZ2dU1qUUVPOWNpTmxHWEhHWUZyaThjd1RwXzVZSnNnU2RV?oc=5",
+      "date": "2026-11-07",
+      "source": "Bloomberg.com",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "欧州15カ国・100超の団体が共同で圧力、大型AIデータセンターの新規建設停止を要求",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10ZUZrNmw3ZGdJaEpjd1NIY2J0Tlh6TlpzUjZfQXQ3SnJqemNPSTZGT01yUFhhTk1UOWVYb1lKMjNlQkJuX1NzQkZGVDZ6SkNtX05JSDZmREtRRnprVmJKSFBkWG1zVVNwYjd4WXRLb2VvS05r?oc=5",
+      "date": "2026-11-07",
+      "source": "BigGo ファイナンス",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
         "datacenter"
       ]
     },
     {
-      "title": "上場インデックスファンド日経半導体株【213A】：株価・株式情報（夜間PTS含む）",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMktqQW01NHFYNTF4R1VCTUc5TUs2N2p3dndTTVQ5cmRaMmVielNUNFZvSTZHbWNHM1lWX2tqQ3NZSGVKU2RONWdMWUxXNzd2enc?oc=5",
+      "title": "データセンター主導でPFAS生産が再び増加、BMJ専門家パネルが指摘",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83T2NFelhnMmIwTnFJTlk3Z1BrN1NBcHpKS053dlBieGFJTmxvRUxiWlVjNmYxdTJfeXZCS05KNFRpYm1wWHdERlNrS1ViVDVFSDZJWnltbXFMUQ?oc=5",
       "date": "2026-11-06",
-      "source": "Yahoo!ファイナンス",
+      "source": "BigGo ファイナンス",
       "domains": [
-        "semicon",
-        "supplychain"
+        "env-chem",
+        "datacenter-ai"
       ],
       "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "TSMC、次世代半導体メモリー生産を検討 米報道",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wMFM5NUJjVGo1ckVJTUl0VTJkVXR4eU93bmJFX0VTMlZydXVrOFN5bjJzZE5ld3hCQlBPZTJFUzV1RHNuTHE3Wm5Ma2FVUnRPY3Juak54eVQzX25TbllQV0h4ay1YbWlBYkdpVA?oc=5",
-      "date": "2026-11-06",
-      "source": "日本経済新聞",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process",
-        "foundry-model"
-      ]
-    },
-    {
-      "title": "大手テクノロジー株が急落、米中間選挙での民主党勝利受け　AI開発の減速を懸念",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11dV8wbGNfZUhhUElaU0RTcks1T1VGeG1kdXBaWDJxNUVuVUJpWTB5MmswNEJreHY2WUdpb3k4U3JiUEJGNWthVjF6eEhhWkRfemRlT1FycXZuZS0tQ0szSNIBZkFVX3lxTFBhc3AxRV90d0RqR0RPcnNSelBZcENhd1FCczkwS2tYVjd2TUlyM3BWQnduVjJZTWQ0N3dqVGtlYTJUTjBVMmhKdnoxWlIxdVhNNkdYWUJrbzJBU0Z4dVBpYzVaMlhHQQ?oc=5",
-      "date": "2026-11-06",
-      "source": "BBC",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process",
-        "euv",
-        "foundry-model",
-        "hbm",
-        "cleanroom"
-      ]
-    },
-    {
-      "title": "水谷隼氏、半導体株フルレバで投資9年目最大の負け | スマートニュース",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQSC1wS05QclZSRFR5bVJDZGcxN2gwM3ViU21RSEN1dl91d3dVM3RmR0dRZXdVVmhWVGNyeW5IanhYRGV5Ry0wMy1vd0lMUW5qcUk4VlNMem5DTy1QMVE2Vi1pS0RDOGg0dk9qZDd4NmtkUEg0ZmRETU85enN4ZEVUTnBzRHVzeVlLcFpZeEM4TjFWM2JQUVdCOFZURHlmUUhZQlZ3aGtBNUJsR3dSanVfNFVGbWtjbS1VOERHRzgtUVFIdTRERHFOallSOGJUOGhfWHdQRTNhMV9wcUdvOHgwM3ZmNUNOQnc1V0RqQVRjaXV0ZU45OHlzb0Z0dklSSXp1UllxdTZKVUlkZS1vOHhPc3VOUUkxUkt6WTNFVVBDbF9zRkYwVlAxLXFnMmdFMTVyNkpqQkV0N3ZDU0Z3bFJBb0prTENvSGpmZ05tdUFDY1Bka0VlMmNtZjgxRzV0c1lhUDZqYjR6UF9ZZ3g4R3BLSHgzR3Q4UW5scnYyWlBxZHo?oc=5",
-      "date": "2026-11-06",
-      "source": "SmartNews",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "米国株式市場・序盤＝ナスダック反発、半導体株持ち直し",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEhuMENaR1NhTVlSSFZWb1ptaE5kVGtJcmVSbHpJdUJxUU9ZTF9iVkFab2J0cW9fWVNPeVRGcXhwdlpvX0lnNkxKQmpKMlF0cDJnV291Tld5eTdBQlFDcHczejB0MUJoRTNGaEh0clplMmpOUFUzUmVQZ3FDZDJOaTJ1ZHQ0QQ?oc=5",
-      "date": "2026-11-06",
-      "source": "Reuters",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
+        "pfas",
+        "datacenter"
       ]
     },
     {
@@ -115,10 +137,10 @@
       ]
     },
     {
-      "title": "レアメタル不要のクリーン水素製造技術で低コスト化へ 旭化成と米企業が協業",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zNFZhd3B5Q21qQlN6Tk5qb2puNkZtb1dDekFHRlp6THJfOVN6dFJfbmdSZ2Q3U2toT1VOU0o2OWo5aFlWZi1oM3hGeFZOWV82Qnk1c1BXUUVjd1YweHRCZFpSeDBZaVBqSmR5LTRFdTNzN21TdmJHMFZiTTE?oc=5",
+      "title": "PSA水素精製市場規模、2026年に792百万米ドル拡大確実",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ndzNiOFJQTWc5M25QdXBLckM2cXZuU2RudTRNaTIyTV9EaFFpcWFZQUFBVFJBV1hTMkhHazlOS3RSOWhxMGFRVndyTWhCeEVKV0NjSFM0VUhQbVdHVDlJcnRjY1Uzb2FVM2V5ekZCSTJRck50aDVHVFhoNA?oc=5",
       "date": "2026-11-06",
-      "source": "環境ビジネスオンライン",
+      "source": "ニコニコニュース",
       "domains": [
         "energy-gx"
       ],
@@ -127,10 +149,10 @@
       ]
     },
     {
-      "title": "PSA水素精製市場規模、2026年に792百万米ドル拡大確実",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ndzNiOFJQTWc5M25QdXBLckM2cXZuU2RudTRNaTIyTV9EaFFpcWFZQUFBVFJBV1hTMkhHazlOS3RSOWhxMGFRVndyTWhCeEVKV0NjSFM0VUhQbVdHVDlJcnRjY1Uzb2FVM2V5ekZCSTJRck50aDVHVFhoNA?oc=5",
+      "title": "三菱化工機の水素吸蔵合金配送システム、陸上養殖モデルの実証事業用に採用",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRai1weHZxMjdpTThwckcyU0dZTDhpbmhyMnJMbkhjSDRudndIMEVuek1KMU0yWjVobjNtMHZtRmxRM2JldDNpN0x0RFlPaXBsTnBhVHl6WTlwaHZfM1R0YUhVQm9oWVFvZFE?oc=5",
       "date": "2026-11-06",
-      "source": "ニコニコニュース",
+      "source": "PR TIMES",
       "domains": [
         "energy-gx"
       ],
@@ -179,10 +201,10 @@
       ]
     },
     {
-      "title": "NVIDIA、古い通信施設130棟をAIデータセンターに転用か？約1GWの電力活用を構想",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BNUM0bDhTNGdsOTFPbV9JZ2dnVmhuemR0WXpNYkdXb0R4SkNIeHoxZmU1YlFEbTN0c2NmSDJRS2V2bU1XN3dBV3gtYkw4OFphWFQxWDg0cUYyUm5lbl94WS1pNTUwQ1V4VzEtVi1oNHhBUQ?oc=5",
+      "title": "「AIデータセンター」約９割が首都圏と関西圏に集中 住民が提訴する事態にも ルール整備追いつかず「事業者のモラル任せ」が現状",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRGllcXRHbjVMS1pLMzh6TmhrQXNOamhxMVBrenYwMXNDUkhPei1uUFpJbnVxV1Q1ZHBhM2hkUUJZQkVYTi1PUzBzSi1yU2Q0V2xuNFl2bnBBQjd1VHNDZ3dR?oc=5",
       "date": "2026-11-06",
-      "source": "XenoSpectrum",
+      "source": "朝日放送",
       "domains": [
         "datacenter-ai",
         "power-market"
@@ -205,28 +227,15 @@
       ]
     },
     {
-      "title": "「AIデータセンター」約９割が首都圏と関西圏に集中 住民が提訴する事態にも ルール整備追いつかず「事業者のモラル任せ」が現状",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRGllcXRHbjVMS1pLMzh6TmhrQXNOamhxMVBrenYwMXNDUkhPei1uUFpJbnVxV1Q1ZHBhM2hkUUJZQkVYTi1PUzBzSi1yU2Q0V2xuNFl2bnBBQjd1VHNDZ3dR?oc=5",
+      "title": "サプライチェーン・マネジメント市場調査レポートは、包括的な洞察を提供し、2026年から2",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vbzhQVjhGaXVGRlg0V05fQ0xoaVNNbm1hM2hLZkN3MFRNanBBMW9yRnhDWmRfZ0duQ2JJalJEd1BTZlR1UEhOY0F3?oc=5",
       "date": "2026-11-06",
-      "source": "朝日放送",
+      "source": "pando.life",
       "domains": [
-        "datacenter-ai",
-        "power-market"
+        "supplychain"
       ],
       "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "韓国の水素部品技術に海外バイヤーが関心…政府予算はむしろ縮小",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iQ0hfT1VvczB0anEzajRjLWY5SWFla1gtNmNNd0hocGNabjFlSWtXd2dKVGg4MHE5T0hxWHRaeGJGczdldWJ1OGxfdFlnR3Q0bWxaaHhhSXhmb1FjY1VhUkt4NnV3aHI3ZnBUTVV4WWVETGVx?oc=5",
-      "date": "2026-11-05",
-      "source": "BigGo ファイナンス",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
+        "supply-risk"
       ]
     },
     {
@@ -245,21 +254,6 @@
       ]
     },
     {
-      "title": "バイオベース塗料市場―2026年～2032年の世界市場予測",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80b19wVHBzUllaSXk1bTlMc1NDWTJQaFBCQ1JWZ1JiZEFtd3lRRW9OU1BpOVhnZEh6LVNHSXltejFKMHNRWUVIbUQ3SjRldw?oc=5",
-      "date": "2026-11-04",
-      "source": "アットプレス",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
       "title": "カーボンニュートラル実現へ 優れた取り組みの４企業を県が表彰（とちぎテレビ）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mRk5HN25XS1YwWVhQSmljVlYydFdmU3dUeVYyWmh5V1JZblhSWnkyUTdpTVNDRUJGSHFZeUZXeExFdV9kR2NUbXBuZXluSDk3LUwwOHZhQzhRSmJiaHZVS2ZoTEtKeGprdjBZbnB3R3lkMl9Cc0hGRmZsS2lmNzQ?oc=5",
       "date": "2026-11-04",
@@ -275,17 +269,15 @@
       ]
     },
     {
-      "title": "11月4日のASML Holding NV (ASML) 値動きは3.09%下落：主な推進要因が明らかにされました",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlVhTktKRDNtTk1IVmRXMi1fakdjUW9TcWFySmRJejh4MnBKM0FrNDliOV9fcVdrXzJ3U3pELWFvVDl2eTBpRnptUl91QUdIREk4MEFXSUFqQ3R0Z2FrZGtidUp3V3JHWERhZ3ZGZXY1bXdleDd3bmRHdDJ5MFFTRExQTUtOTUxOc0JJLUJLOA?oc=5",
+      "title": "日本製鉄、水素100%で低品位鉄鉱石から直接還元鉄の試験製造に成功",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTNnU0LXJKNmh5SmNJUkE2SDR6SVBMT202UG1iQUJXNWktMDZOa0dhRmoxOUV1aERPSG1QU09rZzl0WkNucEhqWDJFOVJZQm1LUnJ6cW0xU1p2R193eS1DVmdBZm01c212?oc=5",
       "date": "2026-11-04",
-      "source": "TradingKey",
+      "source": "マイナビニュース",
       "domains": [
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "econ-security",
-        "supply-risk",
-        "foundry-model"
+        "hydrogen"
       ]
     },
     {
