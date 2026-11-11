@@ -1,85 +1,151 @@
 {
-  "collectedAt": "2026-11-10T03:11:33.515Z",
+  "collectedAt": "2026-11-11T01:01:18.627Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "GX 半導体【2243】：株価・株式情報（夜間PTS含む）",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00eDY0c2tGWFU0djhzOERNbTZWa2VnMGhiWUhKeFhnbWNmYUJLS0p5UjE5OThsQkVIQWpZb0RMWGpXUDhZdHBxSkdvWXl6cXJLTkE?oc=5",
+      "title": "AI需要は半導体市場をどう変えるのか「スーパーサイクル」を読み解く | サイエンス リポート | TELESCOPE magazine",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMHFEUVgwcDEyRi1iUUdDZHpZV0t1ZnRSVUlqNHc1bzlZN1ZkSUNfc3pZRFRlbnpVQ0daaHlXbl9ubVJZNzYyd0lTeDFzYmFkc19rZlN4MmFtMmZOUnh3TTB0RkhyQQ?oc=5",
+      "date": "2026-11-11",
+      "source": "東京エレクトロン株式会社",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "ニチアス－買い気配 上期営業益41％増 半導体関連向け需要など堅調 増配も発表〔DZH 個別株情報〕(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMklid2IySDFZdGZHZkRSa09MRGpXZ3A5MXNSdDBDRW9IRWZoQ0lGdElkMVVuWk1iUmdqa1prekxPMHlKbXA1UDJKNkVFOHVmMEltRktIS2dLMm55Q2ktamVZa3o5NF9sdlBMOXpOWmg2bmVSd1BKTUltbHk1U3dqM3FaUV91aE0?oc=5",
+      "date": "2026-11-11",
+      "source": "Yahoo!ファイナンス",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "SaaSの死から再起するITサービス株、AI相場一変で半導体株と攻守逆転",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pdERYNWlfaGgyYUJNNGF5S3VxRHBVX05fT01wQ1BIQnNHNmNqbTRGNE54UGQ5cnI2c2lkYzRJOGpOZVFmTjkxT3k4cGNSVHNOWTBGWml1ZlZ5VlhwdGp5eXJJbk9fb24xOG9ybHJWR3JhUFhi?oc=5",
+      "date": "2026-11-11",
+      "source": "TBS NEWS DIG",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "台湾積体電路製造股分有限公司【TSM】：株価・株式情報",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xdTcxNWFHTmcxM1RUcWhCWktEeDJHeGc1eEFjZ0FqUWlhT2laQmRtcW1DNk1LMDZBOVMzTjNxUW5oVnB1SlpGQ0hGc3ZDZw?oc=5",
       "date": "2026-11-10",
       "source": "Yahoo!ファイナンス",
       "domains": [
         "semicon",
-        "supplychain",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "euv",
+        "foundry-model",
+        "hbm",
+        "cleanroom"
+      ]
+    },
+    {
+      "title": "先端半導体の量産化、１年延期案が浮上 ラピダス、開発難航 良品率の改善にも苦戦か",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oeUg0M0JOWG1NbHYzLVFZNzU5N0NFTU04X056bjZvVHVVTkxiTnBaY3VPcHlJSFVqa3V5dHkyOG16Zlp6Wmd3bC1lY3kyR2NCakgtcmF6bU5aUC1ROXdNV0FJYw?oc=5",
+      "date": "2026-11-10",
+      "source": "時事ドットコム",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "米議員、対中半導体規制強化を要求 スパイ疑惑受け",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEpHWVZ2THdiUlZNMmdERnJtaUY4TW5UWmVseEo1anNONUVXdEdyMW9LZTZtVUtoMmt2SFZzQ3paTTA3Z0F0bzJvU25kX2hMSWNKanYydmUyRUZYYTcxUnhXdFZIZjJibnZ0eFpFUkx6NDdLQ2gzU2NwbTB0TWdJZml1RzM3SlE?oc=5",
+      "date": "2026-11-10",
+      "source": "Reuters",
+      "domains": [
+        "semicon",
+        "supplychain"
+      ],
+      "terms": [
+        "semi-process"
+      ]
+    },
+    {
+      "title": "ニッケル水素二次電池の世界市場（2026年～2032年）、市場規模（円筒形セル、角形セル、ボタン型セル）・分析レポートを発表",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TYUJ4N3RqX3hXX1J6ZHNBWV8ydGRxcmxKZjV2MUwtYmZGRGlHaHJqNDVKQ1RpX2taU012Q1dUcHotMlF4bHl0YXlBbzhFTkk?oc=5",
+      "date": "2026-11-10",
+      "source": "Newscast.jp",
+      "domains": [
+        "energy-gx",
+        "battery-mobility"
+      ],
+      "terms": [
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "世界アンモニア触媒分解装置市場調査2026：2032年495百万米ドル規模を展望",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45eFgzX0xBNjc0QVc5Y1pBUGdyelB2Yk4zVHllRmRvVjFmNFdieXkyNm1XN1JnREdCS0NXVWdqcGdrWVBNV0ZOeXp5X0syUGdCZGZN?oc=5",
+      "date": "2026-11-10",
+      "source": "ZDNET Japan",
+      "domains": [
         "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
-      "title": "日経平均、一時6万円台回復 AI半導体に買い、原油価格下落も好感",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MVXpyQUZRODJjNDk3YUVvb2x0dGlITjBNdUZsbHQ4RUQ0NEhlbXd4bUhHQkNoYUxuUUtteU1YTzFoSjJiMkZwZktIUjF3ZW1iM0pVMzhibUF3V1I2WlhVMzFpbWJuXzg?oc=5",
+      "title": "ErreDue、宝飾品メーカー向け水素・酸素プラント供給で50万ユーロ契約を締結 - ニュースと統計",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRXVTNnBKNHpCUDN5bzgtd3FfYzVnZVExTXN3cmFVX1BnSW9zdFMtSUM3c0ZNeXV0Tm0yc1I0ak50djU2YnE0VVFqdk00SzlsR2otN01rd0VaS0I5cS1SbmF4NWU5eWFuNVR4S204aDdwS1RTdE9hZF9WYnVnNlNYa1NKVkJmX0RjRm4wVHVvVlpjejV3OTdIaw?oc=5",
       "date": "2026-11-10",
-      "source": "朝日新聞",
+      "source": "IndexBox",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
-      "title": "エヌビディア 半導体の中国へ流出疑惑 商務省の捜査に介入疑い 米メディア",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CX0d4Q0NneS1laklxTjluUVdZX3g0VDE3OWtfdV9Ic2EtTTJjYzhxbk8ydnctT2VfZk9nSnVwZ2dWYm1adW5tY0lONzgtcmtyWWFiSWJUVDZ5bEZXTXc4XzRQTU1DTjhmZ3I4WXZZS2tldlh5YWE0aDRn?oc=5",
+      "title": "H-Power、アンモニア分解装置のProtiumへの供給で基本合意書に署名",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2hrSTJUTTBWbUxhOVJldnhRVjliWFgtX21lVU52ckh0bVVUckFUTTYxaHZyaDZEY3JUb2pCekhhTG5nV19ZbGJSVkpFeXdCWklKUUpHbXo4YVdKQVBmWjVSZ1lmWUc4ZWFLdUZaeG52OGVRNVVsb0JnNTV0WGRrN1AzMVg3cV9YVUh5QzJPMUpqODU2N0tpSUpleVJyRnc?oc=5",
       "date": "2026-11-10",
-      "source": "テレ朝NEWS",
+      "source": "IndexBox",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
-      "title": "GoogleのAI半導体、4種類に拡大 NVIDIA対抗でクラウド向け外販",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUF90WGpLSG9LS3RGY0hReFRuNmVUeDNvekJObTh2aVVFMUs3emVOTWFybnlFTTNWTjJ3aEdfSzNBbkJJV2IyT2lXRVRoNzl0ckZuNHliNDlZUnFEOW1MUXJfb3lPNmtwTFhyYw?oc=5",
+      "title": "現代自動車、World Hydrogen Expo 2026で商用車向け水素燃料電池システムと充電ロボットを初公開へ - ニュースと統計",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2pLUDdsVGEwbXdRSS1nbUkwRXpJZDd6ZVBiMkppS1F4NjF4TkdKZlVBYWowWl93WW10b0xBZEk4QUZTOTF1VnNlN21mQzRzT1phMGFQaTRoSzd0Q0pvN1VDem9HVEkySTk0OWw5dlpzeGp4aTJidURacXRNdWdiZ2VfbDdNMkZrOVlpNzZmRnNaWGpUUmM4OGp0djJBSE9vOWt6bm5kamd0U05wdUEtSHJScEd5dTZi?oc=5",
       "date": "2026-11-10",
-      "source": "日本経済新聞",
+      "source": "IndexBox",
       "domains": [
-        "semicon",
-        "supplychain"
+        "energy-gx",
+        "battery-mobility"
       ],
       "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "安田秀樹【ゲームと電子部品は脱AI・半導体相場の受け皿となるか】",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tb2JKeFZPc0ZmRVRSQ2ktUjhtZmowY29HcEh3LXhqTmlxeGxXOXhOR1I3LXVfQnI5NWFYM2hyWFVsQmNQWm1hREIwc3N3VzlGam9tXzZTcTdzT1FZQXJsdQ?oc=5",
-      "date": "2026-11-10",
-      "source": "株探",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "島津製作所が半導体製造装置向けTMPのめっきライン増設、生産能力2倍に：工場ニュース",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmMFZHeGxSVUZRS21sUERNaGNUR2dEVWdMaUFkaWI3Z01qSU43WkFFQ0k3ZFpvYldwSzhhNUhrREZjVHM5RHdSV05QMTNGZ2x0bWNGX2Nubk03Zjd6ZjJFWDc2S0hsNlY3dGhyd0dHYw?oc=5",
-      "date": "2026-11-10",
-      "source": "MONOist",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
@@ -95,6 +161,33 @@
       ]
     },
     {
+      "title": "COP31とAI計算基盤の電力確保―学習・推論の省電力化とデータセンターの総電力消費量・排出量の把握 #エキスパートトピ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVM4VUoxQ3Z2VENoTzMxeXJrRjVLUUM4VWdaLWl5bThUZHVJNkZ4dVlYQXFHa2U2R2F4YzVOQUVnLVpocTE4ckQxaTFBdVRRbDJkSlVDTjNVOW8zQnhpNWgzR0dScDZGUEFvSVE0bF90MTlDUFFjNEVnS0QySWY5ei1uZHBsV0pr?oc=5",
+      "date": "2026-11-10",
+      "source": "Yahoo!ニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market",
+        "energy-gx"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
+      "title": "「データセンターの冷却方式・エネルギーマネジメント」と題して、株式会社ザズーデザイン 柴田 博一氏/三井情報株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5MVJzVkZGZ2hZbl92eThZWkJscjhlRGZQYk9RYUVZcnhRd0lfUlFGUkV5NDBCQlNIWXhIYnFwenJOcHpET19SeF90Sl84MzdlQUNqRUY2OHlCLWtuZ3lpb3dZZUM4NlZQ?oc=5",
+      "date": "2026-11-10",
+      "source": "ニコニコニュース",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter"
+      ]
+    },
+    {
       "title": "米中間選挙でAIデータセンター建設が争点に Googleが170億ドル投資、OpenAIは電力費全額負担など地域対策を発表",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10MWZJWkVfSV9nWWEyZkthNE9KMllEcFBTMFJJOU1KSGpnM1Y3X0o1X1E4THdCekhocXZFOWhmTkVRTlNLb2xHZjBqNFh3NEdoX1VyVHRocWIyVnZ2YzVJOU5sVTZjOW9qM0wwZzNGcGFzc3NJTVl3WQ?oc=5",
       "date": "2026-11-10",
@@ -105,6 +198,22 @@
       ],
       "terms": [
         "datacenter"
+      ]
+    },
+    {
+      "title": "MemryX、低消費電力エッジAI推論の拡大に向けMX3+を発表",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1U4RmpNQVV6QTdpTU9yeDR1eFB1ckVLQjNnYlc3bi1tY2JGRWx4cG1oTTNucVdZVTc5OUlJRkZXNnZNZXFDZ3FWbGxXQUh2bndGNWhJN1k5cUowZ19qSmRrcXFqcExCcXhIanZ5REpoYTE1MGRCeVdVZ0xPdlJSdlVnUGg4TC15VHozT3lDMkc4Zw?oc=5",
+      "date": "2026-11-10",
+      "source": "Unite.AI",
+      "domains": [
+        "datacenter-ai",
+        "power-market"
+      ],
+      "terms": [
+        "datacenter",
+        "pue",
+        "liquid-cooling",
+        "hbm"
       ]
     },
     {
@@ -124,15 +233,17 @@
       ]
     },
     {
-      "title": "【AIデータセンターから遠隔操作まで、次世代通信技術が一堂に】COMNEXT ［次世代］通信技術＆ソリューション展／リモートオペレーション EXPO 12月2日（水）～4日（金）東京ビッグサイトで開催",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhaV85eHo3VDdrOTNmMDc1TllzY0Q1elRvaUdJUzlFdEFSTXRUR0xnZ0RLaVU0Wjc4cE52UG1INW1qMEp4THJXMXJQSngzREZBb0Q3OTFBLUNMQkl0eFFKOFVLM21jaE1MV1E?oc=5",
+      "title": "NVIDIAからGoogle TPUまで、OracleのAI半導体戦略とデータセンターの進化",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UOGV6OVA2Q3QwV25FN3dJb3B2b0Jtd0NQVVVkWHJzRG1sNzB4Vnpfak53VkZJakp0Y2NFRFpmVVFpTkZ6Sk10Z1k0cXJYWndsdEdpVWJCSUpJLWZRbVJrd2ttbE1EOFky?oc=5",
       "date": "2026-11-10",
-      "source": "PR TIMES",
+      "source": "マイナビニュース",
       "domains": [
         "datacenter-ai",
-        "power-market"
+        "power-market",
+        "semicon"
       ],
       "terms": [
+        "semi-process",
         "datacenter"
       ]
     },
@@ -161,57 +272,6 @@
       ]
     },
     {
-      "title": "無水フッ化水素酸市場規模、2032年に13億4,220万米ドルへ――半導体・冷媒・フッ素化学品向け需要が成長をけん引",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aX3RCaWtwSlY5bVh6X0xHbzRvVUlVYWhMbkRCX3BRMDlrbWFncnlva0lSUGhoRmdKcTI2OEtONGRHM0hfUXg5VTBsVDBrTHM?oc=5",
-      "date": "2026-11-09",
-      "source": "Newscast.jp",
-      "domains": [
-        "energy-gx",
-        "semicon"
-      ],
-      "terms": [
-        "semi-process",
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "三菱造船、アンモニア燃料システムが日本初認証 –",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jVXhWcklKaE4xVWI3MFpEeUhXR2ZMLVpmVTJNYjYyRjE4dnFHcENEc3dqdDcwOF82RkZKbVFMLTBOV21rUkF2S1RpZF9FZ2pJVnMwanY0Zw?oc=5",
-      "date": "2026-11-09",
-      "source": "電気新聞ウェブサイト",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "【中国】「グリーン水素」産業の夜明け 商用化へ段階移す、日系に商機（NNA）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QYnlrUjg3RDVubGU0X01fTUh5dU1FQnphVDA4anRJTEl4XzVlYXdGd1hWQmhJclZvUHZFeUZ1cjduQ1VUX3dpeG1HbEZlRjJaS1lPbjBUVjJ4QV9HZkxrY1MyeXF4Z2VOeUdpdE9oeW0xbzdOOTFjaGZ2aDQ0TXM?oc=5",
-      "date": "2026-11-09",
-      "source": "Yahoo!ニュース",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "アンモニア分解触媒市場、2035年までの予測：アンモニアから水素への転換と燃料電池需要が成長をけん引",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVlNiQXlQdXZMT1pudmhRNWJfQ3dWZEFGdzhUa201bU1FdHBrdWxpMmt6TEZKaGFPSlZoQWx5RjItZVlOYkNRa3FONnhPVmRnT19QYzZMV3dOa1g0NTFKU3NHa1pZdWI4SnhJSG9MQjF2Z0VfVFhDWmdKWV9neGJCQ2htZTdsSFFVVTZwSTVvQklQWTdTOW45SUNOWFdkU2VZNnRIc3A0NXB4Y2ktNWYxTVJJVmZpYmZ6Unlvel9CZ2kxemsyTjV0X25QMHN3Yndh?oc=5",
-      "date": "2026-11-09",
-      "source": "IndexBox",
-      "domains": [
-        "energy-gx",
-        "battery-mobility"
-      ],
-      "terms": [
-        "hydrogen"
-      ]
-    },
-    {
       "title": "北海道電力など、苫小牧・厚真地域の低炭素アンモニア供給拠点整備へ新会社設立",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wenNBUE9saWtjNS1kblItNXNDS3FXX0g1Z1V0MVBZcVFBc1VkaGlCeXFiYU5MN2pqMHluOGYwOXMzTVVfbmloOVdvYlpjWE1ORXc0UGRvWk5RUEFOTWkyb2l4ZVBnRHYz?oc=5",
       "date": "2026-11-09",
@@ -221,68 +281,6 @@
       ],
       "terms": [
         "hydrogen"
-      ]
-    },
-    {
-      "title": "超高純度フッ化水素酸市場規模、2032年に2億9,401万米ドルへ――先端半導体の微細化と高純度洗浄・エッチング需要が成長をけん引",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4WEZXVWJkSjVyOGFwakFQd2x5WXd3U2RLWFBrblFzdHd0b2lrb3JJN19PWnU5VHd2U2dnd25WaGpra3lkbm1BU3NySlg2Ymc?oc=5",
-      "date": "2026-11-09",
-      "source": "Newscast.jp",
-      "domains": [
-        "energy-gx",
-        "semicon"
-      ],
-      "terms": [
-        "semi-process",
-        "hydrogen"
-      ]
-    },
-    {
-      "title": "サーバー冷却｢逆転の発想｣ パナソニック、廃熱を再利用",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tOG9mS2pLSjFtTUhnZzc3R0l1MmNHM2tjUVUtYzI5b1RrSnRwbWpJVjl1ekROcXhyODd5cFZId1R2MDI0VzNJUmptbFRjZ3BWa3paSTNCRkFxUG9GQk9CT3VLRjhOVmNMcWF2UTJNVUZzbTZfUmtB?oc=5",
-      "date": "2026-11-09",
-      "source": "日本経済新聞",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "生成AIが加速させる光インフラの技術革新、見えてきた日本の勝機",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCTFB4clgwU0gtMkhERkJtcnVVS0ZiVkd4RU5rV0JJNFV1NzJibVNET3ExNjUyX2htTjN4WDdsbnR1dTVzSVI2MTFEZ2I?oc=5",
-      "date": "2026-11-09",
-      "source": "ダイヤモンド・オンライン",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
-      ]
-    },
-    {
-      "title": "AI時代の光通信を動かす、世界に誇る高精度のガラス部材",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTODlkd0hHempXTzJYSWwwSGljMWVWMVdDR2I3RXhvSHF3Z1U3a2hDemxLQmZ3aHA3bnZZem1HT1FHRWw4aDRmcThBY1I?oc=5",
-      "date": "2026-11-09",
-      "source": "ダイヤモンド・オンライン",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter",
-        "pue",
-        "liquid-cooling",
-        "hbm"
       ]
     },
     {
@@ -296,18 +294,6 @@
       ],
       "terms": [
         "semi-process",
-        "econ-security"
-      ]
-    },
-    {
-      "title": "【セミナーのお知らせ】日経MOOK『最新動向で読み解く 地政学リスクと経済安全保障』出版記念セミナー",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTC11Vm5ET3VVWUtmQjV3SUNpVGpwYjBvc0x2eERYRHpRT2JLbmdkeUdtc1JqTUtxZGxyd1JpVGlqVUM3eFJLLWREeG9zSnExendwX2Z6YUJheGUtLTJGenozcXZGU19fYWc?oc=5",
-      "date": "2026-11-09",
-      "source": "PR TIMES",
-      "domains": [
-        "supplychain"
-      ],
-      "terms": [
         "econ-security"
       ]
     },
@@ -333,6 +319,20 @@
       ],
       "terms": [
         "econ-security"
+      ]
+    },
+    {
+      "title": "エヌビディア見通し分析：ジェンスン・ファンの「スパイ事件」、議会調査、AIバブル懸念の中でNVDAが直面するリスクとは？",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOemI4MU50SkhVUXE5eWx1MjlIX0JVNUI1c0hvN3V0Wlg3eGxxMl9yNlJjZ09kV0hWbzIxZzZFbUhRVk5ZeVVPWENHMS1ZaHRfVVUtSlF2Ym9PZHBOSEdHQjdja1luRnlJR1FMUTJpemh1amZTeVlhdmpKVkJRYWNmX1lQTktQTW5GZWk0Zmx2bjJwanUyR2RZcWxybFhQNFdCS1M0eUdGLWtiSjlzMXNjOGdRMi1ObVhsM1dKMUE0QV9fWVk4UklXRW1seE1QUTJ5VUxhdGJ5cFBpaEplY21zWFpNYkRyQQ?oc=5",
+      "date": "2026-11-08",
+      "source": "TradingKey",
+      "domains": [
+        "supplychain"
+      ],
+      "terms": [
+        "econ-security",
+        "supply-risk",
+        "foundry-model"
       ]
     },
     {
