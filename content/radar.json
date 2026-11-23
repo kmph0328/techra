@@ -1,13 +1,13 @@
 {
-  "collectedAt": "2026-11-22T00:58:02.791Z",
+  "collectedAt": "2026-11-23T01:24:36.799Z",
   "freshDays": 10,
   "candidateMentions": {},
   "items": [
     {
-      "title": "(NEXT FUNDS) 日経半導体株指数連動型上場投信【200A】：株価・株式情報（夜間PTS含む）",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VS2pDdHZPSTQtaE56MUxrRUxzVENvU2QwdTlpclBITmt5aGhlWnRKaGNNNk9YT0dsRUtTT0ZHUmxLNEY0elMwTmJIN2NNY0ltOGc?oc=5",
-      "date": "2026-11-21",
-      "source": "Yahoo! JAPAN",
+      "title": "輸出「1兆ドル」の韓国…半導体除けば世界8位（中央日報日本語版）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1bjNpUWVTTHByWE45WmFnTFR2SllHbDZROXpabzdrM3hOR3ZMOFpsRDhrT0F0dnB1a3dnWDBzYi16TF85R3V0cGNtVFhFMFhLYTU0bGxzNmdHcWpieUZweUNkT0VOTE5JNERwUUVsZ19ycTdIVURUSXdOLUdDQ2s?oc=5",
+      "date": "2026-11-23",
+      "source": "Yahoo!ニュース",
       "domains": [
         "semicon",
         "supplychain"
@@ -17,35 +17,23 @@
       ]
     },
     {
-      "title": "SCREENやオムロン、インド市場に続々進出 半導体関連や医療に商機",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mdndoa04tTXFWUHV1Qkt0VU43NkhmRkdjMmJkZDNpMHVVbk4yeWpMYWxjNFVNU1RvU3UzU0dqRlE2NEVrWU1nMzkyRVl2NXJ3ZVhBMHc1TU5Vb05VNVNaSHpGWVRwSVdPQXhWSg?oc=5",
-      "date": "2026-11-21",
-      "source": "日本経済新聞",
+      "title": "メモリー半導体、20年の長期契約時代へ…「スーパー乙」に再編されるAI供給網",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vd2pBeUNpdjNGNHlEU0NEaG1UT29qN1ZvN1lQdXc2bkl3dTFEVzYtcHUxQ2FVUkJLQWJtdGhHUWhaWklTbk92OHBDVDIwdm85QzA0TkVuS0FRZENNQVBQUFBxaXdnMDRrZDZTZlpDWVRCS2hp?oc=5",
+      "date": "2026-11-23",
+      "source": "BigGo ファイナンス",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process"
+        "semi-process",
+        "supply-risk"
       ]
     },
     {
-      "title": "国内株式市場見通し：短期的にはAI・半導体関連株中心に売られ過ぎ感への意識強まる",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wdnFxZURYMkpySzBKRmhVT2tpcUdCdzA5TXE5S2tZRHV4cGVLUHJRMFFXQ2NXWWprRkZUZ09uemhtWGVpRU9KUExwaGw4Q3NXVGN1RUFzR2ZBeHhvNkpXOA?oc=5",
-      "date": "2026-11-21",
-      "source": "株探",
-      "domains": [
-        "semicon",
-        "supplychain"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "台湾、終値割れ空売りを禁止 半導体中心の指数は5営業日で17.5%下落",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQzQ4WW1QaE9JQ3ZfQVhYRXQwaVNaX0pCSC10bXhKMWQ5MlhPM2U4RUdadE81QTY3S2pSOENSMVZZQXYtcVpnTmgzXzhVMnpkMjhoX00tTnpuZWx5amhhcVNkallObHNYTlZIeTR2MTlyWkct?oc=5",
-      "date": "2026-11-21",
+      "title": "Nvidiaの対中半導体販売論争で米議会・財務省が同時圧力…トランプ「国家資本主義」の試練",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWW41N0oxQmJnUEJkTTVJdWkzRHo4dVRqUGdFcVhTRHkzbnJ5RUUtcjRCb0wtMFcwcVJKUDliMVIxeUhiYkdDdVNnbkFVX0hNSE1JdXYtakoxWXBpbFVob09zd3ZaRktJRzNSSkprTTZzM3BK?oc=5",
+      "date": "2026-11-23",
       "source": "BigGo ファイナンス",
       "domains": [
         "semicon",
@@ -56,10 +44,10 @@
       ]
     },
     {
-      "title": "金大、人工衛星にダイヤ製半導体搭載 世界初 ２８年完成へ｜社会｜石川のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zbUxSNTdTTEU4SE51MUo1TlMzLVR0R1ZGUXBnc3dybzBVNldnSk1SbjE0UzZWNTdYc3E0bkVsTHl0RkgzVDM2QlZfdURYdHZZSmRGVS1adw?oc=5",
-      "date": "2026-11-21",
-      "source": "北國新聞",
+      "title": "韓国輸出、11月1〜20日は倍増の774億ドル 半導体が牽引…年間1兆ドル突破",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wb2xXcm5BNkpHOEVDWHpCeDlfbWx1VjVWQnltSno3dVNuOXQ5Z1A4UXhVQ0ZYNjEzWE13WkNtY21xNkRsOFFNeEFMcXYxcW1nUkgycVRqb1BqVFo2?oc=5",
+      "date": "2026-11-23",
+      "source": "亜州日報",
       "domains": [
         "semicon",
         "supplychain"
@@ -69,56 +57,84 @@
       ]
     },
     {
-      "title": "来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円！ 11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YTm96TE1rTnF5NzVOR0M2cnJMY05ZbGVNUU1ZZzlWNFVHRDJ2WlYwS2ladFhpWlJuTzlNTjhXczRQMjR5VFFUalI4QTUteXBmQUdv?oc=5",
-      "date": "2026-11-21",
-      "source": "ダイヤモンド・オンライン",
+      "title": "A株市場前ブリーフィング | 米国のフィラデルフィア半導体指数が11%近く下落、信用取引の証拠金維持率下限が80%に引き下げ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWE9wQXdqSldtWDZZdlZkU1hMc1RTYjNVNFNLNlRyQ3RLWXNhMFl0RE5yc1Fxc3Vxa3lacFB3aG1OZnh1UUVqVS1QdmIyNU84SE5qRkRBQ2hGc0NSOE9FTVhpY0FLNVg5YnpNZnJVX0Y4OGRYUFIzWFM2LTBKTHpnVEpULWZ3bkRGZXdYUTkzVlNVTFBZWEhzdVhwMFN6U2s2dXMwOVhKdWFLRVU?oc=5",
+      "date": "2026-11-23",
+      "source": "Moomoo",
       "domains": [
         "semicon",
         "supplychain"
       ],
       "terms": [
-        "semi-process",
-        "euv",
-        "foundry-model",
-        "hbm",
-        "cleanroom"
+        "semi-process"
       ]
     },
     {
-      "title": "流体制御用水素ソレノイドバルブの世界市場（2026年～2032年）、市場規模（ノーマルクローズ型ソレノイドバルブ、ノーマルオープン型ソレノイドバルブ）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pbFFpUXI0RWVta25GTkJ3cUpPT2YwMTY0RUd3Q0JsTzYyekI4VlFmdFVveVVYWVV0ajdFQ0N0UkpHcGljVzFuVHh3WEpjXzg?oc=5",
-      "date": "2026-11-21",
-      "source": "Newscast.jp",
+      "title": "AIサーバーは冷やし過ぎてもダメ!? 日立が挑むデータセンターの新たな冷却技術",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wcHd5UG5zcmMwMEJYZHlpaW8waGxpSUZrLWNMWjJvcWVXbGRkMWk0bXZlakxLZW1WUlhjUnlIaFZITGdWUG1nNXlSaTI?oc=5",
+      "date": "2026-11-23",
+      "source": "DXマガジン",
       "domains": [
-        "energy-gx"
+        "datacenter-ai",
+        "power-market"
       ],
       "terms": [
-        "hydrogen"
+        "datacenter"
       ]
     },
     {
-      "title": "水素用ニードルバルブの世界市場（2026年～2032年）、市場規模（10 mm、14 mm、20 mm）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Vm8yMGtpLWt1SS11RnJfdkZpenJuOEE2TDFCZjc0NXJUVnFHNXRsZnhwZ0FubDRUcEtIejJrcTZlLUpsdjNRX0YySEJiMTg?oc=5",
-      "date": "2026-11-21",
-      "source": "アットプレス",
+      "title": "米中に出遅れても日本の勝機はある…半導体材料で世界シェア5割､｢AIの限界突破｣のカギを握る日本企業の名前",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TeURBaF81WE9XREVQMzd6N1hXQmJYZk9hUGVkdEVGZ3BXU0hhNlVpRnR1dWhKVDFHNlRWb2E2bnI4M2lBZXoyeTlsVUd1dk1fT2NOQmFLQlRwZ1JNMFlrV2U0TWxyOU43d1NiOW1mOTItNThqNVBFaFdHcTV1YlU?oc=5",
+      "date": "2026-11-22",
+      "source": "Yahoo!ニュース",
       "domains": [
-        "energy-gx"
+        "semicon",
+        "supplychain"
       ],
       "terms": [
-        "hydrogen"
+        "semi-process"
       ]
     },
     {
-      "title": "水素貯蔵タンク用バルブの世界市場（2026年～2032年）、市場規模（35 MPa、70 MPa、その他）・分析レポートを発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMaW52dlNRVlhlci1LcE9SQW5YbmdDVDVEZW5TdmEyV1pXNlJGMTR1eXhVWDN0SW1xMFFvTkJhdEFNdHpyNW9DLXRNSG5idms?oc=5",
-      "date": "2026-11-21",
-      "source": "アットプレス",
+      "title": "グリーン溶剤市場2035年予測：規制強化とバイオベース需要が拡大を後押し - ニュースと統計",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTJOaWNaYUlqelFNOUpzMTFjTWktMWh4bTdVbllJOHV6azgza3phaW1BTWJLY2Uxa3Y3cXhnMHRxOE1BX3M5Sk5lVXdjb1NlWWZXUmZvUTNXZGhNUUZxcV8zeW0wUVdnYzlEWkNLc3FPZXgwcHhTZEpDTHdpdFdPYU5GOF9JSDJ1TnlHXzVzVm9fZGFRcGQtWExSSWl2VDZhaExEdXRuM3ZPTnE0X1hqdlBWLVZmTnVoUElYMU04TW5wNXNJMHc?oc=5",
+      "date": "2026-11-22",
+      "source": "IndexBox",
       "domains": [
-        "energy-gx"
+        "env-chem"
       ],
       "terms": [
-        "hydrogen"
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
+      ]
+    },
+    {
+      "title": "国際貿易における貿易黒字の管理とリスク軽減のための計画。",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEttRFphUDZUbHR0bUczc3d3al9haDVqYTQwbUhEdUhDRXRDVEVsc3h2eWlPSFVOMHRQTVVqb0VMQnFWZ3gwbzhoXzB4U3NmZlBHQjVjeHBOVlVVWG50NHE0ZlpSOGRJaEljOFVfUnRReWE0azNDeHdSVE8tajR4Y2R4eVlEdWpIZUpYRkl3Z21KUEtjX3A5dWVldlJwSVZGOFNYcUpqNDliUVhGemxBUg?oc=5",
+      "date": "2026-11-22",
+      "source": "Vietnam.vn",
+      "domains": [
+        "supplychain"
+      ],
+      "terms": [
+        "econ-security",
+        "supply-risk",
+        "foundry-model"
+      ]
+    },
+    {
+      "title": "エヌビディア第3四半期決算でAI半導体需要への懸念後退、依然として3大リスクに直面：輸出審査、顧客の資金調達、CEO後継問題",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkFvRnI0azgtTzB1cllnMUl0a1B1WmRDM1BaSjhtT1d0VGs5aVNkY2lEOS11UXhnWWNNc1o1al9BTkUxOTlQeTJ0bWlNZkwwUEJMWlRuVFplRjR3S3Via3RzdDVmWDM4S1FZR1VQbzVWTndjVnQ0VjZPZndFWWJaSEpWQXBvNHlkOXlIYmdvQ3R1czNsX042emZGZmQ2NUdteUdjZC1pQVdfb3hqcHFKQ1RTd01OSV9GMjcydHpqTmZjTi1VaXdtNE5LTWVhUQ?oc=5",
+      "date": "2026-11-21",
+      "source": "TradingKey",
+      "domains": [
+        "supplychain",
+        "semicon"
+      ],
+      "terms": [
+        "semi-process"
       ]
     },
     {
@@ -146,33 +162,6 @@
         "voc",
         "sds-ghs",
         "prtr"
-      ]
-    },
-    {
-      "title": "医療用品：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpSWUxT2RLMnJ1UTJsV2N4YXQ5S1BWY0dzckVZZ3YzdF9jZU9KcHpwQkxiU0hZbmVNekNlanRaYnlXMk1fOHZCQldqX0FYUVU?oc=5",
-      "date": "2026-11-20",
-      "source": "アットプレス",
-      "domains": [
-        "env-chem"
-      ],
-      "terms": [
-        "pfas",
-        "voc",
-        "sds-ghs",
-        "prtr"
-      ]
-    },
-    {
-      "title": "【水素リ・スキリング教育プログラム】企業向けオンライン説明会",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxN0R5Ql9lbm0tb2VfZkRHOFRQbklqLWlPM2pxbUR6UzNsSjBlWHlwSzF2Ym1oUHFzLXktTmx3ODZOX1pTaGdxT1hyX3ZrMzM2b010XzFFai1oUQ?oc=5",
-      "date": "2026-11-20",
-      "source": "九州大学",
-      "domains": [
-        "energy-gx"
-      ],
-      "terms": [
-        "hydrogen"
       ]
     },
     {
@@ -255,20 +244,7 @@
       ]
     },
     {
-      "title": "73％がグリーン電力、しかも「レゴブロック」を組むように100日でデータセンターを完成させるアリババの離れ業",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OOEZZSmRTVU13azlOcFh1QWNFYVZXTjN0QmNYM0tfX0JRXy1TSGhuMnoxeFgwXzhwdU9ManN6R0RTNHppalYzWUdvWGdlWFVTTmUtNlJB?oc=5",
-      "date": "2026-11-19",
-      "source": "JBpress",
-      "domains": [
-        "datacenter-ai",
-        "power-market"
-      ],
-      "terms": [
-        "datacenter"
-      ]
-    },
-    {
-      "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
+      "title": "米AI半導体輸出規制に矛盾、中国軍事企業に87万9000個超承認",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
       "date": "2026-11-19",
       "source": "조선일보",
@@ -296,10 +272,10 @@
       ]
     },
     {
-      "title": "【事後レポート】製造業243社へのアンケート調査の公開と、明らかになった課題を解決する新サービス「スマートSDSコネクト」発表会",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84NHFwcWZGSFBLMXVjZGlBRzNfS1FrcF9Ub0ZxRmg0bEtrSUp1dkliZmx6QkVIa2I3czhmVEJScUFmYmtXOHoyQjdfc3NwRXpnWFhxYVRvdWhSUUlkUUQ1c0ZrQTB4M1FPWGc?oc=5",
+      "title": "化学物質管理ソフトのダイナゴン、SDS管理機能を拡充・更新依頼をオンライン化。鉄鋼業界の規制対応負荷軽減（鉄鋼新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52VlNSSFlsREVJMUJwSDcyXzFzckFiWHdOekN0UXJkTFg2T051SFRhT1FVSW5aMGFYeV8wNEUydnd3bVhvYURUeVZIY2lQbGhSOC0zbjlidHNXalJ0XzAwT2xWTGdVVHRiM2RsRWFxcENMUTdQYkdiZmJuUGs1NjA?oc=5",
       "date": "2026-11-18",
-      "source": "PR TIMES",
+      "source": "Yahoo!ニュース",
       "domains": [
         "env-chem"
       ],
@@ -308,16 +284,15 @@
       ]
     },
     {
-      "title": "【北京観察】米政府がAI半導体規制を5カ国へ拡大、中国の海外演算力確保も制限 | 田暢（デン・チヨウ） | ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2V1NpQjlJeDBHaDRhbTl3NF9SWFRwamZ5dFdkeWxPajBpZU1mS2ZIN3VnRVNQU0E5UmNWbnJnZXZwdE9vdlNxYmFPLU1MRTct?oc=5",
+      "title": "過酸化水素産業動向：2026年から2033年にかけて年平均成長率7.3%の包括的市场調査",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qUHhEaHZXbjRhSUFmSGtUeGhyTzg3Y2k3V2NlMmU1c0ZxenBwczlUWnBxLTRUTTVHQmQ0bFJGaEFwYUhEZEtPZU9n?oc=5",
       "date": "2026-11-18",
-      "source": "風傳媒日本語版",
+      "source": "pando.life",
       "domains": [
-        "supplychain",
-        "semicon"
+        "energy-gx"
       ],
       "terms": [
-        "semi-process"
+        "hydrogen"
       ]
     },
     {
@@ -335,22 +310,9 @@
       ]
     },
     {
-      "title": "エヌビディア第3四半期決算でAI半導体需要への懸念後退、依然として3大リスクに直面：輸出審査、顧客の資金調達、CEO後継問題",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkFvRnI0azgtTzB1cllnMUl0a1B1WmRDM1BaSjhtT1d0VGs5aVNkY2lEOS11UXhnWWNNc1o1al9BTkUxOTlQeTJ0bWlNZkwwUEJMWlRuVFplRjR3S3Via3RzdDVmWDM4S1FZR1VQbzVWTndjVnQ0VjZPZndFWWJaSEpWQXBvNHlkOXlIYmdvQ3R1czNsX042emZGZmQ2NUdteUdjZC1pQVdfb3hqcHFKQ1RTd01OSV9GMjcydHpqTmZjTi1VaXdtNE5LTWVhUQ?oc=5",
-      "date": "2026-11-17",
-      "source": "TradingKey",
-      "domains": [
-        "supplychain",
-        "semicon"
-      ],
-      "terms": [
-        "semi-process"
-      ]
-    },
-    {
-      "title": "配管用ねじシール剤市場の2035年予測：老朽インフラの保守と工業安全規制の遵守が成長を牽引",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcnNyQmJmNEpsY3hGS2MzSTVCczlqaXZTbFN5ME9Qb0gyZGQzX3g5QVNWRThLU2VLS2VCRTdUSkNVQTdYR1ZqLXl6UHNQWURwWUFycE16TS1kT1VLZUpnUTF1ZmhGTEMyNndqekZ5anhSbGtDTnBiWmE5RlZ6STQwMXNNR1B0eTFaRF80MEl2ekNnWFBBbU1oaHZ2NUt3TVNLNEUwV2ZrLWFnbEVCdWRwWVplU21zaTNKWlRuVDhYcmlJUlZGakxpUlNqVHlRWkhSNENWYm5pc0VJWDMyWjJob0lOUEZfd3RLd01MdUpvZGc5UQ?oc=5",
-      "date": "2026-11-15",
+      "title": "建築用接着剤・シーリング材市場2035年予測：グリーン改修とインフラが成長を牽引 - ニュースと統計",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNczNJdXMxMS12SGNNNkhwVGNfa1l4UXl6OTNMNHlBQzlJWjEwYlZucDJiRDlJR1RTbGo5VWJVaDdGSEFocHBxdWtHc2RISmxhOTFFcTkyZ2FfME51dVhVb05qbE9uUjB6ZzJkWV9OS3lpU0FyYUJ4Y2lQS0dFRkctQ2NnTWpNanViVDhXQVRTb3RjWFphRVo0Y3ZCM0ZRWUh2Yzh0enhiT1owWXp0bm1MSnlxQTNTbFh2NDNOZmlfMEZQMEwxeFBQaXR2TlhObmsxWHUtdE9HXzVHZElNVXpheHNVVUFtUkdOWnNJ?oc=5",
+      "date": "2026-11-16",
       "source": "IndexBox",
       "domains": [
         "env-chem"
@@ -363,15 +325,30 @@
       ]
     },
     {
-      "title": "日本は全固体電池で覇権を取れるのか、LFP電池の歴史が示す教訓",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TZjdiNnBRWEhwNHpHYnhWdjcxek14d01EVnZoa1ROcjlmNmpueGgzdHd3Y3BIV1hUcWVXZ0RRMUN1bzVWTmhaMDJJT1I5TmI2Y25yZ2RCR2QtY1NxeHNhc3NBTHZsSzN6d2QtRTR3T2lOSHhkcXYtWGhB?oc=5",
-      "date": "2026-11-13",
-      "source": "日経BP",
+      "title": "日本の過酸化水素市場、2034年までに3億3400万米ドルに達する見通し ― 産業用途の拡大と持続可能な化学ソリューションへの需要増加が牽引",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5bmdiTk45NnBYWkNhRHZhQURScmtvSDFOeVFmcGxVMC1NNnB0dllZMWpod0lZeVF3a3lFQTlGVENCdE5LMlExM1VENmQ5ZlE?oc=5",
+      "date": "2026-11-16",
+      "source": "Newscast.jp",
       "domains": [
-        "battery-mobility"
+        "energy-gx"
       ],
       "terms": [
-        "solid-state"
+        "hydrogen"
+      ]
+    },
+    {
+      "title": "日本の先端洗浄化学品市場：規模、動向、2035年までの予測",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmpWQ3l0NEs1UUZ3Z0ozVGRieW1iVkI2SXlhMDJqUy1nZjloNVl3RXdnOWxKUWszSGh4TFpQdWtrZ1JJUWFaSGFDQ1dINDBCclUtX21Tc3psY0Z0cHBlei00T0tDSm92cnlkbnJPU2ZTRy16c1haTklEVEpFQl9pWEpZWlBLTm5sMVVSd1NQNVd5WlN3Mi1KcmxRcG5Lc3dDb20zRk5BaXVtUE5nYW11V0tQa0NSY1JBSG9F?oc=5",
+      "date": "2026-11-15",
+      "source": "IndexBox",
+      "domains": [
+        "env-chem"
+      ],
+      "terms": [
+        "pfas",
+        "voc",
+        "sds-ghs",
+        "prtr"
       ]
     }
   ]
